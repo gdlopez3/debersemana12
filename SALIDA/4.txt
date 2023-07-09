@@ -1,0 +1,3020 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: https://ogp.me/ns#" data-bt-theme="Hotelcalifornia 1.1.8">
+<head>
+
+<meta name="theme-color" content="#111">
+
+<meta name="msapplication-navbutton-color" content="#111">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="#111">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes"><link rel="alternate" hreflang="en" href="https://www.casagangotena.com" />
+<link rel="alternate" hreflang="es" href="https://www.casagangotena.com/es/" />
+<link rel="alternate" hreflang="x-default" href="https://www.casagangotena.com" />
+
+<title>Casa Gangotena Boutique Hotel In Quito</title>
+<meta name="description" content="Stay in Quito&#039;s Old Town&#039;s best boutique hotel with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor." />
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+<link rel="canonical" href="https://www.casagangotena.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Casa Gangotena Hotel Boutique In Quito | Official Site" />
+<meta property="og:description" content="Stay in Quito&#039;s Old Town&#039;s best hotel boutique with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor." />
+<meta property="og:url" content="https://www.casagangotena.com/" />
+<meta property="og:site_name" content="Casa Gangotena" />
+<meta property="og:updated_time" content="2023-01-21T14:43:53-05:00" />
+<meta property="og:image" content="https://www.casagangotena.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=15767&type=play&hash=f9b73775b29f1110a8f1f266ef1d3671" />
+<meta property="og:image:secure_url" content="https://www.casagangotena.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=15767&type=play&hash=f9b73775b29f1110a8f1f266ef1d3671" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="775" />
+<meta property="og:image:alt" content="Casa Gangotena Family Room with a View" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2018-08-14T22:05:15-05:00" />
+<meta property="article:modified_time" content="2023-01-21T14:43:53-05:00" />
+<meta property="og:video" content="https://www.youtube.com/embed/bqgis8B7xf4" />
+<meta property="video:duration" content="106" />
+<meta property="og:video" content="https://static.casagangotena.com/wp-content/uploads/2023/01/21143741/Casa_Gangotena_Anniversary.mp4" />
+<meta property="ya:ovs:upload_date" content="2021-10-20" />
+<meta property="ya:ovs:allow_embed" content="true" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Casa Gangotena Hotel Boutique In Quito | Official Site" />
+<meta name="twitter:description" content="Stay in Quito&#039;s Old Town&#039;s best hotel boutique with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor." />
+<meta name="twitter:image" content="https://www.casagangotena.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=15767&type=play&hash=f9b73775b29f1110a8f1f266ef1d3671" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Christopher Klassen" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="12 minutes" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Hotel","Organization"],"@id":"https://www.casagangotena.com/#organization","name":"Casa Gangotena","url":"https://www.casagangotena.com/","logo":{"@type":"ImageObject","@id":"https://www.casagangotena.com/#logo","url":"https://static.casagangotena.com/wp-content/uploads/2018/08/par_quito.jpg","contentUrl":"https://static.casagangotena.com/wp-content/uploads/2018/08/par_quito.jpg","caption":"Casa Gangotena","inLanguage":"en-US","width":"1920","height":"1200"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://www.casagangotena.com/#logo"}},{"@type":"WebSite","@id":"https://www.casagangotena.com/#website","url":"https://www.casagangotena.com","name":"Casa Gangotena","publisher":{"@id":"https://www.casagangotena.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.casagangotena.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://static.casagangotena.com/wp-content/uploads/2019/09/casa-gangotena-family-room-view.jpg","url":"https://static.casagangotena.com/wp-content/uploads/2019/09/casa-gangotena-family-room-view.jpg","width":"1920","height":"775","caption":"Casa Gangotena Family Room with a View","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.casagangotena.com/#webpage","url":"https://www.casagangotena.com/","name":"Casa Gangotena Boutique Hotel In Quito","datePublished":"2018-08-14T22:05:15-05:00","dateModified":"2023-01-21T14:43:53-05:00","about":{"@id":"https://www.casagangotena.com/#organization"},"isPartOf":{"@id":"https://www.casagangotena.com/#website"},"primaryImageOfPage":{"@id":"https://static.casagangotena.com/wp-content/uploads/2019/09/casa-gangotena-family-room-view.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.casagangotena.com/#author","name":"Christopher Klassen","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/7d6035ca197b43a32a838cad7c87cae4?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/7d6035ca197b43a32a838cad7c87cae4?s=96&amp;d=mm&amp;r=g","caption":"Christopher Klassen","inLanguage":"en-US"},"worksFor":{"@id":"https://www.casagangotena.com/#organization"}},{"headline":"Casa Gangotena Boutique Hotel In Quito","description":"Stay in Quito&#039;s Old Town&#039;s best boutique hotel with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor.","datePublished":"2018-08-14T22:05:15-05:00","dateModified":"2023-01-21T14:43:53-05:00","image":{"@id":"https://static.casagangotena.com/wp-content/uploads/2019/09/casa-gangotena-family-room-view.jpg"},"author":{"@id":"https://www.casagangotena.com/#author","name":"Christopher Klassen"},"@type":"Article","name":"Casa Gangotena Boutique Hotel In Quito","subjectOf":[{"@type":"FAQPage","name":"Casa Gangotena Boutique Hotel In Quito","url":"https://www.casagangotena.com/","datePublished":"2018-08-14T22:05:15-05:00","dateModified":"2023-01-21T14:43:53-05:00","mainEntity":[{"@type":"Question","name":"Where is Casa Gangotena located?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"At the top northwestern corner of South America, the Sierra region of the Republic of Ecuador hosts the continent\u2019s best-preserved Historic Quarter in the country\u2019s capital city, Quito. At the very heart of the Old Town, a grand mansion-turned exclusive hotel flanks one of the most renowned squares, Plaza San Francisco. Welcome to <strong>Casa Gangotena Boutique Hotel</strong>. See our location <a href=\"https://www.google.com/maps/place/Casa+Gangotena+Hotel+Boutique/@-0.2211899,-78.5154006,15z/data=!4m8!3m7!1s0x0:0x565d6cd396900515!5m2!4m1!1i1!8m2!3d-0.2211899!4d-78.5154006\">here</a>."}},{"@type":"Question","name":"How do I get to Casa Gangotena?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"Daily and regular flights connect Quito with major cities in South and Central America, North America (via Miami, New York, Houston, and Atlanta), and Europe (direct from Madrid and Amsterdam). The hotel is around an hour\u2019s drive from Quito International Airport. We can arrange airport transfers at an additional cost. Please contact our front desk for more information, at (+593 9)9 714 6787. <a href=\"https://www.casagangotena.com/quito-frequently-asked-questions/\">More information</a>"}},{"@type":"Question","name":"What sets us apart?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"Casa Gangotena merges the grandeur of centuries past with the modernity of luxury tourism to bring an authentic experience of the living, breathing museum that is Colonial Quito. As the only Relais &amp; Chateaux <a href=\"https://www.casagangotena.com/our-hotel/\">hotel</a> in the city, it leads guests through a variety of private activities. Its culinary experience is aptly named <em>Cocina Mestiza</em>, given that the <em>Sierra</em> region is a blend of urban lifestyle and aboriginal traditions."}},{"@type":"Question","name":"How many nights are recommended for a stay at Casa Gangotena?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"When in the heart of Quito\u2019s Historic Quarter, with a range of private tours and unique <a href=\"https://www.casagangotena.com/quito/\">activities</a> at your fingertips, you ought to stay for longer than a few hours or even half a day. Because we want to help you experience true <em>quite\u00f1o</em> lifestyle, we recommend you spend at least one night in Quito. That will give you a full day to see and do as much as possible!"}},{"@type":"Question","name":"How much does a stay in Casa Gangotena cost?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"We have an assortment of rooms and suites across all three floors of this former mansion, to accommodate solo travelers, couples, friend groups, and families. You can take your pick between having a garden or plaza view and whether to have a balcony. See our rates <a href=\"https://www.casagangotena.com/rooms-suites/\">here</a>."}},{"@type":"Question","name":"Does Casa Gangotena offer seasonal deals or tour packages?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"Yes! We have <a href=\"https://www.casagangotena.com/special-offers/\">special offers</a> for this year and the next, plus two tour packages that combine the Relais &amp; Chateaux experience with, not one, but two National Geographic Unique Lodges of the World\u2122: Mashpi Lodge and the Finch Bay Galapagos Hotel."}},{"@type":"Question","name":"Where can I find additional information?","url":"https://www.casagangotena.com/","image":"https://static.casagangotena.com/wp-content/uploads/2019/04/tapas-cocktails-friends-terrace-casa-gangotena.jpg","acceptedAnswer":{"@type":"Answer","text":"We have many helpful articles over on our blog covering all things traveling to Ecuador, staying in Quito, and visiting its Historic Center. You can also learn more about Casa Gangotena\u2019s history and guest-exclusive activities. See our blog <a href=\"https://www.casagangotena.com/blog/\">here</a>."}}]}],"@id":"https://www.casagangotena.com/#schema-315890","isPartOf":{"@id":"https://www.casagangotena.com/#webpage"},"publisher":{"@id":"https://www.casagangotena.com/#organization"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.casagangotena.com/#webpage"}},{"@type":"VideoObject","name":"Casa Gangotena&#039;s 10th Anniversary","description":"Stay in Quito&#039;s Old Town&#039;s best boutique hotel with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor.","uploadDate":"2021-10-20","thumbnailUrl":"https://static.casagangotena.com/wp-content/uploads/2022/07/13203547/maxresdefault.jpg","embedUrl":"https://www.youtube.com/embed/bqgis8B7xf4","duration":"PT1M46S","width":"1280","height":"720","isFamilyFriendly":"True","@id":"https://www.casagangotena.com/#schema-315891","isPartOf":{"@id":"https://www.casagangotena.com/#webpage"},"publisher":{"@id":"https://www.casagangotena.com/#organization"},"inLanguage":"en-US"},{"@type":"VideoObject","name":"Casa Gangotena Boutique Hotel In Quito","description":"Stay in Quito&#039;s Old Town&#039;s best boutique hotel with all the travel safety measures. 6th Best Hotel in the World by TripAdvisor.","uploadDate":"2018-08-14T22:05:15-05:00","thumbnailUrl":"https://static.casagangotena.com/wp-content/uploads/2019/09/casa-gangotena-family-room-view.jpg","contentUrl":"https://static.casagangotena.com/wp-content/uploads/2023/01/21143741/Casa_Gangotena_Anniversary.mp4","width":"1280","height":"720","isFamilyFriendly":"True","@id":"https://www.casagangotena.com/#schema-330306","isPartOf":{"@id":"https://www.casagangotena.com/#webpage"},"publisher":{"@id":"https://www.casagangotena.com/#organization"},"inLanguage":"en-US"}]}</script>
+
+<link rel='dns-prefetch' href='//a.omappapi.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//static.casagangotena.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel="alternate" type="application/rss+xml" title="Casa Gangotena &raquo; Feed" href="https://www.casagangotena.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Casa Gangotena &raquo; Comments Feed" href="https://www.casagangotena.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.casagangotena.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pt-cv-public-style-css' href='https://www.casagangotena.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=3.0.4' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='wp-block-library-css' href='https://www.casagangotena.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='paperform_block-style-css-css' href='https://www.casagangotena.com/wp-content/plugins/paperform-form-builder/dist/blocks.style.build.css' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='classic-theme-styles-css' href='https://www.casagangotena.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-blocks-css' href='https://www.casagangotena.com/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.4' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='bwg_fonts-css' href='https://www.casagangotena.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='sumoselect-css' href='https://www.casagangotena.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.4.6' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='mCustomScrollbar-css' href='https://www.casagangotena.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=3.1.5' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='bwg_googlefonts-css' href='https://fonts.googleapis.com/css?family=Ubuntu&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='bwg_frontend-css' href='https://www.casagangotena.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.8.16' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='theme.css-css' href='https://www.casagangotena.com/wp-content/plugins/popup-builder/public/css/theme.css?ver=4.1.14' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='widgetopts-styles-css' href='https://www.casagangotena.com/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='emo-style-css' href='https://www.casagangotena.com/wp-content/plugins/wp-emoticon-rating/css/style.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://www.casagangotena.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='wpml-menu-item-0-css' href='https://www.casagangotena.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='cmplz-general-css' href='https://www.casagangotena.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=6.5.0' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='rplg-css-css' href='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/css/rplg.css?ver=1.4.1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='swiper-css-css' href='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/css/swiper.min.css?ver=1.4.1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='megamenu-css' href='https://static.casagangotena.com/wp-content/uploads/maxmegamenu/style_en.css?ver=f27719' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='dashicons-css' href='https://www.casagangotena.com/wp-includes/css/dashicons.min.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='megamenu-google-fonts-css' href='//fonts.googleapis.com/css?family=Hind+Siliguri%3A400%2C700&#038;ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='megamenu-genericons-css' href='https://www.casagangotena.com/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.2.8' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='megamenu-fontawesome-css' href='https://www.casagangotena.com/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.2.8' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='megamenu-fontawesome5-css' href='https://www.casagangotena.com/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.2.8' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='cms-navigation-style-base-css' href='https://www.casagangotena.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.5.5' type='text/css' media='screen' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='cms-navigation-style-css' href='https://www.casagangotena.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.5.5' type='text/css' media='screen' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='boldthemes_style_css-css' href='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/style.crush.min.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><style id='boldthemes_style_css-inline-css' type='text/css'>
+input:not([type='checkbox']):not([type='radio']):not([type='submit']):not([type='button']),textarea,select{font-family:Roboto;}
+input:not([type='checkbox']):not([type='radio']):not([type='submit']):focus:not([type='button']):focus,textarea:not([type='checkbox']):not([type='radio']):focus{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;}
+.btLightSkin input:not([type='checkbox']):not([type='radio']):not([type='submit']):focus:not([type='button']):focus,.btDarkSkin .btLightSkin input:not([type='checkbox']):not([type='radio']):not([type='submit']):focus:not([type='button']):focus,.btLightSkin textarea:not([type='checkbox']):not([type='radio']):focus,.btDarkSkin .btLightSkin textarea:not([type='checkbox']):not([type='radio']):focus{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;}
+a:hover{color:#dfc387;}
+dt{font-family:Lato;}
+dd{font-family:Lato;}
+select,input{font-family:Roboto;}
+body{font-family:"Roboto",Arial,sans-serif;}
+h1,h2,h3,h4,h5,h6{font-family:"Roboto";}
+.btDarkSkin .btHeadlineAccentColor h1,.btDarkSkin .btHeadlineAccentColor h2,.btDarkSkin .btHeadlineAccentColor h3,.btDarkSkin .btHeadlineAccentColor h4,.btDarkSkin .btHeadlineAccentColor h5,.btDarkSkin .btHeadlineAccentColor h6,.btLightSkin .btDarkSkin .btHeadlineAccentColor h1,.btLightSkin .btDarkSkin .btHeadlineAccentColor h2,.btLightSkin .btDarkSkin .btHeadlineAccentColor h3,.btLightSkin .btDarkSkin .btHeadlineAccentColor h4,.btLightSkin .btDarkSkin .btHeadlineAccentColor h5,.btLightSkin .btDarkSkin .btHeadlineAccentColor h6,.btLightSkin .btHeadlineAccentColor h1,.btLightSkin .btHeadlineAccentColor h2,.btLightSkin .btHeadlineAccentColor h3,.btLightSkin .btHeadlineAccentColor h4,.btLightSkin .btHeadlineAccentColor h5,.btLightSkin .btHeadlineAccentColor h6,.btDarkSkin .btLightSkin .btHeadlineAccentColor h1,.btDarkSkin .btLightSkin .btHeadlineAccentColor h2,.btDarkSkin .btLightSkin .btHeadlineAccentColor h3,.btDarkSkin .btLightSkin .btHeadlineAccentColor h4,.btDarkSkin .btLightSkin .btHeadlineAccentColor h5,.btDarkSkin .btLightSkin .btHeadlineAccentColor h6{color:#dfc387;}
+.btDarkSkin .btHeadlineAlternateColor h1,.btDarkSkin .btHeadlineAlternateColor h2,.btDarkSkin .btHeadlineAlternateColor h3,.btDarkSkin .btHeadlineAlternateColor h4,.btDarkSkin .btHeadlineAlternateColor h5,.btDarkSkin .btHeadlineAlternateColor h6,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h1,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h2,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h3,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h4,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h5,.btLightSkin .btDarkSkin .btHeadlineAlternateColor h6,.btLightSkin .btHeadlineAlternateColor h1,.btLightSkin .btHeadlineAlternateColor h2,.btLightSkin .btHeadlineAlternateColor h3,.btLightSkin .btHeadlineAlternateColor h4,.btLightSkin .btHeadlineAlternateColor h5,.btLightSkin .btHeadlineAlternateColor h6,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h1,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h2,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h3,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h4,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h5,.btDarkSkin .btLightSkin .btHeadlineAlternateColor h6{color:#232323;}
+.btPreloader .animation .preloaderLogo{height:60px;}
+.btAccentColorBackground{background-color:#dfc387!important;}
+.mainHeader:not(.gutter)>.port{padding:0 0px;}
+.btLightSkin.btMenuBelowLogo,.btLightSkin.btMenuBelowLogo .btLogoArea.menuHolder,.btDarkSkin.btMenuBelowLogo .btLightSkin .btLogoArea.menuHolder{border-bottom:1px solid #232323;}
+.menuPort{font-family:"Montserrat";}
+.btTextLogo{line-height:60px;}
+.btLogoArea .logo img{height:60px;}
+.btHorizontalMenuTrigger{line-height:60px;width:60px;-webkit-box-shadow:0 0 0 0 #dfc387 inset,0 0 0 transparent;box-shadow:0 0 0 0 #dfc387 inset,0 0 0 transparent;}
+.btLightSkin .btHorizontalMenuTrigger:hover,.btDarkSkin .btLightSkin .btHorizontalMenuTrigger:hover{-webkit-box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;}
+.btDarkSkin .btHorizontalMenuTrigger:hover,.btLightSkin .btDarkSkin .btHorizontalMenuTrigger:hover{-webkit-box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;}
+.btMenuHorizontal .menuPort nav>ul>li:after{-webkit-box-shadow:0 0 0 0 #dfc387 inset;box-shadow:0 0 0 0 #dfc387 inset;}
+.btMenuHorizontal .menuPort nav>ul>li.on:after{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.btMenuHorizontal .menuPort nav>ul>li>ul li.current-menu-ancestor>a,.btMenuHorizontal .menuPort nav>ul>li>ul li.current-menu-item>a{color:#dfc387!important;}
+.btMenuHorizontal .menuPort nav>ul>li>ul li:after{-webkit-box-shadow:0 0 0 0 #dfc387 inset;box-shadow:0 0 0 0 #dfc387 inset;}
+.btMenuHorizontal .menuPort nav>ul>li>ul li.on:after,.btMenuHorizontal .menuPort nav>ul>li>ul li.current-menu-item:after{-webkit-box-shadow:0 0 0 5px #dfc387 inset;box-shadow:0 0 0 5px #dfc387 inset;}
+.btDarkSkin .menuPort ul>li>ul>li>a,.btLightSkin .btDarkSkin .menuPort ul>li>ul>li>a{color:#232323;}
+.btDarkSkin .menuPort ul>li>ul>li.on>a,.btLightSkin .btDarkSkin .menuPort ul>li>ul>li.on>a{color:#dfc387;}
+.btLightSkin .menuPort ul>li a,.btDarkSkin .btLightSkin .menuPort ul>li a{color:#232323;}
+.btLightSkin .menuPort ul>li.on>a,.btDarkSkin .btLightSkin .menuPort ul>li.on>a{color:#dfc387;}
+.btLightSkin .menuPort ul>li>ul>li>a,.btDarkSkin .btLightSkin .menuPort ul>li>ul>li>a{color:#232323;}
+.btLightSkin .menuPort ul>li>ul>li.on>a,.btDarkSkin .btLightSkin .menuPort ul>li>ul>li.on>a{color:#dfc387;}
+.btMenuVertical nav li.current-menu-ancestor>a,.btMenuVertical nav li.current-menu-item>a{color:#dfc387!important;}
+.subToggler{line-height:60px;}
+.btLightSkin .subToggler,.btDarkSkin .btLightSkin .subToggler{color:#232323;}
+.subToggler:before{font:normal 32px/60px Icon7Stroke;}
+.btLightSkin .menuPort ul ul .subToggler,.btDarkSkin .btLightSkin .menuPort ul ul .subToggler{color:#232323;}
+.btDarkSkin .menuPort ul ul .subToggler,.btLightSkin .btDarkSkin .menuPort ul ul .subToggler{color:#232323;}
+.on>.subToggler{color:#dfc387;}
+body.btMenuHorizontal .logo{margin-left:-0px;}
+body.btMenuHorizontal .menuPort ul ul{font-family:Roboto;}
+body.btMenuHorizontal .menuPort ul ul:after{background-color:#dfc387;}
+body.btMenuHorizontal:not(.btMenuBelowLogo) .menuPort nav>ul>li>ul{top:60px;}
+body.btMenuHorizontal .menuPort>nav>ul>li.btMenuWideDropdown>ul>li>a{border-bottom:1px solid #dfc387;}
+.btMenuHorizontal .mainHeader>.port:before{background-color:#dfc387;}
+.btMenuHorizontal:not(.btMenuBelowLogo) .topBarInMenu{height:60px;}
+.btMenuHorizontal:not(.btMenuBelowLogo) .menuPort nav>ul>li>a{line-height:60px;}
+body.btMenuHorizontal.btHideMenu .btShowMenu .btHorizontalMenuTrigger span.btIco a.btIcoHolder:before{color:#dfc387;}
+.btVerticalMenuTrigger{line-height:60px;width:60px;-webkit-box-shadow:0 0 0 0 #dfc387 inset,0 0 0 transparent;box-shadow:0 0 0 0 #dfc387 inset,0 0 0 transparent;}
+.btLightSkin .btVerticalMenuTrigger:hover,.btDarkSkin .btLightSkin .btVerticalMenuTrigger:hover,.btLightSkin.btMenuVerticalOn .btVerticalMenuTrigger,.btDarkSkin.btMenuVerticalOn .btLightSkin .btVerticalMenuTrigger{-webkit-box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;}
+.btDarkSkin .btVerticalMenuTrigger:hover,.btLightSkin .btDarkSkin .btVerticalMenuTrigger:hover,.btDarkSkin.btMenuVerticalOn .btVerticalMenuTrigger,.lightSkin.btMenuVerticalOn .btDarkSkin .btVerticalMenuTrigger{-webkit-box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;box-shadow:0 0 0 60px #dfc387 inset,0 0 0 1px #fff;}
+body.btMenuVertical ul ul li.on .subToggler{color:#dfc387!important;}
+.btLightSkin.btMenuVertical>.menuPort .btCloseVertical:before,.btDarkSkin .btLightSkin.btMenuVertical>.menuPort .btCloseVertical:before{color:#dfc387;}
+.btIconWidget .btIconWidgetTitle{font-family:Roboto;}
+.btLightSkin .btIconWidget .btIconWidgetTitle,.btDarkSkin .btLightSkin .btIconWidget .btIconWidgetTitle{color:#232323;}
+.btIconWidget .btIconWidgetText{font-family:Roboto;}
+.btLightSkin .btIconWidget .btIconWidgetText,.btDarkSkin .btLightSkin .btIconWidget .btIconWidgetText{color:#dfc387;}
+.btLightSkin .btIconWidget .btIco.btIcoDefaultColor span,.btDarkSkin .btLightSkin .btIconWidget .btIco.btIcoDefaultColor span,.btLightSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,.btDarkSkin .btLightSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before{color:#232323;}
+.btLightSkin .btIconWidget .btIco.btIcoDefaultColor:hover span,.btDarkSkin .btLightSkin .btIconWidget .btIco.btIcoDefaultColor:hover span,.btLightSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btDarkSkin .btLightSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before{color:#dfc387;}
+.btDarkSkin .btIconWidget .btIco.btIcoDefaultColor:hover span,.btLightSkin .btDarkSkin .btIconWidget .btIco.btIcoDefaultColor:hover span,.btDarkSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btLightSkin .btDarkSkin .btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before{color:#dfc387;}
+.btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultColor span,.btDarkSkin .btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultColor span,.btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before,.btDarkSkin .btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor .btIcoHolder:before{color:#dfc387;}
+.btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultColor:hover span,.btDarkSkin .btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultColor:hover span,.btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btDarkSkin .btLightSkin .btSpecialHeaderIcon.btIconWidget .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before{color:#232323;}
+.btMenuHorizontal .topBarInLogoArea{height:60px;}
+.btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell{border:0 solid #dfc387;}
+.btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetTitle{font-family:Montserrat;}
+.btMenuHorizontal .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetText{font-family:Roboto;}
+.btLightSkin .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetTitle,.btDarkSkin .btLightSkin .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetTitle{color:#232323;}
+.btLightSkin .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetText,.btDarkSkin .btLightSkin .topBarInLogoArea .topBarInLogoAreaCell .btIconWidgetText{color:#dfc387;}
+.btMenuVertical .topBarInLogoArea .btIconWidgetTitle{font-family:Montserrat;}
+.btMenuVertical .topBarInLogoArea .btIconWidgetText{font-family:Roboto;}
+.topBar .widget_search input[type="text"],.topBarInMenu .widget_search input[type="text"]{font-family:Roboto;}
+.btLightSkin .topBar .widget_search input[type="text"],.btLightSkin .topBarInMenu .widget_search input[type="text"],.btDarkSkin .btLightSkin .topBar .widget_search input[type="text"],.btDarkSkin .btLightSkin .topBarInMenu .widget_search input[type="text"]{color:#232323;}
+.btLightSkin .topBar .widget_search input[type="text"]:hover,.btLightSkin .topBarInMenu .widget_search input[type="text"]:hover,.btDarkSkin .btLightSkin .topBar .widget_search input[type="text"]:hover,.btDarkSkin .btLightSkin .topBarInMenu .widget_search input[type="text"]:hover,.btLightSkin .topBar .widget_search input[type="text"]:focus,.btLightSkin .topBarInMenu .widget_search input[type="text"]:focus,.btDarkSkin .btLightSkin .topBar .widget_search input[type="text"]:focus,.btDarkSkin .btLightSkin .topBarInMenu .widget_search input[type="text"]:focus{-webkit-box-shadow:0 -1px 0 0 #232323 inset!important;box-shadow:0 -1px 0 0 #232323 inset!important;}
+.btLightSkin .topBar .widget_search button,.btLightSkin .topBarInMenu .widget_search button,.btDarkSkin .btLightSkin .topBar .widget_search button,.btDarkSkin .btLightSkin .topBarInMenu .widget_search button{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;color:#dfc387;}
+.btLightSkin .topBar .widget_search button:hover,.btLightSkin .topBarInMenu .widget_search button:hover,.btDarkSkin .btLightSkin .topBar .widget_search button:hover,.btDarkSkin .btLightSkin .topBarInMenu .widget_search button:hover{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.btDarkSkin .topBar .widget_search button:hover,.btDarkSkin .topBarInMenu .widget_search button:hover,.btLightSkin .btDarkSkin .topBar .widget_search button:hover,.btLightSkin .btDarkSkin .topBarInMenu .widget_search button:hover{color:#dfc387;}
+.btSearchInner.btFromTopBox{background:#cfa54b;}
+.btSearchInner.btFromTopBox button:before{color:#dfc387;}
+.btSiteFooterWidgets .port{border-top:4px solid #dfc387;}
+.btSiteFooterWidgets .btIconWidgetTitle{font-family:Montserrat;}
+.btSiteFooterWidgets .btIconWidgetText{font-family:Roboto;}
+.btLightSkin .btSiteFooterWidgets .btIconWidgetTitle,.btDarkSkin .btLightSkin .btSiteFooterWidgets .btIconWidgetTitle{color:#232323;}
+.btLightSkin .btSiteFooterWidgets .btIconWidgetText,.btDarkSkin .btLightSkin .btSiteFooterWidgets .btIconWidgetText{color:#dfc387;}
+.btSiteFooter .copyLine{font-family:Lato;}
+.btSiteFooter .menu{font-family:Lato;}
+.btLightSkin footer.btDarkSkin,.btDarkSkin .btLightSkin footer.btDarkSkin{background:#232323;}
+.btLightSkin .btSiteFooterWidgets h4,.btDarkSkin .btLightSkin .btSiteFooterWidgets h4{color:#dfc387;}
+.btLightSkin .btSiteFooter,.btDarkSkin .btLightSkin .btSiteFooter{background:#232323;}
+footer.btDarkSkin{background:#232323;}
+.btDarkSkin .btSiteFooterWidgets,.btLightSkin .btDarkSkin .btSiteFooterWidgets{background:#232323;}
+.sticky .headline:before{color:#dfc387;}
+.headline a{color:#dfc387;}
+.btPortfolioSingleItemColumns dt{color:#dfc387;}
+.btArticleListItem.btBlogColumnView .btArticleListBodyAuthor a,.btPostSingleItemColumns .btArticleListBodyAuthor a{color:#dfc387!important;}
+.vcard .posted{font-family:Lato;}
+.commentTxt p.edit-link a,.commentTxt p.reply a{font-family:Lato;}
+.commentTxt p.edit-link a:hover,.commentTxt p.reply a:hover{color:#dfc387;}
+.commentTxt p.edit-link a:before,.commentTxt p.reply a:before{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;color:#dfc387;}
+.commentTxt p.edit-link a:hover:before,.commentTxt p.reply a:hover:before{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.btBox>h4:after,.btCustomMenu>h4:after{border-bottom:3px solid #dfc387;}
+.btBox ul,.btCustomMenu ul{font-family:Roboto;}
+.btBox ul li a:hover,.btCustomMenu ul li a:hover{color:#dfc387;}
+.btLightSkin .btCustomMenu ul li.current-menu-item a,.btDarkSkin .btLightSkin .btCustomMenu ul li.current-menu-item a{color:#dfc387;}
+.btDarkSkin .btCustomMenu ul li.current-menu-item a,.btLightSkin .btDarkSkin .btCustomMenu ul li.current-menu-item a{color:#dfc387;}
+.btCustomMenu ul li.current-menu-item a:before{background:#dfc387;}
+.btBox.widget_calendar table caption{background:#dfc387;font-family:"Roboto";}
+.btBox.widget_calendar table thead th{font-family:"Roboto";}
+.btBox.widget_calendar table tbody td a{-webkit-box-shadow:0 0 0 28px #dfc387 inset;box-shadow:0 0 0 28px #dfc387 inset;}
+.btBox.widget_calendar table tbody td a:hover{-webkit-box-shadow:0 0 0 2px #dfc387 inset;box-shadow:0 0 0 2px #dfc387 inset;color:#dfc387;}
+.btBox.widget_archive ul li a:hover,.btBox.widget_categories ul li a:hover,.btBox.widget_product_categories ul li a:hover,.btBox.widget_pages ul li a:hover,.btCustomMenu ul li a:hover,.btBox.widget_meta ul li a:hover,.btBox.widget_nav_menu ul li a:hover,.btBox.widget_rss ul li a:hover,.btBox.widget_recent_entries ul li a:hover,.btBox.widget_archive ul li.current-cat a,.btBox.widget_categories ul li.current-cat a,.btBox.widget_product_categories ul li.current-cat a,.btBox.widget_pages ul li.current-cat a,.btCustomMenu ul li.current-cat a,.btBox.widget_meta ul li.current-cat a,.btBox.widget_nav_menu ul li.current-cat a,.btBox.widget_rss ul li.current-cat a,.btBox.widget_recent_entries ul li.current-cat a{color:#dfc387;}
+.btBox.widget_archive ul li a:hover:before,.btBox.widget_categories ul li a:hover:before,.btBox.widget_product_categories ul li a:hover:before,.btBox.widget_pages ul li a:hover:before,.btCustomMenu ul li a:hover:before,.btBox.widget_meta ul li a:hover:before,.btBox.widget_nav_menu ul li a:hover:before,.btBox.widget_rss ul li a:hover:before,.btBox.widget_recent_entries ul li a:hover:before,.btBox.widget_archive ul li.current-cat a:before,.btBox.widget_categories ul li.current-cat a:before,.btBox.widget_product_categories ul li.current-cat a:before,.btBox.widget_pages ul li.current-cat a:before,.btCustomMenu ul li.current-cat a:before,.btBox.widget_meta ul li.current-cat a:before,.btBox.widget_nav_menu ul li.current-cat a:before,.btBox.widget_rss ul li.current-cat a:before,.btBox.widget_recent_entries ul li.current-cat a:before{background:#dfc387;}
+.btDarkSkin .btBox.widget_archive ul li a:hover,.btLightSkin .btDarkSkin .btBox.widget_archive ul li a:hover,.btDarkSkin .btBox.widget_categories ul li a:hover,.btLightSkin .btDarkSkin .btBox.widget_categories ul li a:hover{border-bottom:1px solid #dfc387;}
+.btBox.widget_rss li a.rsswidget{font-family:"Roboto";}
+.btBox.widget_rss li cite:before{color:#dfc387;}
+.btBox .btSearch input[type="text"],.btBox .btSearch input[type="search"],form.woocommerce-product-search input[type="text"],form.woocommerce-product-search input[type="search"]{font-family:Roboto;}
+.btLightSkin .btBox .btSearch input[type="text"],.btDarkSkin .btLightSkin .btBox .btSearch input[type="text"],.btLightSkin .btBox .btSearch input[type="search"],.btDarkSkin .btLightSkin .btBox .btSearch input[type="search"],.btLightSkin form.woocommerce-product-search input[type="text"],.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="text"],.btLightSkin form.woocommerce-product-search input[type="search"],.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="search"]{color:#232323;}
+.btLightSkin .btBox .btSearch input[type="text"]:hover,.btDarkSkin .btLightSkin .btBox .btSearch input[type="text"]:hover,.btLightSkin .btBox .btSearch input[type="text"]:focus,.btDarkSkin .btLightSkin .btBox .btSearch input[type="text"]:focus,.btLightSkin .btBox .btSearch input[type="search"]:hover,.btDarkSkin .btLightSkin .btBox .btSearch input[type="search"]:hover,.btLightSkin .btBox .btSearch input[type="search"]:focus,.btDarkSkin .btLightSkin .btBox .btSearch input[type="search"]:focus,.btLightSkin form.woocommerce-product-search input[type="text"]:hover,.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="text"]:hover,.btLightSkin form.woocommerce-product-search input[type="text"]:focus,.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="text"]:focus,.btLightSkin form.woocommerce-product-search input[type="search"]:hover,.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="search"]:hover,.btLightSkin form.woocommerce-product-search input[type="search"]:focus,.btDarkSkin .btLightSkin form.woocommerce-product-search input[type="search"]:focus{-webkit-box-shadow:0 -1px 0 0 #232323 inset!important;box-shadow:0 -1px 0 0 #232323 inset!important;}
+.btLightSkin .btBox .btSearch button,.btDarkSkin .btLightSkin .btBox .btSearch button,.btLightSkin .btBox .btSearch input[type=submit],.btDarkSkin .btLightSkin .btBox .btSearch input[type=submit],.btLightSkin form.woocommerce-product-search button,.btDarkSkin .btLightSkin form.woocommerce-product-search button,.btLightSkin form.woocommerce-product-search input[type=submit],.btDarkSkin .btLightSkin form.woocommerce-product-search input[type=submit]{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;color:#dfc387;}
+.btLightSkin .btBox .btSearch button:hover,.btDarkSkin .btLightSkin .btBox .btSearch button:hover,.btLightSkin form.woocommerce-product-search button:hover,.btDarkSkin .btLightSkin form.woocommerce-product-search button:hover{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.btDarkSkin .btBox .btSearch button:hover,.btLightSkin .btDarkSkin .btBox .btSearch button:hover,.btDarkSkin form.woocommerce-product-search button:hover,.btLightSkin .btDarkSkin form.woocommerce-product-search button:hover{color:#dfc387;}
+form.wpcf7-form .wpcf7-submit,form.wpcf7-form .btBookingNext{font-family:"Lato";background-color:#dfc387;border:2px solid #dfc387;}
+.btLightSkin form.wpcf7-form .wpcf7-submit:hover,.btDarkSkin .btLightSkin form.wpcf7-form .wpcf7-submit:hover,.btLightSkin form.wpcf7-form .btBookingNext:hover,.btDarkSkin .btLightSkin form.wpcf7-form .btBookingNext:hover{border:2px solid #dfc387;color:#dfc387;}
+form.wpcf7-form input[type="text"],form.wpcf7-form input[type="password"],form.wpcf7-form input[type="email"],form.wpcf7-form input[type="date"],form.wpcf7-form textarea,form.wpcf7-form .fancy-select .trigger{font-family:Roboto;}
+.btLightSkin form.wpcf7-form input[type="text"]:focus,.btDarkSkin .btLightSkin form.wpcf7-form input[type="text"]:focus,.btLightSkin form.wpcf7-form input[type="password"]:focus,.btDarkSkin .btLightSkin form.wpcf7-form input[type="password"]:focus,.btLightSkin form.wpcf7-form input[type="email"]:focus,.btDarkSkin .btLightSkin form.wpcf7-form input[type="email"]:focus,.btLightSkin form.wpcf7-form input[type="date"]:focus,.btDarkSkin .btLightSkin form.wpcf7-form input[type="date"]:focus,.btLightSkin form.wpcf7-form textarea:focus,.btDarkSkin .btLightSkin form.wpcf7-form textarea:focus,.btLightSkin form.wpcf7-form .fancy-select .trigger.open,.btDarkSkin .btLightSkin form.wpcf7-form .fancy-select .trigger.open{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;}
+.btLightSkin form.wpcf7-form span.wpcf7-not-valid-tip,.btDarkSkin .btLightSkin form.wpcf7-form span.wpcf7-not-valid-tip,.btLightSkin form.wpcf7-form div.wpcf7-validation-errors,.btDarkSkin .btLightSkin form.wpcf7-form div.wpcf7-validation-errors{color:#232323;border-color:#232323;}
+.btLightSkin form.wpcf7-form div.wpcf7-mail-sent-ok,.btDarkSkin .btLightSkin form.wpcf7-form div.wpcf7-mail-sent-ok{color:#dfc387;border-color:#dfc387;}
+.btLightSkin .fancy-select .trigger.open,.btDarkSkin .btLightSkin .fancy-select .trigger.open{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;}
+.fancy-select ul.options>li:hover{color:#dfc387!important;}
+.widget_shopping_cart .total{border-top:2px solid #dfc387;}
+.widget_shopping_cart .widget_shopping_cart_content .mini_cart_item .ppRemove a.remove:hover{background-color:#dfc387;}
+.widget_price_filter .ui-slider .ui-slider-handle{background:#dfc387;border-color:#dfc387;}
+.widget_layered_nav ul li.chosen a:hover:before,.widget_layered_nav ul li a:hover:before,.widget_layered_nav_filters ul li.chosen a:hover:before,.widget_layered_nav_filters ul li a:hover:before{background-color:#dfc387;}
+.btBox .tagcloud a,.btTags ul a{background:#dfc387;border:2px solid #dfc387;font-family:Lato;}
+.btBox .tagcloud a:hover,.btTags ul a:hover{color:#dfc387;}
+.header .btSubTitle .btArticleCategories a:not(:first-child):before,.header .btSuperTitle .btArticleCategories a:not(:first-child):before{background-color:#dfc387;}
+.btContentHolder blockquote{font-family:"Roboto";}
+.btContentHolder table tr th,.btContentHolder table thead tr th{font-family:Lato;background:#dfc387;}
+.btContentHolder table tbody tr:nth-child(even) th,.btContentHolder table thead tr:nth-child(even) th,.btContentHolder table tfoot tr:nth-child(even) th{background:#dfc387;}
+.btContentHolder table tbody tr:nth-child(odd) th,.btContentHolder table thead tr:nth-child(odd) th,.btContentHolder table tfoot tr:nth-child(odd) th{background:#e4cd9b;}
+.post-password-form input[type="password"]{font-family:Roboto;}
+.btLightSkin .post-password-form input[type="password"]:focus,.btDarkSkin .btLightSkin .post-password-form input[type="password"]:focus{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;}
+.post-password-form input[type="submit"]{background:#dfc387;border:2px solid #dfc387;font-family:"Lato";}
+.post-password-form input[type="submit"]:hover{color:#dfc387;}
+.btPagination{font-family:"Lato";}
+.btPagination .paging a:after{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.btPagination .paging a:hover:after{color:#dfc387;-webkit-box-shadow:0 0 0 2px #dfc387 inset;box-shadow:0 0 0 2px #dfc387 inset;}
+.comment-respond .btnOutline button[type="submit"]{font-family:"Roboto";}
+a#cancel-comment-reply-link:hover{color:#dfc387;}
+span.btHighlight{background-color:#dfc387;}
+a.btContinueReading{font-family:Lato;background:#dfc387;border:2px solid #dfc387;}
+a.btContinueReading:hover{color:#dfc387;}
+.asgItem.title a{color:#dfc387;}
+.header .btSuperTitle{font-family:"Lato";}
+.header .btSubTitle{font-family:"Playfair Display";}
+.btDarkSkin .btDash.bottomDash.btBottomDashAccentColor .dash:after,.btLightSkin .btDarkSkin .btDash.bottomDash.btBottomDashAccentColor .dash:after,.btLightSkin .btDash.bottomDash.btBottomDashAccentColor .dash:after,.btDarkSkin .btLightSkin .btDash.bottomDash.btBottomDashAccentColor .dash:after{border-bottom-color:#dfc387;}
+.btDarkSkin .btDash.bottomDash.btBottomDashAlternateColor .dash:after,.btLightSkin .btDarkSkin .btDash.bottomDash.btBottomDashAlternateColor .dash:after,.btLightSkin .btDash.bottomDash.btBottomDashAlternateColor .dash:after,.btDarkSkin .btLightSkin .btDash.bottomDash.btBottomDashAlternateColor .dash:after{border-bottom-color:#232323;}
+.header.small .dash:after,.header.small .dash:before{border-bottom:2px solid #dfc387;}
+.header.medium .dash:after,.header.medium .dash:before{border-bottom:2px solid #dfc387;}
+.btLightSkin .btText a,.btDarkSkin .btLightSkin .btText a,.btDarkSkin .btText a,.btLightSkin .btDarkSkin .btText a{color:#dfc387;}
+.btIco .btIcoHolder:before{color:#dfc387;}
+.btIco.btIcoAccentColor .btIcoHolder:before,.btIco.btIcoAccentColor:hover .btIcoHolder:before{color:#dfc387;}
+.btIco.btIcoAlternateColor .btIcoHolder:before,.btIco.btIcoAlternateColor:hover .btIcoHolder:before{color:#232323;}
+.btIco.btIcoWhiteType .btIcoHolder:before{color:#dfc387;}
+.btIco.btIcoFilledType.btIcoAccentColor .btIcoHolder:before,.btIco.btIcoOutlineType.btIcoAccentColor:hover .btIcoHolder:before{-webkit-box-shadow:0 0 0 1em #dfc387 inset;box-shadow:0 0 0 1em #dfc387 inset;}
+.btIco.btIcoFilledType.btIcoAccentColor:hover .btIcoHolder:before,.btIco.btIcoOutlineType.btIcoAccentColor .btIcoHolder:before{-webkit-box-shadow:0 0 0 1px #dfc387 inset;box-shadow:0 0 0 1px #dfc387 inset;color:#dfc387;}
+.btIco.btIcoFilledType.btIcoAlternateColor .btIcoHolder:before,.btIco.btIcoOutlineType.btIcoAlternateColor:hover .btIcoHolder:before{-webkit-box-shadow:0 0 0 1em #232323 inset;box-shadow:0 0 0 1em #232323 inset;}
+.btIco.btIcoFilledType.btIcoAlternateColor:hover .btIcoHolder:before,.btIco.btIcoOutlineType.btIcoAlternateColor .btIcoHolder:before{-webkit-box-shadow:0 0 0 1px #232323 inset;box-shadow:0 0 0 1px #232323 inset;color:#232323;}
+.btLightSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,.btLightSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btDarkSkin .btLightSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,.btDarkSkin .btLightSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btDarkSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,.btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before,.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoAccentColor .btIcoHolder:before,.btLightSkin .btDarkSkin .btIco.btIcoDefaultType.btIcoDefaultColor:hover .btIcoHolder:before{color:#dfc387;}
+.btIcoAccentColor span{color:#dfc387;}
+.btIcoDefaultColor:hover span{color:#dfc387;}
+.btBtn{font-family:"Lato";}
+.btnFilledStyle.btnAccentColor,.btnOutlineStyle.btnAccentColor:hover{background-color:#dfc387;border:2px solid #dfc387;}
+.btnOutlineStyle.btnAccentColor,.btnFilledStyle.btnAccentColor:hover{border:2px solid #dfc387;color:#dfc387;}
+.btnOutlineStyle.btnAccentColor span,.btnFilledStyle.btnAccentColor:hover span,.btnOutlineStyle.btnAccentColor span:before,.btnFilledStyle.btnAccentColor:hover span:before,.btnOutlineStyle.btnAccentColor a,.btnFilledStyle.btnAccentColor:hover a,.btnOutlineStyle.btnAccentColor .btIco a:before,.btnFilledStyle.btnAccentColor:hover .btIco a:before,.btnOutlineStyle.btnAccentColor button,.btnFilledStyle.btnAccentColor:hover button{color:#dfc387!important;}
+.btnBorderlessStyle.btnAccentColor span,.btnBorderlessStyle.btnNormalColor:hover span,.btnBorderlessStyle.btnAccentColor span:before,.btnBorderlessStyle.btnNormalColor:hover span:before,.btnBorderlessStyle.btnAccentColor a,.btnBorderlessStyle.btnNormalColor:hover a,.btnBorderlessStyle.btnAccentColor .btIco a:before,.btnBorderlessStyle.btnNormalColor:hover .btIco a:before,.btnBorderlessStyle.btnAccentColor button,.btnBorderlessStyle.btnNormalColor:hover button{color:#dfc387;}
+.btnFilledStyle.btnAlternateColor,.btnOutlineStyle.btnAlternateColor:hover{background-color:#232323;border:2px solid #232323;}
+.btnOutlineStyle.btnAlternateColor,.btnFilledStyle.btnAlternateColor:hover{border:2px solid #232323;color:#232323;}
+.btnOutlineStyle.btnAlternateColor span,.btnFilledStyle.btnAlternateColor:hover span,.btnOutlineStyle.btnAlternateColor span:before,.btnFilledStyle.btnAlternateColor:hover span:before,.btnOutlineStyle.btnAlternateColor a,.btnFilledStyle.btnAlternateColor:hover a,.btnOutlineStyle.btnAlternateColor .btIco a:before,.btnFilledStyle.btnAlternateColor:hover .btIco a:before,.btnOutlineStyle.btnAlternateColor button,.btnFilledStyle.btnAlternateColor:hover button{color:#232323!important;}
+.btnBorderlessStyle.btnAlternateColor span,.btnBorderlessStyle.btnAlternateColor span:before,.btnBorderlessStyle.btnAlternateColor a,.btnBorderlessStyle.btnAlternateColor .btIco a:before,.btnBorderlessStyle.btnAlternateColor button{color:#232323;}
+.btCounterHolder{font-family:"Lato";}
+.btCounterHolder .btCountdownHolder .days_text,.btCounterHolder .btCountdownHolder .hours_text,.btCounterHolder .btCountdownHolder .minutes_text,.btCounterHolder .btCountdownHolder .seconds_text{color:#dfc387;}
+.btProgressContent{font-family:"Lato";}
+.btProgressContent .btProgressAnim{background-color:#dfc387;}
+.btProgressBarLineStyle .btProgressContent .btProgressAnim{color:#dfc387;border-bottom:4px solid #dfc387;}
+.btProgressContent .btProgressAnim span:before{border-color:#dfc387 transparent transparent transparent;}
+.bpgPhoto .captionPane{background-color:#dfc387;}
+.btPriceTable .btPriceTableHeader{background:#dfc387;}
+.btPriceTableSticker>div{font-family:Lato;background:#dfc387;}
+.btPriceTableSticker>div:before{border-left:3px solid #cfa54b;border-top:3px solid #cfa54b;}
+.btPriceTableSticker>div:after{border-right:3px solid #cfa54b;border-top:3px solid #cfa54b;}
+.btGridContent .header .btSuperTitle a:hover{color:#dfc387;}
+.btCatFilter{font-family:Lato;}
+.btCatFilter .btCatFilterItem:after{background:#dfc387;}
+.btCatFilter .btCatFilterItem:hover{color:#dfc387;}
+.btCatFilter .btCatFilterItem.active{color:#dfc387;}
+.btMediaBox.btQuote p,.btMediaBox.btLink p{color:#dfc387;}
+.btMediaBox.btQuote p a,.btMediaBox.btLink p a{color:#dfc387;}
+.btMediaBox.btQuote cite,.btMediaBox.btLink cite{border-top:2px solid #dfc387;font-family:Lato;}
+h4.nbs a .nbsImage .nbsImgHolder{border:2px solid #dfc387;}
+h4.nbs a .nbsItem .nbsDir{color:#dfc387;font-family:"Lato";}
+h4.nbs a:before,h4.nbs a:after{background-color:#dfc387;border:#dfc387 2px solid;}
+.btCarouselSmallNav h4.nbs a:before,.btCarouselSmallNav h4.nbs a:after{background-color:#dfc387;}
+h4.nbs.nsPrev a:hover:before,h4.nbs.nsNext a:hover:after{color:#dfc387;}
+.slided .slick-dots li.slick-active button,.slided .slick-dots li.slick-active button:hover{-webkit-box-shadow:0 0 0 10px #dfc387 inset;box-shadow:0 0 0 10px #dfc387 inset;}
+.btGetInfo{border:1px solid #dfc387;}
+.btInfoBarMeta p{font-family:Lato;}
+.btInfoBarMeta p strong{color:#dfc387;}
+.recentTweets small:before{color:#dfc387;}
+.tabsHeader li{font-family:"Lato";}
+.btLightSkin .tabsHeader li.on,.btDarkSkin .btLightSkin .tabsHeader li.on,.btDarkSkin .tabsHeader li.on,.btLightSkin .btDarkSkin .tabsHeader li.on,.btLightSkin .tabsHeader li.on:hover,.btDarkSkin .btLightSkin .tabsHeader li.on:hover,.btDarkSkin .tabsHeader li.on:hover,.btLightSkin .btDarkSkin .tabsHeader li.on:hover{background:#dfc387;}
+.btLightSkin .tabsHeader li:hover,.btDarkSkin .btLightSkin .tabsHeader li:hover{background:#232323;}
+.btDarkSkin .tabsHeader li:hover,.btLightSkin .btDarkSkin .tabsHeader li:hover{background:#232323;}
+.tabsVertical .tabAccordionTitle{font-family:"Lato";}
+.tabsVertical .tabAccordionTitle:hover{background:#232323;}
+.tabsVertical .tabAccordionTitle.on{background:#dfc387;}
+.btLatestPostsContainer .btLatestPostContentFooter{font-family:Lato;}
+.btLatestPostsContainer .btLatestPostContentFooter .btArticleComments:before,.btLatestPostsContainer .btLatestPostContentFooter .btArticleCategories:before,.btLatestPostsContainer .btLatestPostContentFooter .btArticleAuthor:before,.btLatestPostsContainer .btLatestPostContentFooter .btArticleDate:before{color:#dfc387;}
+.demos span{background-color:#dfc387;}
+.ui-datepicker.ui-widget,.btDatePicker#ui-datepicker-div{font-family:Roboto;}
+.ui-datepicker.ui-widget .ui-datepicker-header{background:#dfc387;}
+.ui-datepicker.ui-widget tbody tr td a.ui-state-default.ui-state-active{-webkit-box-shadow:0 0 0 20px #232323 inset;box-shadow:0 0 0 20px #232323 inset;}
+.ui-datepicker.ui-widget tbody tr td a.ui-state-default.ui-state-highlight{-webkit-box-shadow:0 0 0 20px #dfc387 inset;box-shadow:0 0 0 20px #dfc387 inset;}
+.ui-datepicker.ui-widget tbody tr td a.ui-state-default.ui-state-hover{-webkit-box-shadow:0 0 0 2px #dfc387 inset;box-shadow:0 0 0 2px #dfc387 inset;color:#dfc387;}
+.widget_icl_lang_sel_widget h2{font-family:Montserrat,arial,sans-serif;color:#232323;}
+.widget_icl_lang_sel_widget>.wpml-ls ul li a:hover{color:#dfc387;}
+.btAnimNav li.btAnimNavDot{color:#dfc387;font-family:Roboto;}
+.btAnimNav li.btAnimNavNext,.btAnimNav li.btAnimNavPrev{background-color:#dfc387;}
+.btAnimNav li.btAnimNavNext:hover,.btAnimNav li.btAnimNavPrev:hover{color:#dfc387;}
+.headline b.animate.animated{color:#232323;}
+p.demo_store{background-color:#dfc387;}
+.woocommerce .woocommerce-error,.woocommerce .woocommerce-info,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-error,.woocommerce-page .woocommerce-info,.woocommerce-page .woocommerce-message{border-top:2px solid #dfc387;}
+.woocommerce .woocommerce-info a: not(.button),.woocommerce .woocommerce-message a: not(.button),.woocommerce-page .woocommerce-info a: not(.button),.woocommerce-page .woocommerce-message a: not(.button){color:#dfc387;}
+.woocommerce .woocommerce-info,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-info,.woocommerce-page .woocommerce-message{border-top-color:#dfc387;}
+.woocommerce .woocommerce-message:before,.woocommerce .woocommerce-info:before,.woocommerce-page .woocommerce-message:before,.woocommerce-page .woocommerce-info:before{color:#dfc387;}
+.woocommerce .btWooCommerce a.button,.woocommerce .btSidebar .woocommerce a.button,.woocommerce .woocommerce a.button,.woocommerce .btComments a.button,.woocommerce .btWooCommerce input[type="submit"],.woocommerce .btSidebar .woocommerce input[type="submit"],.woocommerce .woocommerce input[type="submit"],.woocommerce .btComments input[type="submit"],.woocommerce .btWooCommerce button[type="submit"],.woocommerce .btSidebar .woocommerce button[type="submit"],.woocommerce .woocommerce button[type="submit"],.woocommerce .btComments button[type="submit"],.woocommerce .btWooCommerce input.button,.woocommerce .btSidebar .woocommerce input.button,.woocommerce .woocommerce input.button,.woocommerce .btComments input.button,.woocommerce .btWooCommerce input.alt:hover,.woocommerce .btSidebar .woocommerce input.alt:hover,.woocommerce .woocommerce input.alt:hover,.woocommerce .btComments input.alt:hover,.woocommerce .btWooCommerce a.button.alt:hover,.woocommerce .btSidebar .woocommerce a.button.alt:hover,.woocommerce .woocommerce a.button.alt:hover,.woocommerce .btComments a.button.alt:hover,.woocommerce .btWooCommerce .button.alt:hover,.woocommerce .btSidebar .woocommerce .button.alt:hover,.woocommerce .woocommerce .button.alt:hover,.woocommerce .btComments .button.alt:hover,.woocommerce .btWooCommerce button.alt:hover,.woocommerce .btSidebar .woocommerce button.alt:hover,.woocommerce .woocommerce button.alt:hover,.woocommerce .btComments button.alt:hover,.woocommerce-page .btWooCommerce a.button,.woocommerce-page .btSidebar .woocommerce a.button,.woocommerce-page .woocommerce a.button,.woocommerce-page .btComments a.button,.woocommerce-page .btWooCommerce input[type="submit"],.woocommerce-page .btSidebar .woocommerce input[type="submit"],.woocommerce-page .woocommerce input[type="submit"],.woocommerce-page .btComments input[type="submit"],.woocommerce-page .btWooCommerce button[type="submit"],.woocommerce-page .btSidebar .woocommerce button[type="submit"],.woocommerce-page .woocommerce button[type="submit"],.woocommerce-page .btComments button[type="submit"],.woocommerce-page .btWooCommerce input.button,.woocommerce-page .btSidebar .woocommerce input.button,.woocommerce-page .woocommerce input.button,.woocommerce-page .btComments input.button,.woocommerce-page .btWooCommerce input.alt:hover,.woocommerce-page .btSidebar .woocommerce input.alt:hover,.woocommerce-page .woocommerce input.alt:hover,.woocommerce-page .btComments input.alt:hover,.woocommerce-page .btWooCommerce a.button.alt:hover,.woocommerce-page .btSidebar .woocommerce a.button.alt:hover,.woocommerce-page .woocommerce a.button.alt:hover,.woocommerce-page .btComments a.button.alt:hover,.woocommerce-page .btWooCommerce .button.alt:hover,.woocommerce-page .btSidebar .woocommerce .button.alt:hover,.woocommerce-page .woocommerce .button.alt:hover,.woocommerce-page .btComments .button.alt:hover,.woocommerce-page .btWooCommerce button.alt:hover,.woocommerce-page .btSidebar .woocommerce button.alt:hover,.woocommerce-page .woocommerce button.alt:hover,.woocommerce-page .btComments button.alt:hover{border:2px solid #dfc387;font-family:Lato;background-color:#dfc387;}
+.woocommerce .btWooCommerce a.button:hover,.woocommerce .btSidebar .woocommerce a.button:hover,.woocommerce .woocommerce a.button:hover,.woocommerce .btComments a.button:hover,.woocommerce .btWooCommerce input[type="submit"]:hover,.woocommerce .btSidebar .woocommerce input[type="submit"]:hover,.woocommerce .woocommerce input[type="submit"]:hover,.woocommerce .btComments input[type="submit"]:hover,.woocommerce .btWooCommerce .button:hover,.woocommerce .btSidebar .woocommerce .button:hover,.woocommerce .woocommerce .button:hover,.woocommerce .btComments .button:hover,.woocommerce .btWooCommerce button:hover,.woocommerce .btSidebar .woocommerce button:hover,.woocommerce .woocommerce button:hover,.woocommerce .btComments button:hover,.woocommerce .btWooCommerce input.alt,.woocommerce .btSidebar .woocommerce input.alt,.woocommerce .woocommerce input.alt,.woocommerce .btComments input.alt,.woocommerce .btWooCommerce a.button.alt,.woocommerce .btSidebar .woocommerce a.button.alt,.woocommerce .woocommerce a.button.alt,.woocommerce .btComments a.button.alt,.woocommerce .btWooCommerce .button.alt,.woocommerce .btSidebar .woocommerce .button.alt,.woocommerce .woocommerce .button.alt,.woocommerce .btComments .button.alt,.woocommerce .btWooCommerce button.alt,.woocommerce .btSidebar .woocommerce button.alt,.woocommerce .woocommerce button.alt,.woocommerce .btComments button.alt,.woocommerce-page .btWooCommerce a.button:hover,.woocommerce-page .btSidebar .woocommerce a.button:hover,.woocommerce-page .woocommerce a.button:hover,.woocommerce-page .btComments a.button:hover,.woocommerce-page .btWooCommerce input[type="submit"]:hover,.woocommerce-page .btSidebar .woocommerce input[type="submit"]:hover,.woocommerce-page .woocommerce input[type="submit"]:hover,.woocommerce-page .btComments input[type="submit"]:hover,.woocommerce-page .btWooCommerce .button:hover,.woocommerce-page .btSidebar .woocommerce .button:hover,.woocommerce-page .woocommerce .button:hover,.woocommerce-page .btComments .button:hover,.woocommerce-page .btWooCommerce button:hover,.woocommerce-page .btSidebar .woocommerce button:hover,.woocommerce-page .woocommerce button:hover,.woocommerce-page .btComments button:hover,.woocommerce-page .btWooCommerce input.alt,.woocommerce-page .btSidebar .woocommerce input.alt,.woocommerce-page .woocommerce input.alt,.woocommerce-page .btComments input.alt,.woocommerce-page .btWooCommerce a.button.alt,.woocommerce-page .btSidebar .woocommerce a.button.alt,.woocommerce-page .woocommerce a.button.alt,.woocommerce-page .btComments a.button.alt,.woocommerce-page .btWooCommerce .button.alt,.woocommerce-page .btSidebar .woocommerce .button.alt,.woocommerce-page .woocommerce .button.alt,.woocommerce-page .btComments .button.alt,.woocommerce-page .btWooCommerce button.alt,.woocommerce-page .btSidebar .woocommerce button.alt,.woocommerce-page .woocommerce button.alt,.woocommerce-page .btComments button.alt{color:#dfc387;}
+.woocommerce p.lost_password:before,.woocommerce-page p.lost_password:before{color:#dfc387;}
+.woocommerce form.login p.lost_password a:hover,.woocommerce-page form.login p.lost_password a:hover{color:#dfc387;}
+.woocommerce div.product .stock,.woocommerce-page div.product .stock{color:#dfc387;}
+.woocommerce div.product .woocommerce-product-gallery.images .woocommerce-product-gallery__trigger:after,.woocommerce-page div.product .woocommerce-product-gallery.images .woocommerce-product-gallery__trigger:after{-webkit-box-shadow:0 0 0 2em #dfc387 inset,0 0 0 2em rgba(255,255,255,.5) inset;box-shadow:0 0 0 2em #dfc387 inset,0 0 0 2em rgba(255,255,255,.5) inset;}
+.woocommerce div.product .woocommerce-product-gallery.images .woocommerce-product-gallery__trigger:hover:after,.woocommerce-page div.product .woocommerce-product-gallery.images .woocommerce-product-gallery__trigger:hover:after{-webkit-box-shadow:0 0 0 1px #dfc387 inset,0 0 0 2em rgba(255,255,255,.5) inset;box-shadow:0 0 0 1px #dfc387 inset,0 0 0 2em rgba(255,255,255,.5) inset;color:#dfc387;}
+.woocommerce div.product a.reset_variations:hover,.woocommerce-page div.product a.reset_variations:hover{color:#dfc387;}
+.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li a.next,.woocommerce nav.woocommerce-pagination ul li a.prev,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce-page nav.woocommerce-pagination ul li a:focus,.woocommerce-page nav.woocommerce-pagination ul li a:hover,.woocommerce-page nav.woocommerce-pagination ul li a.next,.woocommerce-page nav.woocommerce-pagination ul li a.prev,.woocommerce-page nav.woocommerce-pagination ul li span.current{background:#dfc387;}
+.woocommerce .woocommerce-result-count,.woocommerce-page .woocommerce-result-count{font-family:Lato;}
+.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before{color:#dfc387;}
+.woocommerce p.stars a[class^="star-"].active:after,.woocommerce p.stars a[class^="star-"]:hover:after,.woocommerce-page p.stars a[class^="star-"].active:after,.woocommerce-page p.stars a[class^="star-"]:hover:after{color:#dfc387;}
+.woocommerce-cart table.cart td.product-remove a.remove{color:#dfc387;border:1px solid #dfc387;}
+.woocommerce-cart table.cart td.product-remove a.remove:hover{background-color:#dfc387;}
+.woocommerce-cart .cart_totals .discount td{color:#dfc387;}
+.woocommerce-account header.title .edit{color:#dfc387;}
+.woocommerce-account header.title .edit:before{color:#dfc387;}
+.btLightSkin.woocommerce-page .product .headline a:hover,.btDarkSkin .btLightSkin.woocommerce-page .product .headline a:hover,.btDarkSkin.woocommerce-page .product .headline a:hover,.btLightSkin .btDarkSkin.woocommerce-page .product .headline a:hover{color:#dfc387;}
+.btQuoteBooking .btContactNext{background:#dfc387;border:#dfc387 2px solid;font-family:Lato;}
+.btQuoteBooking .btQuoteBookingForm.btActive .btContactNext{font-family:Lato;}
+.btQuoteBooking .btContactNext:hover,.btQuoteBooking .btContactNext:active{color:#dfc387;}
+.btLightSkin .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner,.btDarkSkin .btLightSkin .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner{background:#dfc387;}
+.btDarkSkin .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner,.btLightSkin .btDarkSkin .btQuoteBooking .btQuoteSwitch.on .btQuoteSwitchInner{background:#dfc387;}
+.btQuoteBooking .btQuoteItem textarea{font-family:Roboto!important;}
+.btQuoteBooking .btQuoteItem textarea:focus{border:1px solid #dfc387;}
+.btQuoteBooking .dd.ddcommon.borderRadiusTp .ddTitleText,.btQuoteBooking .dd.ddcommon.borderRadiusBtm .ddTitleText{border-color:#dfc387;}
+.btQuoteBooking .ui-slider .ui-slider-handle{background:#dfc387;font-family:Lato;}
+.btQuoteBooking .btQuoteBookingForm .btQuoteTotal{background:#dfc387;}
+.btQuoteBooking .btQuoteTotalText{font-family:Lato;}
+.btLightSkin .btQuoteBooking .btContactFieldMandatory input:focus,.btDarkSkin .btLightSkin .btQuoteBooking .btContactFieldMandatory input:focus{-webkit-box-shadow:0 0 0 1px #dfc387 inset!important;box-shadow:0 0 0 1px #dfc387 inset!important;}
+.btLightSkin .btQuoteBooking .btContactFieldMandatory textarea:focus,.btDarkSkin .btLightSkin .btQuoteBooking .btContactFieldMandatory textarea:focus{border-color:#dfc387!important;}
+.btQuoteBooking .btContactFieldMandatory.btContactFieldError input,.btQuoteBooking .btContactFieldMandatory.btContactFieldError textarea{border:1px solid #dfc387!important;-webkit-box-shadow:0 0 0 1px #dfc387 inset!important;box-shadow:0 0 0 1px #dfc387 inset!important;}
+.btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadius .ddTitleText{border:1px solid #dfc387!important;-webkit-box-shadow:0 0 0 1px #dfc387 inset!important;box-shadow:0 0 0 1px #dfc387 inset!important;}
+.btQuoteBooking .btContactFieldMandatory.btContactFieldError .dd.ddcommon.borderRadiusTp .ddTitleText{-webkit-box-shadow:0 0 0 1px #dfc387 inset!important;box-shadow:0 0 0 1px #dfc387 inset!important;}
+.btQuoteBooking .btSubmitMessage{color:#dfc387;}
+.btDatePicker .ui-datepicker-header{background-color:#dfc387;}
+.btLightSkin .btQuoteBooking .dd.ddcommon.borderRadiusTp .ddTitleText,.btDarkSkin .btLightSkin .btQuoteBooking .dd.ddcommon.borderRadiusTp .ddTitleText,.btLightSkin .btQuoteBooking .dd.ddcommon.borderRadiusBtm .ddTitleText,.btDarkSkin .btLightSkin .btQuoteBooking .dd.ddcommon.borderRadiusBtm .ddTitleText{border:1px solid #dfc387;}
+.btQuoteBooking .ddTitleText .ddlabel{font-family:Roboto!important;}
+.btQuoteBooking .btContactSubmit{background-color:#dfc387;border:2px solid #dfc387;font-family:Lato;}
+.btQuoteBooking .btContactSubmit:hover{color:#dfc387;}
+.btPayPalButton:hover{-webkit-box-shadow:0 0 0 #dfc387 inset,0 1px 5px rgba(0,0,0,.2);box-shadow:0 0 0 #dfc387 inset,0 1px 5px rgba(0,0,0,.2);}
+@media (max-width:1400px){.header.large .dash:after,.header.large .dash:before{border-bottom:2px solid #dfc387;}
+.header.medium .dash:after,.header.medium .dash:before{border-bottom:2px solid #dfc387;}
+}@media (max-width:767px){.btArticleListItem .btArticleFooter .btShareArticle:before{background-color:#dfc387;}
+}
+</style>
+<link rel='stylesheet' id='boldthemes_buggyfill_css-css' href='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/css/viewport-buggyfill.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='boldthemes_magnific-popup_css-css' href='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/css/magnific-popup.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><!--[if lte IE 9]><link rel='stylesheet' id='boldthemes_ie9_css-css' href='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/css/ie9.css?ver=6.1.3' type='text/css' media='all'  data-viewport-units-buggyfill='ignore' /><![endif]--><link rel='stylesheet' id='boldthemes_fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CPlayfair+Display%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CLato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='load-fa-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css?ver=6.1.3' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><link rel='stylesheet' id='popup-maker-site-css' href='https://www.casagangotena.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.18.1' type='text/css' media='all' data-viewport-units-buggyfill='ignore' /><style id='popup-maker-site-inline-css' type='text/css'>
+/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Montserrat:100');
+
+/* Popup Theme 27933: Light Box */
+.pum-theme-27933, .pum-theme-lightbox { background-color: rgba( 10, 10, 10, 0.80 ) } 
+.pum-theme-27933 .pum-container, .pum-theme-lightbox .pum-container { padding: 0px; border-radius: 0px; border: 0px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-27933 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-27933 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit; font-weight: 100 } 
+.pum-theme-27933 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 27936: Cutting Edge */
+.pum-theme-27936, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-27936 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-27936 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-weight: 100; font-size: 26px; line-height: 28px } 
+.pum-theme-27936 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit; font-weight: 100 } 
+.pum-theme-27936 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { position: absolute; height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 27937: Framed Border */
+.pum-theme-27937, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-27937 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-27937 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-27937 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-27937 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { position: absolute; height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Tahoma; font-weight: 700; font-size: 16px; line-height: 18px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 27938: Floating Bar - Soft Blue */
+.pum-theme-27938, .pum-theme-floating-bar { background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-27938 .pum-container, .pum-theme-floating-bar .pum-container { padding: 8px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 238, 246, 252, 1.00 ) } 
+.pum-theme-27938 .pum-title, .pum-theme-floating-bar .pum-title { color: #505050; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-27938 .pum-content, .pum-theme-floating-bar .pum-content { color: #505050; font-family: inherit; font-weight: 400 } 
+.pum-theme-27938 .pum-content + .pum-close, .pum-theme-floating-bar .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 5px; bottom: auto; top: 50%; padding: 0px; color: #505050; font-family: Sans-Serif; font-weight: 700; font-size: 15px; line-height: 18px; border: 1px solid #505050; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ); transform: translate(0, -50%) } 
+
+/* Popup Theme 27939: Content Only - For use with page builders or block editor */
+.pum-theme-27939, .pum-theme-content-only { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-27939 .pum-container, .pum-theme-content-only .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ) } 
+.pum-theme-27939 .pum-title, .pum-theme-content-only .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-27939 .pum-content, .pum-theme-content-only .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-27939 .pum-content + .pum-close, .pum-theme-content-only .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 7px; bottom: auto; top: 7px; padding: 0px; color: #000000; font-family: inherit; font-weight: 700; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+
+/* Popup Theme 27932: Default Theme */
+.pum-theme-27932, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-27932 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-27932 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-27932 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400; font-style: inherit } 
+.pum-theme-27932 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; font-style: inherit; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+/* Popup Theme 27934: Enterprise Blue */
+.pum-theme-27934, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-27934 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-27934 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 34px; line-height: 36px } 
+.pum-theme-27934 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-27934 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { position: absolute; height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: Times New Roman; font-weight: 100; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 27935: Hello Box */
+.pum-theme-27935, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-27935 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-27935 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-27935 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-27935 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+#pum-28038 {z-index: 1999999999}
+#pum-27973 {z-index: 1999999999}
+#pum-27978 {z-index: 1999999999}
+#pum-27967 {z-index: 19999999999}
+#pum-27975 {z-index: 1999999999}
+#pum-27970 {z-index: 1999999999}
+#pum-27941 {z-index: 1999999999}
+
+</style>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.4' id='wpml-cookie-js'></script>
+<script type='text/javascript' id='breeze-prefetch-js-extra'>
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"https:\/\/www.casagangotena.com","ignore_remote_prefetch":"1","ignore_list":["\/wp-admin\/"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.0.26' id='breeze-prefetch-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/hotelcalifornia/bt_elements.js?ver=6.1.3' id='bt_plugin_enqueue-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.4.6' id='sumoselect-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/photo-gallery/js/tocca.min.js?ver=2.0.9' id='bwg_mobile-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.5' id='mCustomScrollbar-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen.min.js?ver=0.6.0' id='jquery-fullscreen-js'></script>
+<script type='text/javascript' id='bwg_frontend-js-extra'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0","bwg_tag_see_all":"see all tags","bwg_tag_see_less":"see less tags"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.8.16' id='bwg_frontend-js'></script>
+<script type='text/javascript' id='Popup.js-js-before'>
+var sgpbPublicUrl = "https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/";
+var SGPB_JS_LOCALIZATION = {"imageSupportAlertMessage":"Only image files supported","pdfSupportAlertMessage":"Only pdf files supported","areYouSure":"Are you sure?","addButtonSpinner":"L","audioSupportAlertMessage":"Only audio files supported (e.g.: mp3, wav, m4a, ogg)","publishPopupBeforeElementor":"Please, publish the popup before starting to use Elementor with it!","publishPopupBeforeDivi":"Please, publish the popup before starting to use Divi Builder with it!","closeButtonAltText":"Close"};
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/popup-builder/public/js/Popup.js?ver=4.1.14' id='Popup.js-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/popup-builder/public/js/PopupConfig.js?ver=4.1.14' id='PopupConfig.js-js'></script>
+<script type='text/javascript' id='PopupBuilder.js-js-before'>
+var SGPB_POPUP_PARAMS = {"popupTypeAgeRestriction":"ageRestriction","defaultThemeImages":{"1":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_1\/close.png","2":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_2\/close.png","3":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_3\/close.png","5":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_5\/close.png","6":"https:\/\/www.casagangotena.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_6\/close.png"},"homePageUrl":"https:\/\/www.casagangotena.com\/","isPreview":false,"convertedIdsReverse":[],"dontShowPopupExpireTime":365,"conditionalJsClasses":[],"disableAnalyticsGeneral":false};
+var SGPB_JS_PACKAGES = {"packages":{"current":1,"free":1,"silver":2,"gold":3,"platinum":4},"extensions":{"geo-targeting":false,"advanced-closing":false}};
+var SGPB_JS_PARAMS = {"ajaxUrl":"https:\/\/www.casagangotena.com\/wp-admin\/admin-ajax.php","nonce":"113a1e6bb1"};
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/popup-builder/public/js/PopupBuilder.js?ver=4.1.14' id='PopupBuilder.js-js'></script>
+<script type='text/javascript' id='post_grid_scripts-js-extra'>
+/* <![CDATA[ */
+var post_grid_ajax = {"post_grid_ajaxurl":"https:\/\/www.casagangotena.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/post-grid/assets/frontend/js/scripts.js?ver=6.1.3' id='post_grid_scripts-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1' id='stickyAnythingLib-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/js/wpac-time.js?ver=1.4.1' id='brb-wpac-time-js-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/js/blazy.min.js?ver=1.4.1' id='blazy-js-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/js/swiper.min.js?ver=1.4.1' id='swiper-js-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/plugins/business-reviews-bundle/assets/js/rplg.js?ver=1.4.1' id='rplg-js-js'></script>
+<script type='text/javascript' src='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/js/slick.min.js?ver=6.1.3' id='slick.min-js'></script>
+<!--[if lte IE 9]><script type='text/javascript' src='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/js/html5shiv.min.js?ver=1' id='html5shiv.min-js'></script>
+<![endif]--><!--[if lte IE 9]><script type='text/javascript' src='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/js/respond.min.js?ver=6.1.3' id='respond.min-js'></script>
+<![endif]--><script type='text/javascript' src='https://www.casagangotena.com/wp-content/themes/hotelcalifornia/js/viewport-units-buggyfill.hacks.js?ver=6.1.3' id='boldthemes_buggyfill_hacks_js-js'></script>
+<script type='text/javascript' id='boldthemes_buggyfill_hacks_js-js-after'>
+window.viewportUnitsBuggyfill.init({
+
+			// milliseconds to delay between updates of viewport-units
+			// caused by orientationchange, pageshow, resize events
+			refreshDebounceWait: 250,
+
+			// provide hacks plugin to make the contentHack property work correctly.
+			hacks: window.viewportUnitsBuggyfillHacks
+
+			});
+</script>
+
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=G-7B0EFTBQ9R' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.casagangotena.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-7B0EFTBQ9R");
+</script>
+
+<link rel="https://api.w.org/" href="https://www.casagangotena.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.casagangotena.com/wp-json/wp/v2/pages/93" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.casagangotena.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.casagangotena.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.3" />
+<link rel='shortlink' href='https://www.casagangotena.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.casagangotena.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.casagangotena.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.casagangotena.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.casagangotena.com%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.4 stt:1,2;" />
+<meta name="generator" content="Site Kit by Google 1.104.0" /><script type="text/javascript">
+var ajaxurl = 'https://www.casagangotena.com/wp-admin/admin-ajax.php';
+var ajaxnounce = '5f80843b39';
+</script>
+<style>.cmplz-hidden{display:none!important;}</style>
+<script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '18af60a03c';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.casagangotena.com/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+<script type="text/javascript">
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-NWXJST9' );
+			
+</script>
+
+<meta name="generator" content="Powered by Slider Revolution 6.6.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://static.casagangotena.com/wp-content/uploads/2019/06/cropped-cg-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://static.casagangotena.com/wp-content/uploads/2019/06/cropped-cg-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://static.casagangotena.com/wp-content/uploads/2019/06/cropped-cg-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://static.casagangotena.com/wp-content/uploads/2019/06/cropped-cg-favicon-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="sccss">
+
+/*404**/
+
+.error404 {
+		background-color: white;
+}
+
+.error404 #any_content,.error404  #any_content{
+		background-color:transparent !important;
+}
+
+.error404 #any_content strong,.error404  #any_content strong {
+		color:#ffffff !important;
+}
+
+.error404 #hero,.error404 #hero{display:none;}
+
+/* Remove numbers paragraph from Reading Time plugin in searches */
+body.search.search-results article.btArticleListItem div.btArticleListBodyContent > p {
+  display: none;
+}
+
+/* Post template font update */
+body.post-template-default.single.single-post div.dash h2 > span.headline,
+body.post-template-default.single.single-post aside.btSidebar div.btBox.widget_search > h4 > span,
+body.post-template-default.single.single-post aside.btSidebar div.btBox.widget_recent_entries > h4 > span {
+  font-family: 'Playfair Display';
+}
+
+/* Blog page grid font update */
+body.page-id-33 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .btSuperTitle > span,
+body.page-id-9259 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .btSuperTitle > span {
+  width: 100%;
+}
+body.page-id-33 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .btSuperTitle span.btArticleDate::after,
+body.page-id-9259 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .btSuperTitle span.btArticleDate::after {
+  display: none;
+}
+body.page-id-33 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash > h3,
+body.page-id-9259 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash > h3 {
+  font-family: 'Playfair Display';
+  font-size: 20px;
+}
+body.page-id-33 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash span.btArticleDate,
+body.page-id-9259 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash span.btArticleDate {
+  font-family: 'Playfair Display';
+  font-size: 11px;
+}
+body.page-id-33 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash,
+body.page-id-9259 div.btGridContainer div.bpgPhoto .captionPane .captionTxt header .dash {
+  text-align: -webkit-center;
+  width: 100%;
+}
+
+.page-id-33 .boldSection h2.underline::after,
+.page-id-9259 .boldSection h2.underline::after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.load-more-posts .alm-reveal>li {
+  width: 30%;
+  height: 300px;
+  float: right;
+  margin: 5px !important;
+}
+#load-more-posts-es {
+  display: flex;
+}
+
+/* Remove XYZ plugin watermark */
+body div[style="width:100%;text-align:center; font-size:11px; clear:both"],
+a[title~=Snippet],
+a[title~=Scripts] { 
+  display:none;
+}
+
+/* Update reading time text styles */
+span.rt-reading-time {
+  color: #d9ba5c;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+/* Keep text resize only for mobile */
+@media (min-width: 1024px) {
+  span.btArticleSizer,
+  a.btArticleComments::after {
+    display: none !important;
+  }
+}
+
+/* Add description to emoticons */
+html:lang(en) li.emo-icon#smile::before {
+  content: 'Was this post: ';
+}
+html:lang(es) li.emo-icon#smile::before {
+  content: 'Este post fue: ';
+}
+li.emo-icon#smile::before {
+  left: -90px;
+  position: absolute;
+  line-height: 40px;
+}
+html:lang(en) li.emo-icon#smile::after {
+  left: 15px;
+}
+html:lang(en) li.emo-icon#sad::after {
+  left: 0;
+}
+html:lang(es) li.emo-icon#smile::after {
+  left: 23px;
+}
+html:lang(es) li.emo-icon#sad::after {
+  left: 19px;
+}
+li.emo-icon#smile::after,
+li.emo-icon#sad::after{
+  position: absolute;
+  bottom: -18px;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+#emoticon-container li.emo-icon {
+  width: 60px;
+  margin-left: 5px;
+}
+html:lang(en) li.emo-icon#smile::after {
+  content: 'USEFUL'
+}
+html:lang(en) li.emo-icon#sad::after {
+  content: 'NOT USEFUL'
+}
+html:lang(es) li.emo-icon#smile::after {
+  content: 'UTIL'
+}
+html:lang(es) li.emo-icon#sad::after {
+  content: 'INUTIL'
+}
+
+/* Update emoticon div position*/
+div#emoticon-container {
+  text-align: right;
+}
+
+/* Update blog reactions */
+li#naughty-smile.emo-icon,
+li#lough.emo-icon,
+li#chive.emo-icon,
+li#shocked.emo-icon,
+li#cry.emo-icon,
+li#angry.emo-icon,
+li#heart.emo-icon {
+  display: none !important;
+}
+
+/* Add header background image */
+@media (min-width: 1024px) {
+  body.archive.category:not(.btStickyHeaderActive) header.mainHeader,
+  body.single-post:not(.btStickyHeaderActive) header.mainHeader,
+  body.search:not(.btStickyHeaderActive) header.mainHeader {
+    background-image: url("/wp-content/uploads/2019/02/quito-historic-center-from-casa-gangotena.jpg");
+    height: 40vh;
+    min-height: 165px;
+    max-height: 307px;
+  }
+}
+@media (max-width: 1023px) {
+  body.archive.category .btPageWrap > .btContentWrap.btClear,
+  body.single-post .btPageWrap > .btContentWrap.btClear,
+  body.search .btPageWrap > .btContentWrap.btClear {
+    padding-top: 100px !important;
+  }
+}
+
+/***********************************
+ *** Start Photo Gallery **
+************************************/
+.btGridGallery .gridItem::after {
+    border-color: #fff !important;
+}
+
+.btGridGallery .boldPhotoBox {
+    border-color: #fff !important;
+}
+
+.btGridGallery .bpgPhoto .captionPane {
+  background-color: #111 !important;
+  opacity: 0.4;
+}
+
+/***********************************
+ *** End Photo Gallery **
+************************************/
+
+
+/***********************************
+ *** Start Slon Posts Pages Styles **
+************************************/
+
+/* h6 text color */
+body.single-post .boldRow .btText h6 {
+  color: #111;
+}
+
+/* Remove padding from posts */
+@media (min-width: 1200px) {
+  .btPostSingleItemStandard .btArticleBody {
+    padding: 0;
+  }
+}
+
+/* Add underline to search widget in side bar */
+body.single-post .btContentWrap .btSearch .btSearchInnerContent input {
+  border-bottom: 1px solid black !important;
+}
+
+/* Update search widget button in safari */
+_::-webkit-full-page-media, _:future, :root body.single-post .btContentWrap .btSearch .btSearchInnerContent button {
+  margin: 0px -43px 0 0;
+}
+
+/* Update search widget button in firefox */
+@-moz-document url-prefix() {
+  body.single-post .btContentWrap .btSearch .btSearchInnerContent button {
+    margin: 0px -43px 0 0;
+  }
+}
+
+/* Update menu for single posts */
+body.single-post.btMenuHorizontal:not(.btStickyHeaderOpen) header.mainHeader {
+  padding-bottom: 15px;
+}
+body.single-post.btMenuHorizontal:not(.btStickyHeaderOpen) header.mainHeader,
+body.single-post.btMenuHorizontal header.mainHeader .topBarInLogoArea {
+  background-color: transparent !important;
+}
+body.single-post.btMenuHorizontal header.mainHeader .topBarInLogoArea .btTopBox .textwidget,
+body.single-post.btMenuHorizontal header.mainHeader .topBarInLogoArea .btTopBox .textwidget a {
+  color: white !important;
+}
+body.single-post.btMenuHorizontal header.mainHeader .topBarInLogoArea .btTopBox .textwidget a:hover {
+  color: #dfc387 !important;
+}
+
+/* */
+.single-post .btContentWrap, .single-post .topBarInLogoArea {
+  color: #111 !important;
+  background-color: #fff !important;
+}
+
+.single-post .btContentWrap h2, .single-post .btContentWrap h3, .single-post .btContentWrap h4 {
+  color: #d9ba5c  !important;
+}
+
+.single-post .btContentWrap a, .single-post .topBarInLogoArea a, .single-post .topBarInLogoArea span
+{
+  color: #111;
+	text-decoration: underline;
+}
+h4.nbs.nsPrev a {
+    text-decoration: none;
+}
+span.headline {
+    color: #000;
+}
+
+.single-post .btContentWrap .btSearchInnerContent button {
+  color: #111 !important;
+  box-shadow: 0 0 0 1px #111 inset!important;
+}
+
+.single-post .btContentWrap .btSearchInnerContent input {
+  box-shadow: 0 -1px 0 0 rgba(0,0,0,.4) inset !important;
+  color: #111 !important;  
+}
+
+.single-post .btContentWrap .btSearchInnerContent input::placeholder {
+  color: #111 !important;
+}
+
+/***********************************
+ *** End Slon Posts Pages Styles **
+************************************/
+
+/***********************************
+ *** Start Slon Post Grid ***
+************************************/
+/** CLASSIC **/
+
+.slon-post-gridbtGridGap-20 p,
+.slon-post-grid p {
+  color: rgba(102,102,102,1) !important;
+}
+
+.slon-post-gridbtGridGap-20 span.headline a:hover,
+.slon-post-grid span.headline a:hover {
+  color: #dfc380 !important;
+}
+
+.slon-post-gridbtGridGap-20 .btGridShare, .slon-post-grid .btSubTitle, .slon-post-grid .btArticleCategories,
+.slon-post-grid .btGridShare, .slon-post-grid .btSubTitle, .slon-post-grid .btArticleCategories {
+  display: none !important;
+}
+
+.slon-post-gridbtGridGap-20 .gridItem::after,
+.slon-post-grid .gridItem::after {
+  border-color: #f9f9f9 !important;
+} 
+
+/** TILED **/
+/*
+.slon-post-gridbtGridGap-20 .tiled .btShowTitle,
+.slon-post-grid .tiled .btShowTitle {
+  display: none;
+}
+
+.slon-post-gridbtGridGap-20 .tiled .captionPane,
+.slon-post-grid .tiled .captionPane {
+  background-color: #222; 
+}
+.slon-post-gridbtGridGap-20 .tiled .captionPane .btSuperTitle .btArticleAuthor,
+.slon-post-grid .tiled .captionPane .btSuperTitle .btArticleAuthor {
+  display: none;
+}
+
+.slon-post-gridbtGridGap-20 .tiled .captionPane .btSuperTitle::after,
+.slon-post-grid .tiled .captionPane .btSuperTitle::after {
+  display: none;
+}
+
+.slon-post-gridbtGridGap-20 .tiled .captionPane .captionTxt::before,
+.slon-post-grid .tiled .captionPane .captionTxt::before {
+  content: "";
+}
+*/
+
+/***********************************
+ *** End Slon Post Grid ***
+************************************/
+
+
+
+
+/***********************************
+ *** Start Wonder plugins Styles ***
+************************************/
+
+/* lightbox wonder plugin styles */
+.html5-elem-box, .html5-elem-wrap {
+  background-color: transparent !important;
+}
+
+/* gallery slider wonder plugin styles */
+[class^='html5gallery-elem-img-'] > a {
+  pointer-events: none !important;
+  cursor: default !important;
+}
+[class^='html5gallery-elem-img-'] > a > div, [class^='html5gallery-fullscreen-elem-'] {
+  background-color: transparent !important;
+  color: transparent !important;
+}
+[class^='html5gallery-fullscreen-play-'], [class^='html5gallery-fullscreen-bar-wrapper-'], [class^='html5gallery-fullscreen-bar-'] {
+  display: none !important;
+}
+[class^='html5gallery-fullscreen-box-'] {
+  padding-top: 37px !important;
+}
+
+/* gallery grid wonder plugin styles */
+#html5-watermark {
+  display: none !important;
+}
+#gridgallery-html5-lightbox {
+  z-index: 9999 !important;
+}
+
+/**********************************
+ *** End Wonder plugins Styles ***
+***********************************/
+
+
+/*************************
+ *** Start Font Styles ***
+**************************/
+
+
+/*** Slon SILVER text font styles**/
+.boldSection .slon-silver-text h2 {
+  color: rgba(51,51,51,1);
+  font-family: 'Playfair Display';
+}
+
+.boldSection .slon-silver-text h4 {
+  color: #999;
+  font-family: 'Playfair Display';
+}
+
+.boldSection .slon-silver-text p {
+  color: rgba(102,102,102,1);
+  font-family: 'Roboto';
+}
+
+/* 
+ --- Slon WHITE text font styles ---
+*/
+.boldSection .slon-white-text h2, 
+.boldSection .slon-white-text h3 {
+  color: rgba(51,51,51,1);
+  font-family: 'Playfair Display';
+}
+.boldSection .slon-white-text p,
+.boldSection .slon-white-text p > span {
+  color: rgba(102,102,102,1) !important;
+  font-family: 'Roboto';
+}
+
+/* 
+ --- Slon WHITE text min font size ---
+*/
+.boldSection .slon-white-text h3 {
+  font-size: 15px;
+}
+.boldSection .slon-white-text p {
+  font-size: 12px;
+}
+
+/*
+ --- Slon BLACK text font styles --- 
+*/
+.boldSection .slon-black-text h2 {
+  color: #e2c285; 
+  font-family: 'Playfair Display';
+}
+
+.boldSection .slon-black-text h4 {
+  color: #a39161; 
+  font-family: 'Playfair Display';
+}
+
+.boldSection .slon-black-text p {
+  color: #999;
+  font-family: 'Roboto';
+}
+
+/*
+ --- Slon black text min font size --- 
+*/
+.boldSection .slon-black-text h2 {
+  font-size: 22px;
+}
+.boldSection .slon-black-text p {
+  font-size: 14px;
+}
+
+/* 
+ --- Slon hero container font styles ---
+*/
+.boldSection .boldRow.slon-hero-container .btText h1,
+.boldSection .boldRow.slon-hero-container .btText h2,
+.boldSection .boldRow.slon-hero-container .btText a {
+  color: white;
+}
+.boldSection .boldRow.slon-hero-container .btText h1,
+.boldSection .boldRow.slon-hero-container .btText h2 {
+  font-family: 'Playfair Display';
+  font-weight: 400;
+}
+.boldSection .boldRow.slon-hero-container .btText h1 {
+  margin: 0;
+}
+.boldSection .boldRow.slon-hero-container .btText h2 {
+  margin-bottom: 40px;
+}
+.boldSection .boldRow.slon-hero-container .btText a {
+  font-weight: 100;
+}
+.boldSection .boldRow.slon-hero-container .btText a:hover {
+  color: #dfc387 !important;
+}
+
+/* 
+ --- Slon hero container min font size ---
+*/
+.boldSection .boldRow.slon-hero-container .btText h1 {
+  font-size: 40px;
+}
+.boldSection .boldRow.slon-hero-container .btText h2,
+.boldSection .slon-white-text h2 {
+  font-size: 20px;
+}
+.boldSection .boldRow.slon-hero-container .btText a {
+  font-size: 10px;
+}
+
+/* 
+ --- Black headers font styles ---
+*/
+.boldSection .rowItem.slon-black-headers .btText h1,
+.boldSection .rowItem.slon-black-headers .btText h2,
+.boldSection .rowItem.slon-black-headers .btText h5,
+.boldSection .rowItem.slon-black-headers .btText h6 {
+  color: black !important;
+}
+.boldSection .rowItem.slon-black-headers .btText h3 {
+  color: #999 !important;
+}
+.boldSection .rowItem.slon-black-headers .btText h4,
+.boldSection .slon-white-text h4 {
+  color: #333333 !important;
+}
+.boldSection .rowItem.slon-black-headers .btText p {
+  color: rgba(102,102,102,1) !important;
+}
+
+.boldSection .rowItem.slon-black-headers .btText h2,
+.boldSection .rowItem.slon-black-headers .btText h4,
+.boldSection .slon-white-text h4,
+.boldSection .rowItem.slon-black-headers .btText p {
+  font-family: 'Playfair Display';
+}
+.boldSection .rowItem.slon-black-headers .btText h2 {
+  margin-bottom: 10px;
+}
+.boldSection .rowItem.slon-black-headers .btText h3 {
+  font-family: "Montserrat";
+}
+
+/* 
+ --- Black headers min font size ---
+*/
+.boldSection .rowItem.slon-black-headers .btText h2 {
+  font-size: 17px;
+}
+.boldSection .rowItem.slon-black-headers .btText h3 {
+  font-size: 13px;
+}
+.boldSection .rowItem.slon-black-headers .btText h4,
+.boldSection .slon-white-text h4 {
+  font-size: 16px;
+}
+.boldSection .rowItem.slon-black-headers .btText p {
+  font-size: 14px;
+}
+
+/* 
+ --- White headers min font size ---
+*/
+.boldSection .rowItem.slon-white-headers .btText h2 {
+    font-family: 'Playfair Display';
+  font-size: 20px;
+}
+.boldSection .rowItem.slon-white-headers .btText h3 {
+    font-family: 'Playfair Display';
+  font-size: 15px;
+}
+.boldSection  .rowItem.slon-white-headers .btText h4 {
+    font-family: 'Playfair Display';
+  font-size: 18px;
+}
+
+/* 
+ --- Font resize all elements ---
+*/
+@media (min-width: 320px) {
+  
+  /* 
+  --- Slon Black headers ---
+  */
+  .boldSection .rowItem.slon-black-headers .btText h2 {
+    font-size: calc( 1.25vw + 13px );
+  }
+  .boldSection .rowItem.slon-black-headers .btText h3 {
+    font-size: calc( 0.3125vw + 12px );
+  }
+  .boldSection .rowItem.slon-black-headers .btText h4,
+  .boldSection .slon-white-text h4 {
+    font-size: calc( 0.3125vw + 15px );
+  }
+  .boldSection .rowItem.slon-black-headers .btText p {
+    font-size: calc( 0.3125vw + 13px );
+  }
+  
+  /* 
+   --- Slon hero container ---
+  */
+  .boldSection .boldRow.slon-hero-container .btText h1 {
+    font-size: calc( 3.125vw + 30px );
+  }
+  .boldSection .boldRow.slon-hero-container .btText h2,
+  .boldSection .slon-white-text h2 {
+    font-size: calc( 1.5625vw + 15px );
+  }
+  .boldSection .boldRow.slon-hero-container .btText a{
+    font-size: calc( 0.78125vw + 7.5px );
+  }
+  
+  /* 
+   --- Slon black text ---
+  */
+  .boldSection .slon-black-text h2 {
+    font-size: calc( 1.5625vw + 17px );
+  }
+  
+  /* 
+   --- Slon white text ---
+  */
+  .boldSection .slon-white-text h3 {
+    font-size: calc( 1.25vw + 11px );
+  }
+  .boldSection .slon-white-text p {
+    font-size: calc( 0.3125vw + 11px );
+  }
+}
+
+/* 
+  --- Body max font size ---
+*/
+@media (min-width: 960px) {
+   
+  /* 
+   --- Slon black headers ---
+  */
+  .boldSection .rowItem.slon-black-headers .btText h2 {
+    font-size: 25px;
+  }
+  
+  .boldSection .rowItem.slon-black-headers .btText h3 {
+    font-size: 15px;
+  }
+  
+  .boldSection .rowItem.slon-black-headers .btText h4,
+  .boldSection .slon-white-text h4 {
+    font-size: 12px;
+  }
+  
+  .boldSection .rowItem.slon-black-headers .btText p {
+    font-size: 16px;
+  }
+
+
+  /* 
+   --- Slon white headers ---
+  */
+  .boldSection .rowItem.slon-white-headers .btText h2 {
+    font-family: 'Playfair Display';
+    font-size: 66px  !important;
+  }
+  
+  .boldSection .rowItem.slon-white-headers .btText h3 {
+    font-family: 'Playfair Display';
+    font-size: 32px !important;
+  }
+  
+  .boldSection .rowItem.slon-white-headers .btText h4 {
+    font-family: 'Playfair Display';
+    font-size: 14px !important;
+  }
+  
+  /* 
+   --- Slon hero container max font size ---
+  */
+  .boldSection .boldRow.slon-hero-container .btText h1 {
+    font-size: 60px;
+  }
+  .boldSection .boldRow.slon-hero-container .btText h2,
+  .boldSection .slon-white-text h2 {
+    font-size: 30px;
+  }
+  .boldSection .boldRow.slon-hero-container .btText a {
+    font-size: 15px;
+     text-shadow: 0.7px 0.7px #666;
+   }
+  
+  /* 
+   --- Slon black text ---
+  */
+  .boldSection .slon-black-text h2 {
+    font-size: 32px;
+  }
+  
+  .boldSection .slon-black-text h4 {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  
+  /* 
+   --- Slon silver text ---
+  */
+  .boldSection .slon-silver-text h4 {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  
+  /* 
+   --- Slon white text ---
+  */
+  .boldSection .slon-white-text h3 {
+    font-size: 23px;
+  }
+  .boldSection .slon-white-text p {
+    font-size: 14px;
+  }
+}
+
+/*************************
+ *** End Font Styles ***
+**************************/
+
+
+
+/***************************
+ *** Start Mobile Styles ***
+****************************/
+
+/* Update mobile menu left and right padding */
+@media (max-width: 335px) {
+  body.btMenuVerticalLeft .gutter .port {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/* Set padding for menu logo */
+body.btMenuVerticalLeft .btLogoArea {
+  padding: 1px;
+}
+
+/* mobile top widget styles */
+.mobile-top-widget {
+  list-style: none;
+		background-color: #222222;
+    float: left;
+    width: 100vw;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: small;
+		color: white !important;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: #222222;
+		color: white !important;
+    width: 175px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    z-index: 6;
+    text-align: center;
+}
+.dropdown-content a,.dropdown-content a b{
+		color:#ffffff;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media (max-width: 1023px) {
+  .mobile-top-widget {
+    display:block;
+}
+		
+		.mobile-black-button, .mobile-golden-button {
+    display: block;
+    width: 50vw;
+    padding-top: 10.5px;
+		text-align: center;
+    position: fixed;
+    top: 0;
+    color: white !important;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+		
+		
+			.mobile-top-header-menu, .mobile-top-header-menu.mobile-black-button{
+		padding: 11px 12px;
+    display: table-cell;
+    align-items: center;
+    border-right: 1px solid rgba(255, 255, 255, .15);
+		}
+		
+		.mobile-top-header-menu.mobile-black-button,.mobile-top-header-menu.mobile-golden-button{
+				position:relative;
+		}
+  .mobile-black-button {
+    left: 0;
+    background-color: #222222;
+  }
+  
+  .mobile-golden-button {
+    right: 0;
+    background-color: #dfc387;
+  }
+  
+		.mobile-top-header-menu.mobile-top-button{
+padding: 11px 12px;
+display: table-cell;
+align-items: center;
+border-right: 1px solid rgba(255, 255, 255, .15);
+}
+
+/* Mobile default menu styles */
+  header.mainHeader {
+    position: fixed;
+    /*padding-top: 45px;*/
+    background-color: #444 !important;
+    -moz-box-shadow: 0 1px 10px rgba(0,0,0,.2);
+    -webkit-box-shadow: 0 1px 10px rgba(0,0,0,.2);
+    box-shadow: 0 1px 10px rgba(0,0,0,.2);
+  }
+		
+		
+		  /* reduce logo size on mobile view */
+  header.mainHeader .btLogoArea .logo img {
+    height: 50px;
+  }
+  
+  /* reduce menu trigger icon size on mobile view */
+  header.mainHeader .btLogoArea .btVerticalMenuTrigger {
+    line-height: 70px;
+    width: 70px;
+  }
+		
+/*.mobile-black-button, .mobile-golden-button {
+  display: none;
+  text-transform: uppercase;
+}*/
+
+}
+
+
+@media (max-width: 449px) {
+  .mobile-golden-button {
+    line-height: 14px;
+  }
+}
+
+@media (max-width: 325px) {
+  .mobile-black-button {
+    line-height: 14px;
+		font-size: 13px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/***************************
+ *** End Mobile Styles ***
+****************************/
+
+
+/******************************
+ *** Start Slon Hero Styles ***
+*******************************/
+
+/*
+  --- Adjust first section to viewport height and width ---
+*/
+/*section .boldRow.slon-hero-container, body:not(.search):not(.single-post) .btContentWrap section:first-child {*/
+	section .boldRow.slon-hero-container{
+
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.30);
+}
+section .boldRow.slon-hero-container-middle {
+  height: 50vh!important;
+	 background-color: rgba(0, 0, 0, 0.6);
+}
+section .boldRow.slon-hero-container-middle .boldRowInner {
+  min-height: 365px;
+  max-height: 460px;
+}
+
+/*
+  --- Keep content below sticky menu in small screens ---
+*/
+section .boldRow.slon-hero-container {
+  padding-top: 150px;
+}
+
+/*
+  --- Center content inside section with full viewport size (height and width) ---
+*/
+section .boldRow.slon-hero-container, .align-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/*
+ --- height/2 of viewport ---
+*/
+section.slon-hero-container-short, section.slon-hero-container-short .boldRow.slon-hero-container, .half-viewport-height {
+  height: 50vh !important;
+  min-height: 20em !important; 
+}
+
+/******************************
+ *** End Slon Hero Styles ***
+*******************************/
+
+
+/****************************
+ *** Start General Styles ***
+*****************************/
+
+/* Align tripadvisor images in mozilla */
+.align-mozilla {
+  margin-top: 28px;
+}
+.align-mozilla p {
+  margin-bottom: 10px;
+}
+@-moz-document url-prefix() {
+  .align-mozilla {
+    margin-top: 0;
+  }
+}
+
+/* Custom column height to keep background image in mobile devices */
+.boldRowInner.btTableRow>.rowItem.mobile-background-image {
+  min-height: auto;
+}
+
+@media (max-width: 767px) {
+  .boldRowInner.btTableRow>.rowItem.mobile-background-image {
+    min-height: 300px;
+  }
+}
+
+/*
+ --- Reviews underline ---
+*/
+section.reviews-slider .wSlider h4 {
+  border-bottom: 1px solid rgba(54,61,64,.2);
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+/*
+ --- Golden underline for titles ---
+*/
+.boldSection h2.underline::after,
+.boldSection h3.underline::after {
+    content: "";
+    display: block;
+    position: relative;
+    width: 50px;
+    margin: 25px 0 15px;
+    border-bottom: 2px solid #e2c285;
+}
+
+.page-id-33 .boldSection h2.underline::after,
+.page-id-9259 .boldSection h2.underline::after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 
+ --- Slon padding ---
+*/
+.boldSection .rowItem.slon-add-padding .btText, 
+.boldSection .rowItem.slon-add-padding .btImage {
+  padding: 15%;
+}
+.boldSection .rowItem.slon-add-padding-small .btText, 
+.boldSection .rowItem.slon-add-padding-small .btImage {
+  padding: 15% 5%;
+}
+
+/* 
+ --- Update search bar placeholder color --- 
+*/
+.topBar .widget_search .btSearch .btSearchInnerContent > form > input::placeholder {
+ color: #c5bdbd;
+ text-shadow: 1px 1px 2px rgba(26, 25, 25, 0.8);
+}
+.widget_search h2 {
+   display: none;
+}
+
+/*
+  --- Specific width for ornament images ---
+*/
+section img.ornament {
+  width: 250px;
+  height: auto;
+  margin-top: 25px !important;
+}
+
+/*
+  --- Center image inside section with full viewport size (height and width) ---
+*/
+section img.aligncenter.center-image {
+ display: block;
+}
+
+/*
+ --- black gradient for images ---
+*/
+.black-gradient-1 {
+  background-color: rgba(0,0,0,0.4) !important;
+}
+.black-gradient-2 {
+  background-color: rgba(0,0,0,0.5) !important;
+}
+.black-gradient-3 {
+  background-color: rgba(0,0,0,0.6) !important;
+}
+
+/*
+ --- Button common styles ---
+*/
+a.golden-button, a.silver-button {
+  display: inline-block;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-family: "Montserrat" !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase;
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+  text-align: center;
+}
+a.orange-button {  
+  display: inline-block;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-family: "Montserrat" !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase;
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+  text-align: center;
+}
+/* 
+ --- Golden button ---
+*/
+
+a.orange-button {
+  color: white !important;
+  border: 2px solid #ff4600 !important;
+  background-color: #ff4600 !important;
+}
+a.orange-button:hover {
+  color: #fff !important;
+  background-color: black !important;
+  text-decoration: underline !important;
+}
+
+a.golden-button {
+  color: white !important;
+  border: 2px solid #dfc387 !important;
+  background-color: #dfc387 !important;
+}
+a.golden-button:hover {
+  color: #dfc387 !important;
+  background-color: black !important;
+  text-decoration: underline !important;
+}
+
+.golden-button-cta {
+    color: white !important;
+    border: 2px solid #dfc387 !important;
+    background-color: #d9ba5c !important;
+    padding: 15px 10px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Montserrat" !important;
+    font-weight: 700;
+}
+.golden-button-cta:hover {
+    color: #d9ba5c !important;
+    background-color: black !important;
+    padding: 15px 10px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Montserrat" !important;
+    font-weight: 700;
+}
+
+/* 
+ --- Silver button ---
+*/
+a.silver-button {
+  color: #dfc387 !important;
+  border: 2px solid #dfc387 !important;
+  background-color: transparent !important;
+}
+a.silver-button:hover {
+  border: 2px solid black !important;
+  color: black !important;
+  background-color: #dfc387 !important;
+  text-decoration: underline !important;
+}
+/****************************
+ *** End General Styles ***
+*****************************/
+
+
+/********************
+ *** Start header ***
+*********************/
+.menuPort nav ul li a {
+  font-weight: 400 !important;
+  letter-spacing: -0.3px !important;
+  font-size: 0.83em !important;
+  color: white !important;
+}
+
+body.btMenuHorizontal .menuPort>nav>ul>li {
+  margin: 0 20px 0 0;
+  padding-right: 8px;
+}
+
+.btMenuHorizontal.btMenuBelowLogo .menuPort nav>ul>li>a {
+  line-height: 50px !important;
+}
+
+body.btMenuHorizontal.btStickyHeaderActive.btDarkSkin .mainHeader {
+  background-color: rgba(17,17,17,1);
+}
+
+.btMenuHorizontal .mainHeader>.port:before {
+  height: 0px !important;
+}
+
+.btLogoArea {
+  position: absolute !important;
+  padding: 0 !important;
+}
+
+.btDarkSkin.btMenuBelowLogo .btLogoArea.menuHolder {
+  border-bottom: 0 !important;
+  top: 0px;
+}
+
+body:not(.btBelowMenu) .mainHeader {
+  background: transparent;
+}
+
+body.btMenuHorizontal.btMenuBelowLogo:not(.single-post):not(.btStickyHeaderActive) .btBelowLogoArea {
+  padding-top: 10px;
+}
+
+body.btMenuHorizontal .logo {
+  padding-top: 60px;
+}
+
+body.btMenuHorizontal:not(.btStickyHeaderActive) .menuPort>nav>ul>li>a {
+  text-shadow: 1px 1px 2px rgba(26, 25, 25, 0.8);
+}
+
+/* 
+ --- Menu hover styles ---
+*/
+.btMenuHorizontal .btBelowLogoArea .menuPort nav>ul>li:hover > a {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+/* 
+ --- Selected item from menu ---
+*/
+.btMenuHorizontal .btBelowLogoArea .menuPort nav>ul>li.current-menu-item > a {
+  color: #dfc387;
+}
+
+/* 
+ --- Last menu item button style ---
+*/
+body.btMenuHorizontal .menuPort>nav:not(.leftNav)>ul>li:last-child>a {
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white !important;
+  border: 2px solid #dfc387 !important;
+  background-color: #dfc387 !important;
+  font-family: "Montserrat" !important;
+  font-weight: 400 !important;
+  letter-spacing: 0px !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+  opacity: 1;
+}
+
+body.btMenuHorizontal .menuPort>nav:not(.leftNav)>ul>li:last-child>a:hover {
+  color: #dfc387 !important;
+  background-color: black !important;
+  text-decoration: underline !important;
+}
+
+/*
+ --- Sub menu styles ---
+*/
+body.btMenuHorizontal .menuPort ul ul:before {
+  display: none !important;
+}
+body.btMenuHorizontal.btMenuBelowLogo.btStickyHeaderActive .menuPort nav>ul>li>ul {
+  background-color: rgba(0, 0, 0, 0.85);
+}
+body.btMenuHorizontal.btMenuBelowLogo .menuPort nav>ul>li>ul {
+  top: 40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  left: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+body.btMenuHorizontal .menuPort ul ul.sub-menu li a {
+  color: white;
+  text-transform: uppercase;
+  border: none;
+	text-align: center;
+}
+body.btMenuHorizontal .menuPort ul ul.sub-menu {
+  width: 160px;
+}
+body.btMenuHorizontal .menuPort ul ul.sub-menu li:hover {
+  background-color: rgba(144, 143, 143, 0.5);
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+}
+
+/*
+  --- Top Left Widget ---
+*/
+.btMenuHorizontal .topBarInLogoArea {
+  position: absolute;
+  width: 280% !important;
+  padding-top: 10px;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: -180px;
+  background-color: #222222;
+  width: 255px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 6;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content i {
+  margin-right: 5px;
+}
+
+/* 
+ --- Remove animation circle from menu ---
+*/
+.btMenuHorizontal .menuPort nav > ul > li::after {
+  display: none !important;
+}
+body.btMenuRight.btMenuHorizontal .menuPort nav>ul>li>ul li:after {
+  display: none !important;
+}
+/********************
+ *** End header ***
+*********************/
+
+
+/********************
+ *** Start footer ***
+*********************/
+a.btContinueReading {
+  font-weight: 400;
+  color: black;
+}
+
+.footer-widget {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.footer-widget h5,.footer-widget h4 {
+  color: #dddddd !important;
+  font-size: 1em !important;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.footer-widget p,
+.footer-widget p a,
+.footer-widget ul li a {
+  color: rgba(153,153,153,1) !important;
+  font-size: 12px !important;
+  font-family: 'Roboto';
+  font-weight: 300;
+  text-transform: none;
+  line-height: 20px !important;
+}
+.footer-widget ul li {
+  padding: 0 !important;
+}
+.footer-widget ul li a:before {
+  display: none !important;
+}
+.footer-widget ul li a:hover,
+.footer-widget p a:hover {
+  margin-left: 0 !important;
+  color: rgba(153,153,153,0.5) !important;
+}
+
+.footer-widget .social-icon {
+  vertical-align: -webkit-baseline-middle;
+  margin-right: 5px;
+}
+
+.footer-widget .gallery-item {
+    text-align: left !important;
+}
+
+/*
+  --- Image Slider Widget ---
+*/
+.bx-wrapper .bx-viewport {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: 5px solid #fff0 !important;
+  background: transparent !important;
+}
+
+.bx-wrapper {
+  margin: 0 !important;
+}
+
+/*
+  --- Footer Top Border ---
+*/
+.btSiteFooterWidgets .port {
+  border-top: none;
+}
+/********************
+ *** End footer ***
+*********************/
+
+
+/*****************************************
+ *** START GRAVITY FORM  STYLES  ***
+******************************************/
+
+/* Adjust select type inputs to match height of normal fields */
+section .boldRow .btText form div.input select.hs-input {
+  height:48px !important;
+}
+
+/*
+ --- Add shadow to sticky form ---
+*/
+.slon-sticky:not(.element-is-not-sticky) {
+  -moz-box-shadow: 0 1px 10px rgba(0,0,0,.2);
+  -webkit-box-shadow: 0 1px 10px rgba(0,0,0,.2);
+  box-shadow: 0 1px 10px rgba(0,0,0,.2);
+  padding: 0 !important;
+}
+
+/*
+ --- Update input styles ---
+*/
+.gform_body .gform_page_fields .ginput_container select,
+.gform_body .gform_page_fields .ginput_container input,
+.gform_body .gform_page_fields .ginput_container textarea:not([type='checkbox']):not([type='radio']):focus {
+  background-color: white !important;
+}
+
+@media only screen and (min-width: 641px) {
+  /*
+  --- Update fields width ---
+  */
+  .gform_wrapper .top_label li.gfield.gf_first_quarter:not(.gfield_time_hour):not(.gfield_time_minute):not(.gfield_time_ampm), .gform_wrapper .top_label li.gfield.gf_fourth_quarter:not(.gfield_time_hour):not(.gfield_time_minute):not(.gfield_time_ampm), .gform_wrapper .top_label li.gfield.gf_second_quarter:not(.gfield_time_hour):not(.gfield_time_minute):not(.gfield_time_ampm), .gform_wrapper .top_label li.gfield.gf_third_quarter:not(.gfield_time_hour):not(.gfield_time_minute):not(.gfield_time_ampm) {
+    width: 24%;
+  }
+  .gform_wrapper .top_label li.gfield.gf_left_third div:not(.ginput_container_date) input:not([type=radio]):not([type=checkbox]):not(.ginput_quantity),
+  .gform_wrapper .top_label li.gfield.gf_middle_third div:not(.ginput_container_date) select,
+  .gform_wrapper .top_label li.gfield.gf_right_third div:not(.ginput_container_date) select {
+    width: 90%!important;
+  }
+}
+
+body .gform_wrapper .gf_progressbar_percentage,
+body .gform_wrapper .gf_step,
+body .gform_wrapper .gf_step span.gf_step_number,
+body .gform_wrapper .gfield_description,
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper input[type="button"],
+body .gform_wrapper input[type="submit"],
+body .gform_wrapper input[type="reset"],
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single,
+body .gform_wrapper select {
+  font-family: 'Raleway', sans-serif;
+}
+
+body .gform_wrapper .gf_progressbar,
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-drop,
+body .gform_wrapper .chzn-container-multi .chzn-drop,
+body .gform_wrapper .chzn-container-active .chzn-single,
+body .gform_wrapper .chzn-container-active .chzn-choices {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+body .gform_wrapper .gf_progressbar,
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single,
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper .chzn-container-single .chzn-single div,
+body .gform_wrapper .chzn-container-single .chzn-single b,
+body .gform_wrapper .chzn-container .chzn-drop,
+body .gform_wrapper .chzn-choices,
+body .gform_wrapper .chzn-container-multi .chzn-choices,
+body .gform_wrapper li.gfield.gfield_error,
+body .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning,
+body .gform_wrapper select {
+  border: 0;
+}
+
+body .gform_wrapper .gf_progressbar,
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single {
+  background-image: none;
+}
+
+body .gform_wrapper .top_label .gfield_label,
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper .ginput_left input:focus + label,
+body .gform_wrapper .ginput_right input:focus + label,
+body .gform_wrapper .ginput_full input:focus + label,
+body .gform_wrapper table.gfield_list thead th {
+  font-weight: 400;
+}
+
+body .gform_wrapper .charleft {
+  margin-top: 0;
+}
+
+body .gform_wrapper .gfield_description {
+  padding: 5px 0 0 0;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper select,
+body .gform_wrapper.gf_browser_chrome .ginput_complex select,
+body .gform_wrapper.gf_browser_chrome .ginput_complex .ginput_right select {
+  padding: 15px;
+  outline: 0;
+  resize: none;
+  box-sizing: border-box;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper input[type="button"],
+body .gform_wrapper input[type="submit"],
+body .gform_wrapper input[type="reset"],
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single,
+body .gform_wrapper select {
+  font-size: 13px;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single {
+  line-height: 17px;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single b {
+  background-color: #ffffff;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper .chzn-container-single .chzn-single span,
+body .gform_wrapper select {
+  color: #818181;
+}
+
+body .gform_wrapper input[type=text],
+body .gform_wrapper input[type=url],
+body .gform_wrapper input[type=email],
+body .gform_wrapper input[type=tel],
+body .gform_wrapper input[type=number],
+body .gform_wrapper input[type=password],
+body .gform_wrapper textarea,
+body .gform_wrapper .chzn-container,
+body .gform_wrapper select {
+  margin: 5px 0 0;
+}
+
+body .gform_wrapper input[type="button"],
+body .gform_wrapper input[type="submit"],
+body .gform_wrapper input[type="reset"] {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  height: 39px;
+  line-height: 36px;
+  margin: 0;
+  padding: 0px 23px;
+  border: 2px solid #303030;
+  font-weight: 700;
+  text-align: left;
+  color: #303030;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+  outline: none;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  -o-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+  text-shadow: none;
+  background-color: transparent;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  -ms-transition: all 0.1s linear;
+  -o-transition: all 0.1s linear;
+  transition: all 0.1s linear;
+}
+
+body .gform_wrapper input[type="button"]:hover,
+body .gform_wrapper input[type="submit"]:hover,
+body .gform_wrapper input[type="reset"]:hover {
+  background-color: #dfc387;
+  border-color: #dfc387; 
+  color: #ffffff;
+  text-decoration: none;
+}
+
+body .gform_wrapper .chzn-container .chzn-single,
+body .gform_wrapper .chzn-container-single .chzn-single {
+  height: auto;
+  padding: 15px 2%;
+}
+
+body .gform_wrapper .chzn-container-single .chzn-single div b {
+  background-position: -18px 10px;
+}
+
+body .gform_wrapper .chzn-container-single .chzn-single-with-drop div b {
+  background-position: -1px 10px;
+}
+
+body .gform_wrapper .chzn-container-single .chzn-search input {
+  border: 1px solid #aaaaaa;
+}
+
+body .gform_wrapper .chzn-choices {
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #ffffff), color-stop(0, #ffffff)) !important;
+}
+
+body .gform_wrapper .chzn-choices .search-field .default {
+  padding-left: 10%;
+}
+
+body .gform_wrapper .chzn-container-multi .chzn-choices .search-field input {
+  padding: 15px;
+}
+
+body .gform_wrapper div.validation_error,
+body .gform_wrapper .gform_confirmation_message {
+  position: relative;
+  padding: 17px 30px 17px 30px;
+  color: #fff;
+  text-transform: uppercase;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: 500;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: none;
+}
+
+body .gform_wrapper div.validation_error {
+  background-color: #dfc387;
+}
+
+body .gform_wrapper .gform_confirmation_message {
+  background-color: #dfc387;
+}
+
+body .gform_wrapper .ginput_complex .name_prefix,
+body .gform_wrapper .ginput_complex .name_suffix,
+body .gform_wrapper input.ginput_quantity {
+  width: 60px !important;
+}
+
+body .gform_wrapper .gfield_time_ampm select {
+  min-width: 80px;
+}
+
+body .gform_wrapper .gfield_time_hour {
+  vertical-align: middle;
+}
+
+body .gform_wrapper .button.gform_button_select_files {
+  height: 31px;
+  line-height: 24px;
+  padding: 0 9px;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+
+.gf_progressbar_wrapper, #gf_progressbar_wrapper_2, #gf_progressbar_wrapper_3 {
+    display: none;
+}
+
+.form_inq input[type=number],
+.form_inq input[type=password],
+.form_inq input[type=tel],
+.form_inq input[type=text],
+.form_inq input[type=url],
+.form_inq select,
+.form_inq textarea, .form_inq input[type=email] {
+  border: 1px solid #818181 !important;
+  border-radius: 6px !important;
+  font-size: 1.1rem!important;
+  padding: 6px 5px!important;
+}
+
+body .gform_wrapper .top_label div.ginput_container {
+  margin-top: 0px!important;
+}
+
+/* Update select font weight */
+body .gform_wrapper .top_label div.ginput_container > select {
+  font-family: 'Play fair';
+}
+
+.gfield_label {
+  margin-bottom: 0px!important;
+  font-size: 1em!important;
+  font-weight: bold!important;
+  display: none!important;
+}
+
+.gform_wrapper ul li.gfield {
+  margin-top: 2px!important;
+}
+
+.gform_wrapper .gform_page_footer {
+  margin-top: 6px !important;
+  border-top: none!important;
+  padding: 1px;
+  clear: none!important;
+}
+
+.ginput_container_date .datepicker {
+  width: 93%!important;
+}
+
+/* 
+ --- Form golden button ---
+*/
+.gform_page_footer .button.gform_next_button,
+.gform_page_footer .button.gform_button {
+  text-align: center !important;
+  color: white !important;
+  border: 2px solid #dfc387 !important;
+  background-color: #dfc387 !important;
+  font-family: "Montserrat" !important;
+  font-weight: 400 !important;
+  letter-spacing: 0px !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+}
+
+input#gform_previous_button_1 {
+text-align: center !important;
+  color: white !important;
+  border: 2px solid #dfc387 !important;
+  background-color: #dfc387 !important;
+  font-family: "Montserrat" !important;
+  font-weight: 400 !important;
+  letter-spacing: 0px !important;
+  font-size: 0.85em !important;
+  text-transform: uppercase !important;
+  -webkit-transition: all 500ms ease !important;
+  -moz-transition: all 500ms ease !important;
+  transition: all 500ms ease !important;
+}
+.gform_page_footer .button.gform_next_button:hover,
+.gform_page_footer .button.gform_button:hover {
+  color: #dfc387 !important;
+  background-color: black !important;
+  text-decoration: underline !important;
+}
+
+.form_inq select,
+.form_inq input[type="text"]{
+  height: 38px!important;
+}
+
+@media only screen and (min-width:700px) {
+    .gform_wrapper textarea.medium {
+        height: 80px!important;
+        width: 96.8% !important;
+    }
+    .form_inq input[type=number],
+    .form_inq input[type=password],
+    .form_inq input[type=tel],
+    .form_inq input[type=text],
+    .form_inq input[type=url],
+    .form_inq select {
+        width: 90%!important;
+    }
+    #gform_page_1_1 .gform_page_fields,
+    #gform_page_2_1 .gform_page_fields,
+    #gform_page_3_1 .gform_page_fields,
+    #gform_page_4_1 .gform_page_fields,
+    #gform_page_5_1 .gform_page_fields {
+        float: left!important;
+        width: 80%!important;
+    }
+    #gform_page_1_1 .gform_page_footer,
+    #gform_page_2_1 .gform_page_footer,
+    #gform_page_3_1 .gform_page_footer,
+    #gform_page_4_1 .gform_page_footer,
+    #gform_page_5_1 .gform_page_footer{
+        float: left!important;
+        width: 20%!important;
+    }
+}
+
+.form_inq textarea {
+    border-color: rgba(102, 102, 102, .25);
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(102, 102, 102, 1);
+}
+
+@media only screen and (min-width:300px) {
+    .gform_wrapper .gform_page_footer {
+      margin: 8px 0;
+      width: 100%;
+      border-top: 1px dotted #CCC;
+      clear: both;
+      text-align: center;
+    }
+    .gform_page_fields,
+    .gform_page_footer {
+        float: none;
+        width: 100%;
+    }
+    .form_inq input[type=number],
+    .form_inq input[type=password],
+    .form_inq input[type=tel],
+    .form_inq input[type=text],
+    .form_inq input[type=url],
+    .form_inq select,
+    .form_inq textarea {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 699px) {
+  .gform_wrapper .gform_page_footer {
+    padding-top: 0 !important;
+
+  }
+  .gform_wrapper .gform_page_footer .button.gform_next_button {
+    margin: 0 !important;
+  }
+}
+
+
+.formmobile .hs-form-required{
+  display: none !important;
+}
+
+.formmobile .hbspt-form {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.formmobile .hbspt-form .actions input {
+    background: #223449!important;
+    border: 1px solid #c4c4c4!important;
+    border-radius: 0!important;
+    box-shadow: none!important;
+    color: #ffffff!important;
+    transition: all .5s!important;
+    height: 50px!important;
+    font-size: 16px!important;
+    margin: 0px !important;
+    width: 100%!important;
+    text-align: center;
+    cursor: pointer;
+}
+
+.formmobile  .hbspt-form label {
+    font-size: 15px;
+    font-weight: bolder;
+    color: #223449;
+}
+
+
+/*****************************************
+ *** END GRAVITY FORM  STYLES           ***
+******************************************/
+
+
+/*****************************************
+ *** START ROOM DETAILS  STYLES       ***
+******************************************/
+
+ul.room-details{
+  display:inline-block;list-style:none;margin:0;padding:0
+}
+
+ul.room-details li{
+  display:inline-block;
+  margin-left:-4px;
+  padding:0 15px;
+  border-right:1px solid #ddd;
+}
+
+ul.room-details li:last-child{
+  border-right:0 none
+}
+
+ul.room-details span.data{
+  color:#333;
+  font-family:'Playfair Display';
+  font-size:20px;
+}
+
+ul.room-details span.data-label{
+  color:#999;
+  font-family:'Montserrat';
+  font-size:10px;
+  line-height:10px;
+}
+
+@media screen and (min-width:768px){
+  ul.room-details li{padding:0 25px}
+  ul.room-details span.data{font-size:32px}
+  ul.room-details span.data-label{font-size:12px;line-height:16px}
+}
+
+/*****************************************
+ *** END ROOM DETAILS  STYLES           ***
+******************************************/
+
+/*****************************************
+ *** START LIGHT BOX FOR A DIV STYLES   ***
+/*******************************************/
+
+/**Hide sections on interactive Map Page*/
+.page-id-9193 header, .page-id-9193 footer {
+  display: none;
+}
+
+.page-id-57 header, .page-id-57 footer {
+  display: none;
+}
+
+/*****************************************
+ *** END LIGHT BOX FOR A DIV STYLES   ***
+******************************************/
+
+
+/*****************************************
+ *** START COPYRIGHT LINE   ***
+/*******************************************/
+
+footer .copyLine, footer .copyLine a {
+  color: rgba(153,153,153,1);
+  font-size: 12px;
+  text-transform: none !important;
+}
+
+footer .copyLine a:hover {
+  text-transform: none;
+  color: rgba(153,153,153,0.5);
+}
+
+.btSiteFooter {
+  border-top: 1px solid rgba(221,221,221,0.1);
+}
+
+footer .btTextRight img{
+  width: 25%;
+  height: auto;
+}
+
+footer .btTextRight img{
+  opacity: .5;
+}
+
+footer .btTextRight img:hover  {
+  opacity: 1;
+}
+
+/*****************************************
+ *** END COPYRIGHT LINE   ***
+/*******************************************/
+
+/*****************************************
+ *** START RESERVATION FORM   ***
+/*******************************************/
+
+.hs-form label {
+  color: rgba(102,102,102,1) !important;
+}
+
+.hs-form div.hs-form-field {
+  padding-top: 10px !important;
+}
+
+.hs-form input:not([type='radio']), .hs-form textarea, .hs-form select {
+  background-color: #FFF !important;
+  color: rgba(102,102,102,1)!important;
+  width: 100% !important;
+}
+
+.hs-form input:focus, .hs-form textarea:focus, .hs-form select:focus {
+  background-color: #FFF !important;
+  color: rgba(102,102,102,1) !important;
+  border: 1px solid rgba(102,102,102,1) !important;
+}
+
+.hs-form input[type="submit"] {
+  background-color: rgba(226,194,133,1) !important;
+  text-transform: uppercase !important;
+  padding: 15px 30px !important;
+  font-size: 14px !important;
+  color: #FFF !important;
+  width: auto !important;
+  margin: 25px auto 0 !important;
+  display: table;
+}
+
+.hs-form input[type="submit"]:hover {
+  background-color: rgba(236,194,133,1) !important;
+}
+
+.hs-form .hs-error-msgs {
+  color: red !important;
+}
+
+.hs-form .pika-lendar {
+  width: 30% !important;
+}
+
+/*subscribe form tweaks*/
+.suscribe-form .hs-form .hs_submit, .suscribe-form .hs-form fieldset {
+  float: left !important;
+}
+
+.suscribe-form .hs-form input[type="submit"] {
+  width: 100% !important;
+}
+
+.suscribe-form .hs-form input[type="text"], .suscribe-form .hs-form input[type="email"] {
+  height: 35px !important;
+}
+
+/*****************************************
+ *** END RESERVATION FORM   ***
+/*******************************************/
+
+
+
+/*****************************************
+ *** START TABS STYLES  ***
+/*******************************************/
+
+.btTabs span {
+  color: #666 !important;
+}
+
+.btTabs .tabAccordionTitle::before {
+  color: #000 !important; 
+}
+
+.btTabs .tabAccordionTitle::before {
+  color: #000 !important; 
+}
+
+.btTabs .tabPane ul li {
+  color: rgba(102,102,102,1) !important;
+}
+
+/*****************************************
+ *** END TABS STYLES  ***
+/*******************************************/
+
+
+/*barra de numeros agencias*/
+.widget_text.extendedwopts-hide.extendedwopts-mobile.widget.btTopBox.widget_custom_html {
+    font-family: "Montserrat" !important;
+}
+.btMenuHorizontal .topBarInLogoArea {
+    position: absolute;
+    width: 320%!important;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 0.8em;
+}
+
+body {
+    font-family: "$(bodyFont)", Arial, sans-serif;
+}
+body {
+	font-weight: 400;
+    line-height: 1.5 !important;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+ul.blog {
+   color: #e2c285 !important;
+}
+
+ol.ol-gold {
+   color: #e2c285 !important;
+   font-size: 30px;
+   padding: -5;
+}
+
+.btDarkSkin .btBox.widget_archive ul li a, .btDarkSkin .btBox.widget_categories ul li a, .btDarkSkin .btBox.widget_product_categories ul li a, .btDarkSkin .btBox.widget_pages ul li a, .btDarkSkin .btCustomMenu ul li a, .btDarkSkin .btBox.widget_meta ul li a, .btDarkSkin .btBox.widget_nav_menu ul li a, .btDarkSkin .btBox.widget_rss ul li a, .btDarkSkin .btBox.widget_recent_entries ul li a, .btLightSkin .btDarkSkin .btBox.widget_archive ul li a, .btLightSkin .btDarkSkin .btBox.widget_categories ul li a, .btLightSkin .btDarkSkin .btBox.widget_product_categories ul li a, .btLightSkin .btDarkSkin .btBox.widget_pages ul li a, .btLightSkin .btDarkSkin .btCustomMenu ul li a, .btLightSkin .btDarkSkin .btBox.widget_meta ul li a, .btLightSkin .btDarkSkin .btBox.widget_nav_menu ul li a, .btLightSkin .btDarkSkin .btBox.widget_rss ul li a, .btLightSkin .btDarkSkin .btBox.widget_recent_entries ul li a {
+    color: #d9ba5c ;
+}
+/* BOTONES CON SOMBRA HOME*/
+.btnFilledStyle.btnAccentColor span, .btnOutlineStyle.btnAccentColor:hover span, .btnFilledStyle.btnAccentColor span:before, .btnOutlineStyle.btnAccentColor:hover span:before, .btnFilledStyle.btnAccentColor a, .btnOutlineStyle.btnAccentColor:hover a, .btnFilledStyle.btnAccentColor .btIco a:before, .btnOutlineStyle.btnAccentColor:hover .btIco a:before, .btnFilledStyle.btnAccentColor button, .btnOutlineStyle.btnAccentColor:hover button {
+    color: #fff!important;
+    text-shadow: 1px 1px 2px rgba(26,25,25,0.8);
+}
+
+
+/*BLOCKQUOTE*/
+.btDarkSkin, .btLightSkin .btDarkSkin {
+    color: #666;
+    background-color: #111;
+}
+
+.btContentHolder blockquote:before {
+    content: '\201c';
+    font-family: PlayFair Display;
+    display: block;
+    clear: both;
+    font-size: 142px;
+    line-height: .65;
+    opacity: .2;
+    padding: -9px;
+    font-weight: 900;
+    font-style: normal;
+    height: -4px;
+    float: left;
+    margin: 15px 0 10px -80px;
+}
+
+.btContentHolder blockquote {
+    display: block;
+    padding: 0 0 20px;
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: 300;
+    line-height: 1.5;
+    font-style: italic;
+    font-family: "Playfair Display";
+    padding-left: 90px;
+}
+
+/* a href links color*/
+.btLightSkin .btText a, .btDarkSkin .btLightSkin .btText a, .btDarkSkin .btText a, .btLightSkin .btDarkSkin .btText a {
+    color: #d9ba5c  ;
+}
+
+/*=================== FLAG LANGUAGE ONE LINE BUTTON WHY ===================*/
+.btMenuHorizontal .btTopToolsRight {
+    float: right;
+		display: flex;
+		padding-right: 5px;
+}
+
+
+.widget_icl_lang_sel_widget>.wpml-ls ul li a img {
+    filter: none!important;
+    opacity: 1!important;
+}
+.wpml-ls-sidebars-footer_first_col.wpml-ls.wpml-ls-legacy-list-horizontal {
+    margin-left: 30px;
+}
+
+/*=================== EARLY BIRDS CSS ===================*/
+
+div#gform_wrapper_1 {
+    font-family: "Playfair Display";
+}
+
+h2.early-why {
+    color: black!important;
+    font-size: 40px;
+}
+
+div.earlybirds {
+  font-family: "Playfair Display"!important;
+  margin: 0px;
+  text-align: center;
+  color: #ffffff;
+}
+div.earlybirds-white {
+  font-family: "Playfair Display"!important;
+  margin: 0px;
+  text-align: center;
+  color: #fff;
+	background-color: rgba(0, 0, 0, 0.30);
+
+}
+
+.btDarkSkin h1, .btDarkSkin h2, .btDarkSkin h3, .btDarkSkin h4, .btDarkSkin h5, .btDarkSkin h6, .btLightSkin .btDarkSkin h1, .btLightSkin .btDarkSkin h2, .btLightSkin .btDarkSkin h3, .btLightSkin .btDarkSkin h4, .btLightSkin .btDarkSkin h5, .btLightSkin .btDarkSkin h6 {
+    color: #fff;
+    font-family: "Playfair Display";
+	font-size:20px;
+}
+
+earlybirds-white.rowItem.col-md-4.col-ms-12.btTextLeft{
+  margin: 20px;
+  text-align: center;
+  background-color: #ffffff;
+}
+div.earlybirds p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000;
+}
+div.earlybirds h2 {
+  margin: 5%;
+  font-family: "Playfair Display"!important;
+  color: #fff;
+  text-align: center;
+}
+div.earlybirds h3 {
+  margin: 5%;
+  font-family: "Playfair Display"!important;
+  color: #fff;
+  text-align: center;
+}
+
+div.earlybirds h5 {
+  margin: 5%;
+	top: -10px;
+  font-family: "Playfair Display"!important;
+  color: #fff;
+  text-align: center;
+}
+
+div.earlybirds-box h2 {
+  margin: 5%;
+  font-family: "Playfair Display";
+}
+
+div.earlybirds-form {
+    position: relative;
+    top: -40px;
+    width: 1000px;
+    height: 100px;
+    right: -50px;
+    background-color: #fff;
+    box-shadow: 5px 5px 8px #afacac;
+    align-items: center;
+}
+
+
+body.btMenuHorizontal .menuPort>nav>ul>li {
+    margin: 0 6px 0 0 !important;
+    padding-right: 0px;
+}
+.relaisestyle .btText div{
+	text-align: center;
+}
+/*SOMBRA Y TAMAÑO DE FEUNTE EN BOTON WHY TRAVEL WITH US TOP MENU*/
+textwidget custom-html-widget {
+    color: #FFFFFF;
+    padding: 0px 16px;
+    font-size: 10px;
+    text-shadow: 1px 1px 2px rgba(26,25,25,0.8)!important;
+    line-height: 26px;
+    border-color: #e9d5ab;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    text-shadow: none;
+    -moz-text-shadow: none;
+    -webkit-text-shadow: none;
+}
+
+/********************************************
+ ***   LIVE CHAT CORTE DE FOTO ELIMINADO  ***
+*********************************************/
+
+iframe#chat-widget {
+    width: 100%!important;
+    height: 100%!important;
+}
+
+/********************************************
+ ***   				 	OPTIN GIFT PROMO				  ***
+*********************************************/
+
+#float-img img{
+	position: fixed;
+	z-index: 666666676;
+	bottom: 68px;
+	right: 5px;
+}
+/********************************************
+ ***   				 	BORDE DE SLIDER AWARDS	  ***
+*********************************************/
+.ewic-slider-lite.ready_to_show {
+    -webkit-box-shadow: 0px 0px 12px -2px rgba(0,0,0,0.10);
+    -moz-box-shadow: 0px 0px 12px -2px rgba(0,0,0,0.10);
+    box-shadow: 0px 0px 12px -2px rgba(0,0,0,0.10);
+    border: 0PX #fff0 !important;
+}
+
+
+
+ 
+/******************************************************************************************************************
+ * *********																	LANDING PAGE PROMOS																					    *****
+ * ***************************************************************************************************************/
+
+/*LANDING PAGE*/
+
+
+#OurTeam {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #f7f7f7;
+}
+
+#OurTeam h2 {
+    font-size: 2.4rem;
+    text-align: center!important;
+}
+
+#OurTeam p.p-team {
+    padding: 1em 2em 1.5em 2em;
+}
+
+#OurTeam p {
+    margin-bottom: 0rem !important;
+    color: #444444;
+}
+
+#OurTeam p.number {
+    color: #F39C12;
+    font-weight: 600;
+    font-size: 0.9em;
+    padding-bottom: 10%;
+}
+
+#OurTeam .slick-dots li button:before {
+    content: '

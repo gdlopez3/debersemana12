@@ -1,0 +1,400 @@
+
+<!DOCTYPE html>
+<!--[if lte IE 8]><html class="ie8" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" prefix="fb: http://www.facebook.com/2008/fbml" /><![endif]-->
+<!--[if IE 9]><html class="ie9" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" prefix="fb:http://www.facebook.com/2008/fbml" /><![endif]-->
+<html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1 initial-scale=1.0" />
+     
+    
+
+    <!-- Open Graph -->
+    <meta property ="fb:page_id" content = "57432063177" /><meta property ="fb:admins" content = "57432063177" /><meta property ="og:type" content = "website" /><meta property ="og:site_name" content = "https://www.swissotel.com" /><meta property ="og:title" content = "Swissotel Quito - Luxury Hotel In Quito - Swissôtel Hotels & Resorts" /><meta property ="og:description" content = "Swissôtel, luxury hotel in the heart of cities around the world. Stay in stylish, modern rooms and suites with high-end service." /><meta property ="og:url" content = "https://www.swissotel.com/hotels/quito/" /><meta property ="og:image" content = "/assets/0/92/2119/2236/2275/2277/5365/8df20713-a910-4801-a77c-0670b1f5938f.png" />
+    <!--Twitter Cards -->
+    <meta name ="twitter:site" content ="@swissotel" /><meta name ="twitter:title" content ="Swissotel Quito - Luxury Hotel In Quito - Swissôtel Hotels & Resorts" /><meta name ="twitter:description" content ="Swissôtel, luxury hotel in the heart of cities around the world. Stay in stylish, modern rooms and suites with high-end service." /><meta name ="twitter:image" content ="/assets/0/92/2119/2236/2275/2277/5365/8df20713-a910-4801-a77c-0670b1f5938f.png" /><meta name ="twitter:card" content ="https://www.swissotel.com/frhiuploadedfiles/twitterCardSummaryDefaultImage.jpg" />
+    <!-- Existing SEO -->
+    <title>
+	Swissotel Quito - Luxury Hotel In Quito - Swissôtel Hotels & Resorts
+</title><meta name="description" content="Swissôtel, luxury hotel in the heart of cities around the world. Stay in stylish, modern rooms and suites with high-end service." /><link rel="alternate" hreflang="en" href="https://www.swissotel.com/hotels/quito/" /><link rel="alternate" hreflang="fr" href="https://www.swissotel.fr/hotels/quito/" /><link rel="alternate" hreflang="ar" href="https://www.swissotel.ae/hotels/quito/" /><link rel="alternate" hreflang="es" href="https://www.swissotel.es/hotels/quito/" /><link rel="alternate" hreflang="de" href="https://www.swissotel.de/hotels/quito/" /><link rel="alternate" hreflang="zh" href="https://www.swissotel.cn/hotels/quito/" /><link rel="alternate" hreflang="ja" href="https://www.swissotel.jp/hotels/quito/" /><link rel="alternate" hreflang="tr" href="https://www.swissotel.com.tr/hotels/quito/" /><link rel="alternate" hreflang="ru" href="https://www.swissotel-hotels.ru/hotels/quito/" /><link rel="canonical" href="https://www.swissotel.com/hotels/quito/" />
+    
+    <link rel="stylesheet" type="text/css" href="/frhi/inc/css/tripadvisornew.min.css?v=21.6" />
+
+<link rel="stylesheet" type="text/css" href="/frhi/inc/css/swissotel-property.min.css" />
+
+    <!--Start Accor Hotel Redirection Script for tracking -->
+    <script type="text/javascript">
+        var _AccorTrackingDecorator = _AccorTrackingDecorator || {};
+        _AccorTrackingDecorator.config = { "merchantid": "MS-MULTI-SWISSOTEL", "handleGoogleAnalytics": true, "autoDecorate": true, "debug": false, "isBrandSite": true, "brandName": "Swissotel" };
+    </script>
+	<script async src="//staticaws.fbwebprogram.com/accor_tracking_decorator/decorator.js"></script>
+    <!--End Accor Hotel Redirection Script for tracking -->
+
+    <script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-1662378-2']);  _gaq.push(['_setDomainName', 'swissotel.com']);  _gaq.push(['_setAllowLinker', true]);    _gaq.push(['_setCustomVar', 1, 'content_language', 'EN', 2]);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script><script type='text/javascript' src='https://all.accor.com/authentication/ahc/loader/scripts/main.js'></script>
+    <style id="antiClickjack">
+        body {
+            display: none !important;
+        }
+    </style>
+    <script type="text/javascript">
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+
+     <!-- OneTrust Cookies Consent Notice start for swissotel.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true"  type="text/javascript" charset="UTF-8" data-domain-script="5a7e3455-9ff1-4570-a014-da1c25abc933" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for swissotel.com --></head>
+<body>
+    <script> 
+     var dataLayer = window.dataLayer = window.dataLayer || [];
+   dataLayer.push({
+        'pageContent': 'SQU', //hotel code    
+        'pageCategory': '',                    
+        'hotelRegion': 'americas',
+        'pagename' : 'destination::squ::hp',
+        'pagelanguage' : 'en',
+        'category' : 'destination',
+        'sub_category_level1' : 'squ',
+        'sub_category_level2' : 'hp',
+        'sub_category_level3' : '',
+        'sub_category_level4' : '',
+        'brandcontext' : 'swissotel',
+        'merchantid' : '',
+        'sourceid' : '',
+        'hotelbrandcode' : 'sw',
+        'hotelbrandname' : 'swissotel',
+        'hotelcityname' : 'quito',
+        'hotelcode' : 'SQU',
+        'hotelcountrycode' : 'ec',
+        'hotelcountryname' : 'ecuador',
+        'hotelname' : 'swissotel quito',
+        'restaurantname' : '',
+        'barname' : '',
+        'uicity' : '',
+        'uicountry' : '',
+        'uilogged' : '0',
+        'uizipcode' : '',
+        'userId' : '',
+        'memberstatus' : '',
+        'uiallmember' : ''
+});
+</script><!-- Google Tag Manager --> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TPC2NB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TPC2NB');</script><!-- End Google Tag Manager -->
+    <!-- SiteCatalyst code version: H.24.2.Copyright 1996-2011 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">
+ var addReportID = ""
+</script><script language="JavaScript" type="text/javascript" src="/frhi/inc/js/s_code.js?version=43816.4762268519">
+</script><script language="JavaScript" type="text/javascript">
+s.pageName = "destination:swissotel quito:home page"
+s.server = "www.swissotel.com"
+s.channel = "destination:swissotel quito:home page"
+s.events = ""
+s.products = ""
+s.prop1 = "Ecuador"
+s.prop2 = "English"
+s.prop17 = "SQU"
+s.eVar25 = ""
+s.eVar27 = ""
+/************ DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+</script><script language="JavaScript" type="text/javascript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')</script><noscript>
+<img src="https://frhi.112.2o7.net/b/ss/frhiswissotel/1/H.23.2--NS/0" height="1" width="1" border="0" alt="" />
+</noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.2. -->
+    <form method="post" action="/hotels/quito/" id="aspnetForm">
+<div class="aspNetHidden">
+
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var ce = {"ae":null,"ak":"l7xxeaf70987d0e24784b065351428aba912","ak2":"l7xxeaf70987d0e24784b065351428aba912","au":"https://api.accor.com","aid":"com.swissotel","cl":"EN","du":"//www.swissotel.com","ma":"4","mc":"3","rid":null,"oon":null,"mca":"-1","mn":"-1"};//]]>
+</script>
+
+        <input type="hidden" name="ctl00$ctl00$servername" id="ctl00_ctl00_servername" value="E37 2023-07-09 05:30:13 AM" />
+        <input type="hidden" name="ctl00$ctl00$hdnLogOut" id="ctl00_ctl00_hdnLogOut" value="/logout" />
+        <input type="hidden" name="ctl00$ctl00$hdnPropertyName" id="hdnPropertyName" value="Swissotel Quito" />
+        <input type="hidden" name="ctl00$ctl00$hdnAccessibilityRoom" id="hdnAccessibilityRoom" />
+        <input type="hidden" name="ctl00$ctl00$hdnSessionCountryName" id="hdnSessionCountryName" />
+        <input type="hidden" name="ctl00$ctl00$hdnOmnitureOn" id="ctl00_ctl00_hdnOmnitureOn" value="true" />
+        <input type="hidden" name="ctl00$ctl00$hdnReportID" id="ctl00_ctl00_hdnReportID" value="FrhiSwissotel,FRHISwissotelQuito" />
+        <input type="hidden" name="ctl00$ctl00$hdnHotelCode" id="ctl00_ctl00_hdnHotelCode" value="SQU" />
+        <input type="hidden" name="ctl00$ctl00$hdnRedirectionToAccor" id="ctl00_ctl00_hdnRedirectionToAccor" />
+        <input type="hidden" name="ctl00$ctl00$hdnRedirectURL" id="ctl00_ctl00_hdnRedirectURL" />
+         <noscript>
+            <div id="divTopHeaderMessage">
+                You have Javascript disabled. Certain parts of our site won’t work well without it. For assistance with your inquiries, see more information at the bottom of the page about how to Contact Us.
+            </div>
+        </noscript>
+        
+
+        <a href="#divContainer" class="skip-link">Skip to main content</a>
+
+
+        <header role="banner">
+            
+            <!-- Add Top Navigation, Language, Profie Widget -->
+            
+    <div class="ally_MainHeader">
+        <div id="covid_header" class="nav-down  OneLinkNoTx">
+            <span class="ally_icon">
+                <svg aria-hidden="true" focusable="false" width="27" height="27" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="12" cy="12" r="9" fill="white" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 10.25C12.4142 10.25 12.75 10.5858 12.75 11V17C12.75 17.4142 12.4142 17.75 12 17.75C11.5858 17.75 11.25 17.4142 11.25 17V11C11.25 10.5858 11.5858 10.25 12 10.25Z" fill="#55575C" />
+                    <path d="M13 7C13 7.55228 12.5523 8 12 8C11.4477 8 11 7.55228 11 7C11 6.44772 11.4477 6 12 6C12.5523 6 13 6.44772 13 7Z" fill="#55575C" />
+                </svg>
+
+            </span>
+            <div class="ally_text">
+                <p>
+                    Book with Confidence : <a href="https://all.accor.com/event/information.en.shtml" title="Flexible cancellation">Flexible cancellation</a> and <a href="https://all.accor.com/event/information.en.shtml" title="safety protocols">safety protocols</a>
+                </p>
+            </div>
+            <button id="covid_Close" class="covid_Close" type="button" title="Close Covid-19 banner" onclick="SetGTMTrackingForClickEvents('covid19 banner','click on cta','close');">
+                <svg aria-hidden="true" focusable="false" width="34" height="35" viewBox="0 0 34 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="4.8" height="24" transform="matrix(0.703862 0.710336 -0.703862 0.710336 23.6497 6.81934)" fill="white" />
+                    <rect width="4.8" height="24" transform="matrix(-0.703862 0.710336 -0.703862 -0.710336 27.0281 23.8674)" fill="white" />
+                </svg>
+            </button>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container-fluid mobile-view" id="divMoble">
+        <div class="row ipad-header-menu" role="document">
+            <div class="col-xs-3">
+                <button type="button" class="menuIcon device-menu">
+                    <span class="bar barOne"></span>
+                    <span class="bar barTwo"></span>
+                    <span class="bar barThree"></span>
+                    <span class="sr-only">Open the menu</span>
+                </button>
+                <button type="button" class="closeIcon" title="Close the menu">
+                    <img src="/frhi/inc/img/icons/closeIcon.png" alt="Close" />
+                </button>
+
+            </div>
+            <div class="col-xs-6">
+                <div class="logo">
+                    <a href="/" id="ctl00_ctl00_BrandTopNavigation_imgMobileBrandLogoLink">
+                        <img src="/assets/0/92/3686/3768/3769/956429de-cac4-4848-8716-8cd077bf45a8.png" id="ctl00_ctl00_BrandTopNavigation_imgMobileBrandLogo" alt="Swissôtel Hotels &amp; Resorts – Back to Homepage" />
+                    </a>
+                </div>
+            </div>
+            <div class="col-xs-3">
+                <div class="user">
+                    <button id="ctl00_ctl00_BrandTopNavigation_lnkMyProfile" type="button" class="LoginLogoutLink javascriptvoidfix">
+                        
+                        
+                        
+
+                        <svg id="ctl00_ctl00_BrandTopNavigation_imgMyProfileNonLoggedInMobile" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" class="imgMyProfileNonLoggedInMobile" height="23px" style="enable-background: new 0 0 283.46 283.46;" focusable="false" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px" aria-hidden="true" version="1.1" viewBox="0 0 283.46 283.46">
+
+                            <path class="loginIconHover" style="fill: #333;" d="M108.162,111.892c30.898,0,55.947-25.048,55.947-55.946C164.109,25.048,139.061,0,108.162,0
+	                            C77.264,0,52.216,25.048,52.216,55.946C52.216,86.844,77.264,111.892,108.162,111.892z M108.162,22.378
+	                            c18.539,0,33.568,15.029,33.568,33.568c0,18.539-15.029,33.567-33.568,33.567c-18.539,0-33.567-15.029-33.567-33.567
+	                            C74.636,37.424,89.641,22.419,108.162,22.378z" />
+                            <path class="loginIconHover" style="fill: #333;" d="M223.785,157.097c-32.959,0-59.676,26.717-59.676,59.676c0,32.957,26.717,59.676,59.676,59.676
+	                            c32.957,0,59.676-26.719,59.676-59.676C283.46,183.814,256.742,157.097,223.785,157.097z M223.785,261.529
+	                            c-24.719,0-44.758-20.038-44.758-44.756c0-24.719,20.039-44.758,44.758-44.758s44.756,20.039,44.756,44.758
+	                            C268.541,241.491,248.503,261.529,223.785,261.529L223.785,261.529L223.785,261.529z" />
+                            <path class="loginIconHover" style="fill: #333;" d="M175.82,159.259c-43.936-37.366-109.844-32.04-147.21,11.896
+	                            c-16.036,18.855-24.854,42.795-24.88,67.547h22.379c0.083-45.316,36.887-81.986,82.205-81.902
+	                            c19.304,0.035,37.978,6.875,52.737,19.318C165.103,169.792,170.082,164.109,175.82,159.259z" />
+                            <path class="loginIconHover" style="fill: #333;" d="M246.163,208.865h-14.919v-14.918c0-4.12-3.34-7.46-7.459-7.46c-4.12,0-7.46,3.34-7.46,7.46v14.918
+	                            h-14.919c-4.119,0-7.459,3.34-7.459,7.46s3.34,7.46,7.459,7.46h14.919v14.918c0,4.12,3.34,7.46,7.46,7.46
+	                            c4.119,0,7.459-3.34,7.459-7.46v-14.918h14.919c4.12,0,7.46-3.34,7.46-7.46S250.283,208.865,246.163,208.865z" />
+                        </svg>
+                        
+                        
+                        <span class="sr-only">
+                            My Profile
+                        </span>
+                    </button>
+                </div>
+                <div class="notLoggedInContainerMobile" role="dialog" aria-label="My Profile">
+                    <div role="document" class="align-text-logo">
+                        <div class="notLoggedInContainerMobileClose">
+                            <button id="mobileClose" type="button" class="close" title="Close My profile window" onclick="SetGTMTrackingForClickEvents('navigation','sticky menu - click on cta','close');">
+                                <svg aria-hidden="true" focusable="false" width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <rect width="2.4" height="24" transform="matrix(-0.682397 0.730981 -0.707107 -0.707107 18.9399 17.5042)" fill="#4D4D4F"/>
+                                    <rect width="2.4" height="24" transform="matrix(0.707107 0.707107 -0.682398 0.730981 17.2852 0.287842)" fill="#4D4D4F"/>
+                                </svg></button>
+                         </div>
+                        <a href="/" id="ctl00_ctl00_BrandTopNavigation_imggMobileBrandLogoLink">
+                            <img src="/assets/0/92/3686/3768/3769/956429de-cac4-4848-8716-8cd077bf45a8.png" id="ctl00_ctl00_BrandTopNavigation_imggMobileBrandLogo" alt="Swissôtel Hotels &amp; Resorts – Back to Homepage" />
+                        </a>
+                    </div>
+                    <div id="ctl00_ctl00_BrandTopNavigation_ulNotLoggedInMobile" class="notLoggedInContainer dropdown-menu member-login" role="document">
+                        <div style="display: block;">
+                            <div id="ctl00_ctl00_BrandTopNavigation_Panel1">
+	
+                                <ul>
+                                    <li>
+                                        <button onclick="SetGTMTrackingForClickEvents('navigation','sticky menu - click on cta','log-in'); __doPostBack('ctl00$ctl00$BrandTopNavigation$btnAccorLogin','')" id="ctl00_ctl00_BrandTopNavigation_btnAccorLogin" class="logInToProfile fpcLogIn btn javascriptvoidfix">
+                                            Login
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button onclick="SetGTMTrackingForClickEvents('navigation','sticky menu - click on cta','sign-in'); __doPostBack('ctl00$ctl00$BrandTopNavigation$ctl00_FPCLogin1_btnBecomeMember','')" id="ctl00_ctl00_BrandTopNavigation_ctl00_FPCLogin1_btnBecomeMember" class="logInToProfile fpcLogIn gold javascriptvoidfix">
+                                            Create an account
+                                        </button>
+                                    </li>
+                                </ul>
+                            
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="LoggedInContainerMobile" role="dialog">
+                    <div role="document" class="align-text-logo">
+                        <div class="LoggedInContainerMobileClose">
+                            <button id="loggedInMobileClose" type="button" class="close" title="Close My profile window">
+                                 <svg aria-hidden="true" focusable="false" width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <rect width="2.4" height="24" transform="matrix(-0.682397 0.730981 -0.707107 -0.707107 18.9399 17.5042)" fill="#4D4D4F"/>
+                                    <rect width="2.4" height="24" transform="matrix(0.707107 0.707107 -0.682398 0.730981 17.2852 0.287842)" fill="#4D4D4F"/>
+                                </svg>
+                            </button>
+                        </div>
+                        <a href="/" id="ctl00_ctl00_BrandTopNavigation_imageMobileBrandLogoLink">
+                            <img src="/assets/0/92/3686/3768/3769/956429de-cac4-4848-8716-8cd077bf45a8.png" id="ctl00_ctl00_BrandTopNavigation_imageMobileBrandLogo" alt="Swissôtel Hotels &amp; Resorts – Back to Homepage" />
+                        </a>
+                    </div>
+                    <div id="ctl00_ctl00_BrandTopNavigation_ulLoggedInMobile" class="loggedIn dropdown-menu logoutMenu" role="document">
+                    <ul>
+                        <li>
+                            <a id="ctl00_ctl00_BrandTopNavigation_hypMyAccount" title="My Account - new window" target="_blank">
+                                My account
+                            </a>
+                            <hr class="divider" />
+                        </li>
+                        <li>
+                            <a id="ctl00_ctl00_BrandTopNavigation_hypMyBookings" onclick="SetTrackingForFirstAuthentificationFlayout(&#39;My bookings&#39;);" title="My bookings - new window" target="_blank">
+                                My bookings
+                            </a>
+                            <hr class="divider" />
+                        </li>
+                        <li>
+                            <a id="ctl00_ctl00_BrandTopNavigation_hypMyPointsHistory" onclick="SetTrackingForFirstAuthentificationFlayout(&#39;My points history&#39;);" title="My points history - new window" target="_blank">
+                                My points history
+                            </a>
+                            <hr class="divider" />
+                        </li>
+                        <li>
+                            <a onclick="return LogoutAccor();" id="ctl00_ctl00_BrandTopNavigation_lbtnLogout" href="javascript:__doPostBack(&#39;ctl00$ctl00$BrandTopNavigation$lbtnLogout&#39;,&#39;&#39;)">Log out</a>
+                        </li>
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mobileNav" role="document">
+            <nav class="navigation" role="navigation" aria-label="Main">
+                <ul>
+                    
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl00_hypMobileMenuItem" class="mobRegular" href="/destinations/">FIND A HOTEL</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl01_hypMobileMenuItem" class="mobRegular" href="/discover/infusing-vitality-throughout-the-guest-journey/">VITALITY</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl02_hypMobileMenuItem" class="mobRegular" href="/discover/changing-the-future-of-hospitality/">SUSTAINABILITY</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl03_hypMobileMenuItem" class="mobRegular" href="/discover/we-are-swiss-made/">CRAFTSMANSHIP</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl04_hypMobileMenuItem" class="mobRegular" href="/meetings-events/">MEETINGS AND EVENTS</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl05_hypMobileMenuItem" class="mobRegular" href="/offers/">PROMOTIONS</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl06_hypMobileMenuItem" title="SWISSÔTEL AT HOME (new window)" class="mobRegular" href="https://www.swissotelathome.com/en/" target="_blank">SWISSÔTEL AT HOME</a>
+                            </li>
+                        
+                            <li>
+                                <a id="ctl00_ctl00_BrandTopNavigation_rptMobileTopNavigation_ctl07_hypMobileMenuItem" title="Loyalty - new window" class="mobRegular" href="https://all.accor.com/loyalty-program/reasonstojoin/index.en.shtml" target="_blank">LOYALTY</a>
+                            </li>
+                        
+                    <li>
+                        <div class="borderBottom"></div>
+                    </li>
+                    <li>
+                        <a id="ctl00_ctl00_BrandTopNavigation_hypMyProfile" href="/reservations/find-reservation/">My bookings</a><br />
+                    </li>
+                    <li>
+
+                        <div class="languageDropdownMobile">
+                            <input type="hidden" name="ctl00$ctl00$BrandTopNavigation$hdnAltImg" id="ctl00_ctl00_BrandTopNavigation_hdnAltImg" value="english (current language)" /><input type="hidden" name="ctl00$ctl00$BrandTopNavigation$hdnCountryFlag" id="ctl00_ctl00_BrandTopNavigation_hdnCountryFlag" value="/frhi/inc/img/flags/1033.png" />
+
+<div class="Langauges-control-desktop hidden-sm hidden-xs  hide-lang">
+    
+        <ul class="nav">
+    
+        <li class=''>
+
+            <a href="https://www.swissotel.de/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl01_lnkLanguage" lang="DE">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl01_spanImgLanguageFlag" class="flag flag-de"></span>
+                Deutsch
+            </a>
+           
+        </li>
+    
+        <li class='OneLinkNoTx OneLinkKeepLinks'>
+
+            <a href="https://www.swissotel.com/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl02_lnkLanguage" lang="EN">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl02_spanImgLanguageFlag" class="flag flag-en"></span>
+                English
+            </a>
+           
+        </li>
+    
+        <li class=''>
+
+            <a href="https://www.swissotel.es/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl03_lnkLanguage" lang="ES">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl03_spanImgLanguageFlag" class="flag flag-es"></span>
+                Espa&#241;ol
+            </a>
+           
+        </li>
+    
+        <li class=''>
+
+            <a href="https://www.swissotel.fr/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl04_lnkLanguage" lang="FR">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl04_spanImgLanguageFlag" class="flag flag-fr"></span>
+                Fran&#231;ais
+            </a>
+           
+        </li>
+    
+        <li class=''>
+
+            <a href="https://www.swissotel.com.tr/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl05_lnkLanguage" lang="TR">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl05_spanImgLanguageFlag" class="flag flag-tr"></span>
+                T&#252;rk&#231;e
+            </a>
+           
+        </li>
+    
+        <li class=''>
+
+            <a href="https://www.swissotel-hotels.ru/hotels/quito/" id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl06_lnkLanguage" lang="RU">
+                <span id="ctl00_ctl00_BrandTopNavigation_LanguageControl1_rptLanguages_ctl06_spanImgLanguageFlag" class="flag flag-ru"></span>
+                

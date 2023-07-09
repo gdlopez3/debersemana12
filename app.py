@@ -9,11 +9,11 @@ import threading
 import subprocess
 import os 
 
-#Se obtienen las p ginas web de los hoteles que existen en Atacames.
+#Se obtienen las paginas web de los hoteles que existen en Atacames.
 
 def obtener_data():
     lista = []
-    with open("PAGINAS/hoteles.csv") as archivo:
+    with open("paginas/hoteles.csv") as archivo:
         lineas = csv.reader(archivo, delimiter='|')
 
         for row in lineas:
@@ -35,7 +35,7 @@ def worker(numero, url):
 
 for c in obtener_data():
     # Se crea los hilos
-    # en la funci¢n
+    # en la funciï¿½n
     numero = c[0]
     url = c[1]
     hilo1 = threading.Thread(name='navegando...',

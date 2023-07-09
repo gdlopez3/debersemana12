@@ -1,0 +1,722 @@
+
+<!doctype html>
+<html lang="en-gb" dir="ltr">
+	<head>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+	<meta name="robots" content="index, follow">
+	<meta name="description" content="Hotel Patio Andaluz is an elegant boutique hotel Located in a colonial style house of the end of the XVI Century. Fono: +(593-2) 22-80-830 Ext: 100 y 121">
+	<meta name="generator" content="HELIX_ULTIMATE_GENERATOR_TEXT">
+	<title>Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador</title>
+	<link href="/images/favicon-1.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-5.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Montserrat:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;" />
+	<link href="/templates/travelin/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet" />
+	<link href="/media/system/css/joomla-fontawesome.min.css?7bccc84def65e5da75d0d8c03bc4ac12" rel="stylesheet" />
+	<link href="/templates/travelin/css/template.css" rel="stylesheet" />
+	<link href="/templates/travelin/css/presets/default.css" rel="stylesheet" />
+	<link href="https://www.hotelpatioandaluz.com/modules/mod_popup_jt/css/style.css" rel="stylesheet" />
+	<style>.sp-page-builder .page-content #section-id-1666834578468{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1666834578468{padding-top:180px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1666834578468{padding-top:140px;padding-right:0px;padding-bottom:20px;padding-left:0px;} }#column-id-1666834578431{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1666834578479 {margin:0px 0px 30px 0px;}#sppb-addon-1666834578479 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1668308468155{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668308468154{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668308468160 {margin:0px 0px 30px 0px;}#sppb-addon-1668308468160 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668308468160 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668308468160 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1668308468160 .sppb-empty-space {height:20px;}}#sppb-addon-wrapper-1668308185872 {margin:0px 0px 0px 0px;}#sppb-addon-1668308185872 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1666960500361{padding-top:25px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1666960500379{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1666960500380 {margin:0px 0px 18px 0px;}#sppb-addon-1666960500380 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666960500380 .sppb-addon-title {font-size:32px;line-height:40px;font-weight:500;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1666960500380 .sppb-addon-title {font-size:26px;line-height:26px;line-height:26px;}}@media (max-width:767px) {#sppb-addon-1666960500380 .sppb-addon-title {font-size:24px;line-height:24px;line-height:34px;}#sppb-addon-wrapper-1666960500380 {margin-top:0px;margin-right:0px;margin-bottom:5px;margin-left:0px;}}#sppb-addon-1666960500380 h1.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:none; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1666960500381 {margin:0px 0px 18px 0px;}#sppb-addon-1666960500381 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666960500381 .sppb-addon-title {font-size:24px;line-height:21px;font-weight:500;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1666960500381 .sppb-addon-title {font-size:26px;line-height:26px;line-height:26px;}}@media (max-width:767px) {#sppb-addon-1666960500381 .sppb-addon-title {font-size:24px;line-height:24px;line-height:34px;}#sppb-addon-wrapper-1666960500381 {margin-top:0px;margin-right:0px;margin-bottom:5px;margin-left:0px;}}#sppb-addon-1666960500381 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:none; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1650353969722 {margin:0px 0px 25px 0px;width:88%;}#sppb-addon-1650353969722 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1650353969722 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:45px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1650353969722 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:20px;margin-left:0px;}}#sppb-addon-wrapper-1668309235362 {margin:0px 0px 20px 0px;}#sppb-addon-1668309235362 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668309235362 .sppb-empty-space {height:20px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668309235362 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1668309235362 .sppb-empty-space {height:20px;}}.sp-page-builder .page-content #section-id-1666961176157{padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1666961176165{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667961033773 {margin:0px 0px 30px 0px;}#sppb-addon-1667961033773 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337730 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033773 .sppb-item-16679610337731 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1667961033773 .sppb-carousel-inner > .sppb-item{-webkit-transition-duration:600ms; transition-duration:600ms;}#sppb-addon-wrapper-1666961176168 {margin:0px 0px 10px 0px;width:90%;}#sppb-addon-1666961176168 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666961176168 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666961176168 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1666961176168 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1666961176168 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1666961176168 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1666961176169 {margin:0px 0px 0px 0px;}#sppb-addon-1666961176169 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666961176169 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1666961176169 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1666961176169 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1666961176170 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1666961176170 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 5px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666961176170 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1666961176170 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}#sppb-addon-wrapper-1666961176176 {margin:0px 0px0px;}#sppb-addon-1666961176176 {box-shadow:0 0 0 0 #ffffff;padding:30px ;}#sppb-addon-1666961176176 #btn-1666961176176.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1666961176176 #btn-1666961176176.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1666961176176 .sppb-btn i {margin:0px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1666961176170{padding-top:10px;padding-right:0px;padding-bottom:20px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1666961176178{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668306307320 {margin:20px 0px 10px 0px;width:90%;}#sppb-addon-1668306307320 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307320 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307320 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307320 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1668306307320 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1668306307320 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1666961176182 {margin:0px 0px 0px 0px;}#sppb-addon-1666961176182 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666961176182 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1666961176182 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1666961176182 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1668306307329 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1668306307329 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 5px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307329 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307329 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}#sppb-addon-wrapper-1666961176184 {margin:0px 0px0px;}#sppb-addon-1666961176184 {box-shadow:0 0 0 0 #ffffff;padding:30px ;}#sppb-addon-1666961176184 #btn-1666961176184.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1666961176184 #btn-1666961176184.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1666961176184 .sppb-btn i {margin:0px 0px 0px 0px;}#sppb-addon-wrapper-1668306307317 {margin:0px 0px 30px 0px;}#sppb-addon-1668306307317 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073170 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073171 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307317 .sppb-item-16683063073172 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1668306307317 .sppb-carousel-inner > .sppb-item{-webkit-transition-duration:600ms; transition-duration:600ms;}.sp-page-builder .page-content #section-id-1666986948466{padding-top:30px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1666986948468{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667095532754 {margin:0px 0px 0px 0px;}#sppb-addon-1667095532754 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1666986948471 {margin:20px 0px 10px 0px;width:90%;}#sppb-addon-1666986948471 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666986948471 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666986948471 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1666986948471 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1666986948471 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1666986948471 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1666986948472 {margin:0px 0px 0px 0px;}#sppb-addon-1666986948472 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666986948472 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1666986948472 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1666986948472 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1666986948473 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1666986948473 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 5px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666986948473 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1666986948473 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}.sp-page-builder .page-content #section-id-1666986948474{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1666986948475{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1666986948476 {margin:0px 0px0px;}#sppb-addon-1666986948476 {box-shadow:0 0 0 0 #ffffff;padding:0px ;}#sppb-addon-1666986948476 #btn-1666986948476.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1666986948476 #btn-1666986948476.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1666986948476 .sppb-btn i {margin:0px 0px 0px 0px;}#sppb-addon-wrapper-1666986948478 {margin:0px 0px0px;}#sppb-addon-1666986948478 {box-shadow:0 0 0 0 #ffffff;padding:0px ;}#sppb-addon-1666986948478 #btn-1666986948478.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1666986948478 #btn-1666986948478.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1666986948478 .sppb-btn i {margin:0px 0px 0px 0px;}#sppb-addon-wrapper-1666986948480 {margin:0px 0px0px;}#sppb-addon-1666986948480 {box-shadow:0 0 0 0 #ffffff;padding:0px ;}#sppb-addon-1666986948480 #btn-1666986948480.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1666986948480 #btn-1666986948480.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1666986948480 .sppb-btn i {margin:0px 0px 0px 0px;}#sppb-addon-wrapper-1688172829828 {margin:0px 0px0px;}#sppb-addon-1688172829828 {box-shadow:0 0 0 0 #ffffff;padding:0px ;}#sppb-addon-1688172829828 #btn-1688172829828.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1688172829828 #btn-1688172829828.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1688172829828 .sppb-btn i {margin:0px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1668306307274{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668306307273{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1668306307291{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668306307292{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668306307278 {margin:0px 0px 30px 0px;}#sppb-addon-1668306307278 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072780 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1668306307278 .sppb-item-16683063072781 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1668306307278 .sppb-carousel-inner > .sppb-item{-webkit-transition-duration:600ms; transition-duration:600ms;}#sppb-addon-wrapper-1668306307281 {margin:0px 0px 10px 0px;width:90%;}#sppb-addon-1668306307281 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307281 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307281 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307281 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1668306307281 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1668306307281 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1668306307284 {margin:0px 0px 0px 0px;}#sppb-addon-1668306307284 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307284 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307284 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1668306307284 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1668306307287 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1668306307287 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307287 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307287 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}#sppb-addon-wrapper-1668306307356 {margin:0px 0px0px;}#sppb-addon-1668306307356 {box-shadow:0 0 0 0 #ffffff;padding:0px 0px 0px 0px;}#sppb-addon-1668306307356 #btn-1668306307356.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1668306307356 #btn-1668306307356.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1668306307356 .sppb-btn i {margin:0px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1668306307307{padding:50px 0px 50px 0px;margin:0px 0px 0px 0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668306307308{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667961033764 {margin:0px 0px 30px 0px;}#sppb-addon-1667961033764 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337640 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337641 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1667961033764 .sppb-item-16679610337642 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1667961033764 .sppb-carousel-inner > .sppb-item{-webkit-transition-duration:600ms; transition-duration:600ms;}#sppb-addon-wrapper-1666961176181 {margin:20px 0px 10px 0px;width:90%;}#sppb-addon-1666961176181 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1666961176181 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666961176181 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1666961176181 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1666961176181 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1666961176181 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1668306307326 {margin:0px 0px 0px 0px;}#sppb-addon-1668306307326 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307326 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307326 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1668306307326 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1666961176183 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1666961176183 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 5px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1666961176183 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1666961176183 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}#sppb-addon-wrapper-1668306307332 {margin:0px 0px0px;}#sppb-addon-1668306307332 {box-shadow:0 0 0 0 #ffffff;padding:0px 0px 0px 0px;}#sppb-addon-1668306307332 #btn-1668306307332.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1668306307332 #btn-1668306307332.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1668306307332 .sppb-btn i {margin:0px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1668306307333{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668306307334{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668306307342 {margin:0px 0px 30px 0px;}#sppb-addon-1668306307342 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668306307345 {margin:20px 0px 10px 0px;width:90%;}#sppb-addon-1668306307345 {color:#51081b;box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307345 .sppb-addon-title {font-size:25px;line-height:15px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307345 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307345 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1668306307345 .sppb-addon-title { font-family:"Montserrat"; }#sppb-addon-1668306307345 h3.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:capitalize; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1668306307348 {margin:0px 0px 0px 0px;}#sppb-addon-1668306307348 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668306307348 .sppb-divider {margin-top:10px;margin-bottom:10px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#ec9d19;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1668306307348 .sppb-divider {margin-top:20px;margin-bottom:20px;}}@media (max-width:767px) {#sppb-addon-1668306307348 .sppb-divider {margin-top:12px;margin-bottom:12px;}}#sppb-addon-wrapper-1668306307351 {margin:0px 0px 0px 0px;width:91%;}#sppb-addon-1668306307351 {color:#000000;box-shadow:0 0 0 0 #ffffff;padding:0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1668306307351 {width:100%;}}@media (max-width:767px) {#sppb-addon-wrapper-1668306307351 {width:100%;margin-top:0px;margin-right:0px;margin-bottom:25px;margin-left:0px;}}#sppb-addon-wrapper-1668306307290 {margin:0px 0px0px;}#sppb-addon-1668306307290 {box-shadow:0 0 0 0 #ffffff;padding:0pX 0pX 0pX 0pX;}#sppb-addon-1668306307290 #btn-1668306307290.sppb-btn-custom { background-color:#ec9d19; color:#FFFFFF; font-size:14px;}#sppb-addon-1668306307290 #btn-1668306307290.sppb-btn-custom:hover { background-color:#ec9d19; color:#000000;}#sppb-addon-1668306307290 .sppb-btn i {margin:0px 0px 0px 0px;}</style>
+	<style>body{font-family: 'Montserrat', sans-serif;font-size: 17px;font-weight: 400;line-height: 1.56;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){body{font-size: 14px;}
+}
+@media (max-width:767px){body{font-size: 13px;}
+}
+</style>
+	<style>h1{font-family: 'Montserrat', sans-serif;font-size: 84px;font-weight: 500;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h1{font-size: 62px;}
+}
+@media (max-width:767px){h1{font-size: 44px;}
+}
+</style>
+	<style>h2{font-family: 'Montserrat', sans-serif;font-size: 62px;font-weight: 500;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h2{font-size: 44px;}
+}
+@media (max-width:767px){h2{font-size: 32px;}
+}
+</style>
+	<style>h3{font-family: 'Montserrat', sans-serif;font-size: 44px;font-weight: 500;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h3{font-size: 32px;}
+}
+@media (max-width:767px){h3{font-size: 22px;}
+}
+</style>
+	<style>h4{font-family: 'Montserrat', sans-serif;font-size: 32px;font-weight: 500;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h4{font-size: 26px;}
+}
+@media (max-width:767px){h4{font-size: 24px;}
+}
+</style>
+	<style>h5{font-family: 'Montserrat', sans-serif;font-size: 24px;font-weight: 500;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h5{font-size: 20px;}
+}
+@media (max-width:767px){h5{font-size: 18px;}
+}
+</style>
+	<style>h6{font-family: 'Montserrat', sans-serif;font-size: 20px;font-weight: 700;line-height: 1.25;text-decoration: none;}
+@media (min-width:768px) and (max-width:991px){h6{font-size: 18px;}
+}
+@media (max-width:767px){h6{font-size: 18px;}
+}
+</style>
+	<style>.things-to-do, .spbooking-accomodation-listing .spbooking-package-info h3.title, .spbooking-accomodation-details.spbooking-view-details .overview, .other-info-description, .accomodation-policies h4, .accomodation-policies-title, .accomodation-gallery .carousel-content-wrapper .carousel-title, .accomodation-gallery .carousel-content-wrapper .carousel-rating .rating, .com-spbooking.view-accomodation .rating-travellers-rating h4 .spbooking-package-info h3.title .spbooking-sidebar .spbooking-input-wrap h4 .spbooking-sidebar .content-price-range .price-range-title .view-package .package-details-top-wrapper .spbooking-details-top-left p.spbooking-title, .user-comments-title, .accomodation-user-comments .comment-header .user-name, .accomodation-available-rooms .available-rooms-title .spbooking-container.package-details-bottom-wrapper .spbooking-details-overview h4.overview, .spbooking-accomodation-module .accomodation-title h5, .accomodation-available-rooms .available-rooms-title .view-package .package-details-gallery-bottom-wrap .spbooking-details-custom .left-content h4{font-family: 'Montserrat', sans-serif;text-decoration: none;}
+</style>
+	<style>.logo-image {height:70px;}.logo-image-phone {height:70px;}</style>
+	<style>#sp-footer{ background-color:#1B252D; }</style>
+	<style>#sp-footer a{color:#FFFFFF;}</style>
+	<style>#sp-footer a:hover{color:#FFFFFF;}</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.6.0"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?04499b98c0305b16b373dff09fe79d1290976288"></script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"b6e9fd6fc9e8297ed458148aa3207c3d","data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"15"}},"joomla.jtext":{"ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"system.paths":{"root":"","rootFull":"https:\/\/www.hotelpatioandaluz.com\/","base":"","baseFull":"https:\/\/www.hotelpatioandaluz.com\/"}}</script>
+	<script src="/media/system/js/core.min.js?bea7b244e267b04087cedcf531f6fe827a8e101f"></script>
+	<script src="/media/system/js/showon-es5.min.js?4773265a19291954f19755d6f2ade3ca7ed9022f" defer nomodule></script>
+	<script src="/media/system/js/messages-es5.min.js?70b6651d6deab46dc8a25f03338f66f540cc62e2" nomodule defer></script>
+	<script src="/media/system/js/showon.min.js?bfc733e48a923aaffb3d959cd04f176bad7d7d52" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7425e8d1cb9e4f061d5e30271d6d99b085344117" type="module"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js?5e8f2ace5729399f47cc9b4e25d0e198"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js?5e8f2ace5729399f47cc9b4e25d0e198" defer></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="/templates/travelin/js/bootstrap.bundle.min.js"></script>
+	<script src="/templates/travelin/js/main.js"></script>
+	<script src="/modules/mod_popup_jt/js/jquery-ui.js"></script>
+	<script src="https://www.hotelpatioandaluz.com/modules/mod_seftranslate/js/jquer.js"></script>
+	<script>;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);</script>
+	<script>var addonInteraction = {"while_scroll_view":[{"addonId":1650353969722,"enable_mobile":false,"enable_tablet":false,"animation":[{"id":"b3fdc1c1e6bfde5942ea","index":0,"keyframe":0,"name":"move","property":{"x":"0","y":"100","z":"0"},"range":{"max":500,"min":-500,"stop":1},"single":true,"title":"Move"},{"id":"936e0225e6dc8edfba7d","index":1,"keyframe":"40","name":"move","property":{"x":0,"y":0,"z":0},"range":{"max":500,"min":-500,"stop":1},"title":"Move"}],"name":"custom","origin":{"x_offset":"center","y_offset":"center"}}]};</script>
+	<script>template="travelin";</script>
+	<meta property="og:title" content="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.hotelpatioandaluz.com/" />
+	<meta property="og:site_name" content="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" />
+<script async src="https://gspeech.io/widget/7ac7dd96ef1f93b6b46b3d75efed0e12"></script>
+	</head>
+	<body class="site helix-ultimate hu com-sppagebuilder view-page layout-default task-none itemid-101 en-gb ltr sticky-header layout-fluid offcanvas-init offcanvs-position-right header-white">
+
+					<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+593 99 546 5932", // WhatsApp number
+            call_to_action: "Whatsapp", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+		
+		
+		<div class="body-wrapper">
+			<div class="body-innerwrapper">
+				
+	<div class="sticky-header-placeholder"></div>
+<header id="sp-header" class="full-header full-header-center">
+	<div class="container-fluid">
+		<div class="container-inner">
+			<div class="row align-items-center">
+				<!-- Logo -->
+				<div id="sp-logo" class="col-auto">
+					<div class="sp-column">
+													
+							<div class="logo"><a href="/">
+				<img class='logo-image  d-none d-lg-inline-block'
+					srcset='https://www.hotelpatioandaluz.com/images/123oo.png 1x, '
+					src='https://www.hotelpatioandaluz.com/images/123oo.png'
+					alt='Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador'
+				/>
+				<img class="logo-image-phone d-inline-block d-lg-none" src="https://www.hotelpatioandaluz.com/images/movil-1.png" alt="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" /></a></div>											</div>
+				</div>
+
+				<!-- Menu -->
+				<div id="sp-menu" class="menu-with-social menu-center col-auto flex-auto">
+					<div class="sp-column d-flex justify-content-between align-items-center">
+						<div class="menu-with-offcanvas d-flex justify-content-between align-items-center flex-auto">
+							<nav class="sp-megamenu-wrapper d-flex" role="navigation"><a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-right d-flex d-lg-none" href="#"><div class="burger-icon" aria-hidden="true"><span></span><span></span><span></span></div></a><ul class="sp-megamenu-parent menu-animation-none d-none d-lg-block"><li class="sp-menu-item current-item active"><a aria-current="page"  href="/" title="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" >HOME</a></li><li class="sp-menu-item sp-has-child"><a   href="#" >ROOMS</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 180px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/rooms/standard-room" >Standard Room</a></li><li class="sp-menu-item"><a   href="/rooms/duplex-room" >Duplex Room </a></li><li class="sp-menu-item"><a   href="/rooms/superior-room" >Superior Room </a></li><li class="sp-menu-item"><a   href="/rooms/accessibility-people" >Accessibility for people with disabilities</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a   href="#" >GASTRONOMIC </a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 180px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/gastronomic/special-events" >Special Events</a></li><li class="sp-menu-item"><a   href="/gastronomic/culinary-experiences" >Culinary experiences</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a   href="#" >SERVICES</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 180px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/services/amenities-services" title="Patio Andaluz Hotel Boutique | Amenities &amp; Services " >Amenities</a></li><li class="sp-menu-item"><a   href="/services/local-attractions" title="Patio Andaluz Hotel Boutique | Local Attractions" >Attractions</a></li></ul></div></div></li><li class="sp-menu-item"><a   href="/exclusive-offers" title="Patio Andaluz Hotel Boutique | Exclusive Offers" >OFFERS</a></li><li class="sp-menu-item"><a   href="/location-contact" title="Patio Andaluz Hotel Boutique | Location &amp; Contact" >CONTACT</a></li></ul></nav>							<div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="139">
+	<div class="page-content">
+		<div id="section-id-1667487728293" class="sppb-section sppb-hidden-xs" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1667487728292"><div id="column-id-1667487728292" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1680364324704" class="sppb-addon-wrapper"><div id="sppb-addon-1680364324704" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+<noscript>Javascript is required to use Joomla Translate, <a title="OrdaSoft Joomla Translate - automatic joomla website translate" 
+href="https://ordasoft.com/joomla-translate"
+>OrdaSoft Joomla Translate - automatic joomla website translate</a>, <a title="Joomla Translate" href="https://ordasoft.com/joomla-translate" >Joomla Translate</a></noscript>
+
+
+<!-- type we write from new line, because some code optimizator remove blank sign -->
+<script  
+ type="text/javascript"
+ src="https://www.hotelpatioandaluz.com/modules/mod_seftranslate/js/cookiesef.js"> </script>
+
+
+
+    
+<div id="google_translate_element"></div>
+<script 
+ type="text/javascript">
+/* <![CDATA[ */
+
+    function sefTranslateFireEvent(element) {
+
+        if ("createEvent" in document) {
+          var evt = document.createEvent("HTMLEvents");
+            evt.initEvent("change", false, true);
+            element.dispatchEvent(evt);
+        }
+        else{
+            element.fireEvent("onchange");              
+          }
+//        setTimeout(function(){   console.log (":cookie111:",document.cookie)   },2300);          
+    }
+      
+    function googleTranslateElementInit( ) {
+  	new google.translate.TranslateElement({
+      
+          //detect language from 
+          pageLanguage: 'auto'
+        }, 'google_translate_element');
+    }
+/* ]]> */
+
+</script>
+<script 
+ type="text/javascript"
+ src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script 
+ type="text/javascript" >
+  
+    $jqST(window).on('load',  function() {   
+
+
+      //add labels for WGAG2.0 Section 508
+      var translateForm = null;
+      var tmpForms=document.getElementsByTagName('select');
+      for(var i=0;i<tmpForms.length;i++){
+        if(tmpForms[i].className=='goog-te-combo'){
+          translateForm=tmpForms[i];
+          translateForm.setAttribute('id',"GoogleTranslateForm");
+          var newlabel = document.createElement("label");
+          newlabel.setAttribute("for","GoogleTranslateForm");
+          newlabel.innerHTML = "Google Site Translate Form";
+          translateForm.parentElement.appendChild(newlabel);    
+          //document.getElementsByTagName('body')[0].appendChild(newlabel)
+          break;
+        }
+      }
+          
+
+        //clean google translate cookies
+        $jqST.removeCookie('googtrans', { path: '/' });      
+        $jqST.removeCookie('googtrans', { path: '/' });      
+
+        $jqST.placeholdersTranslate();
+
+    });  
+
+</script>          
+  
+
+
+  
+<script
+ type="text/javascript" >
+        
+    function go_transl(lang)
+    {
+      
+      if( lang == 0 ){
+        $jqST.removeCookie('googtrans', { path: '/' });
+        $jqST.removeCookie('googtrans', { path: '/' });
+        $jqST.cookiesef('googtrans', ''); //clean site cookies google
+//        lang = 'en';
+       } else  $jqST.cookiesef('seflang', lang);
+
+
+          // if('en' == lang ){
+          //   $jqST.removeCookie('googtrans', { path: '/' });
+          //   $jqST.removeCookie('googtrans', { path: '/' });
+          //   $jqST.cookiesef('googtrans', ''); //clean site cookies google
+          // //$jqST.cookiesef('googtrans', '/en/'+lang);
+          // }
+          // $jqST.cookiesef('seflang', lang);
+
+        
+        var translateForm = null;
+        var tmpForms=document.getElementsByTagName('select');
+        for(var i=0;i<tmpForms.length;i++){
+          if(tmpForms[i].className=='goog-te-combo'){
+            translateForm=tmpForms[i];
+            translateForm.setAttribute('id',"GoogleTranslateForm");
+
+            //add labels for WGAG2.0 Section 508
+            var newlabel = document.createElement("label");
+            newlabel.setAttribute("for","GoogleTranslateForm");
+            newlabel.innerHTML = "Google Site Translate Form";
+            translateForm.parentElement.appendChild(newlabel);    
+            //document.getElementsByTagName('body')[0].appendChild(newlabel)
+
+              //need for return to default language or translate to old language, some time this language not exist in options
+               var newEl = document.createElement("option");
+               newEl.value = lang;
+               newEl.innerHTML = lang;
+               translateForm.appendChild(newEl); 
+              
+            break;
+          }
+        }
+        if(translateForm != null){
+
+            //clear old lang
+            //translateForm.value="";
+            //sefTranslateFireEvent(translateForm);
+            //set new lang
+
+            translateForm.value=lang;
+            setTimeout(function(){sefTranslateFireEvent(translateForm)},1000);
+             //need for reset old lang, which we have before
+             setTimeout(function(){sefTranslateFireEvent(translateForm)},1400);
+            return ;
+        } else{
+              
+            new google.translate.TranslateElement({
+
+                //detect language from 
+                pageLanguage: 'auto',  autoDisplay: false
+            }, 'google_translate_element');
+            setTimeout(function(){go_transl(lang)},1400);
+            return;
+        }
+
+    };
+  
+  </script>
+  <form id="mod_position_default"
+ 	action="index.php" method="post" name="translateForm" label="Site Translate Form" id="translateForm" >
+
+  <a href="javascript:go_transl('en');" ><img width="24" src="https://www.hotelpatioandaluz.com//modules/mod_seftranslate/tmpl/flags/flat/64/EN.png" alt="English" title="English"></a> <a href="javascript:go_transl('es');" ><img width="24" src="https://www.hotelpatioandaluz.com//modules/mod_seftranslate/tmpl/flags/flat/64/ES.png" alt="Spanish" title="Spanish"></a>   
+    </form>
+
+<style type="text/css">
+
+#google_translate_element{
+  display:none !important;
+}
+.goog-te-banner-frame {
+  display:none !important;
+}
+body{
+  top:0 !important;
+}
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf, .skiptranslate, #goog-gt-tt{
+  display:none !important;
+  visibility:hidden !important;
+}
+.goog-text-highlight
+{
+  background:transparent !important;
+  box-shadow: none !important;
+}
+
+#mod_position_default ul li{
+  position: unset;
+  padding: 0 !important;
+}
+#mod_position_default .vertical li a{
+  padding: 5px 10px 5px 0px !important; 
+}
+#mod_position_default ul li a{
+  padding: 5px 10px 5px 0px !important;
+  display: inline-block;
+}
+#mod_position_default ul li .sefTranslate_flag{
+  padding: 5px 0 5px 5px !important;
+}
+#mod_position_default ul li:hover a{
+  color: #13769a;
+  text-decoration: none;
+}
+</style>
+      
+      
+<style 
+ type="text/css">
+      
+      div[id^="placeholders"] div {
+        height: 0;
+        font-size:0; 
+      }
+
+      form[id^="mod_position"] {
+        margin: 0;
+      }
+      #mod_position_top {
+        position: fixed;
+        top: 0;
+        z-index: 999;
+        display: inline-table;
+      }
+      #mod_position_top a, #mod_position_bottom a{
+        display: inline-block;
+        height: 17.52px;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+      }
+      #mod_position_top a {
+        vertical-align: top;
+      }
+      #mod_position_top a:hover {
+        padding-top: 8.64px;
+      }
+      #mod_position_bottom a {
+        vertical-align: bottom;
+      }
+      #mod_position_bottom a:hover {
+        padding-bottom: 8.64px;
+      }
+      #mod_position_top a img, #mod_position_bottom a img{
+        vertical-align: top !important;
+      }
+      #mod_position_right {
+        position: fixed;
+        right: 0;
+        z-index: 999;
+      }
+      #mod_position_bottom{
+        position: fixed;
+        bottom: 0;
+        z-index: 999;
+        display: inline-table;
+      }
+      #mod_position_left {
+        position: fixed;
+        left: 0;
+        z-index: 999;
+      }
+      #mod_position_right a, #mod_position_left a {
+        height: 17.52px;
+        display: block;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+      }
+      #mod_position_right a:hover {
+        padding-right: 8.64px;
+      }
+      #mod_position_left a:hover {
+        padding-left: 8.64px;
+      }
+      #mod_position_right a img, #mod_position_left a img{
+        height: 100%;
+      }
+      #mod_position_right a {
+        float: right;
+        clear: both;
+      }
+
+      #mod_position_default{
+        display: flex;
+      }
+
+      #mod_position_default a{
+        margin: 2px;
+      }
+      </style>
+
+      <script text="text/javascript">
+
+
+          document.addEventListener("DOMContentLoaded", function(event) {
+            var sef_icon_size = 24;
+                    });
+
+   window.onresize = function(event) {
+            var sef_icon_size = 24;
+                };
+</script>
+
+</div></div><style type="text/css">#sppb-addon-1680364324704 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1680364324704 {
+}
+#sppb-addon-1680364324704.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1680364324704 {}}@media (max-width: 767px) {#sppb-addon-1680364324704 {}}</style></div></div></div></div></div><div class="sppb-col-md-8" id="column-wrap-id-1669041786399"><div id="column-id-1669041786399" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667487728296" class="sppb-addon-wrapper"><div id="sppb-addon-1667487728296" class="clearfix "     ><div class="sppb-text-center"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1667487728296" class="sppb-btn  sppb-btn-default sppb-btn-xs sppb-btn-rounded">booking</a></div><style type="text/css">#sppb-addon-wrapper-1667487728296 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1667487728296 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1667487728296 {
+}
+#sppb-addon-1667487728296.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1667487728296 {}}@media (max-width: 767px) {#sppb-addon-1667487728296 {}}</style><style type="text/css">#sppb-addon-1667487728296 .sppb-btn i {margin:0px 0px 0px 0px;}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1668307412921{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1665885461670{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1665885461669{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1650435639326{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1651135612965{background-color:#FFFFFF;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1651135612965{margin-top:0px;margin-right:0px;margin-bottom:90px;margin-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1651135612965{margin-top:0px;margin-right:0px;margin-bottom:50px;margin-left:0px;} }#column-id-1651135612964{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1667487728293{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1667487728292{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div>
+						</div>
+
+						<!-- Related Modules -->
+						<div class="d-none d-lg-flex header-modules align-items-center">
+								
+													</div>
+
+						<!-- Social icons -->
+						<div class="social-wrap no-border d-flex align-items-center">
+													</div>
+
+						<!-- if offcanvas position right -->
+													<a id="offcanvas-toggler"  aria-label="Menu" title="Menu"  class="mega offcanvas-toggler-secondary offcanvas-toggler-right d-flex align-items-center" href="#">
+							<div class="burger-icon"><span></span><span></span><span></span></div>
+							</a>
+											</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</header>				
+<section id="sp-page-title" >
+
+				
+	
+<div class="row">
+	<div id="sp-title" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Corner radius */
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { -moz-border-radius-topleft: 6px; -webkit-border-top-left-radius: 6px; -khtml-border-top-left-radius: 6px; border-top-left-radius: 6px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; border-top-right-radius: 6px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { -moz-border-radius-bottomleft: 6px; -webkit-border-bottom-left-radius: 6px; -khtml-border-bottom-left-radius: 6px; border-bottom-left-radius: 6px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; border-bottom-right-radius: 6px; }
+.ui-widget-content { border:1px solid #dedede;  background-color: #ffffff;}
+.ui-widget-header  { border-radius:; display:block;border: ; background: ;  font-weight: bold; color:; }
+.ui-dialog .ui-dialog-titlebar{ display:none;}
+.ui-dialog-titlebar.ui-widget-header.popupjt{ display:block;}
+</style>
+	<div id="popup">
+	<div class="header popupjt"><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close popupjt" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick popupjt"></span><span class="ui-button-icon-space"> </span>Close</button></div>		<div class="content" style="padding:5px 15px 15px 15px;"> 
+		<div id="modpos">
+
+
+							<div style="clear:both; margin:10px 0;" class="sidescript_block " >
+<div class="mod-sppagebuilder  sp-page-builder" data-module_id="133">
+	<div class="page-content">
+		<div id="section-id-1651135612965" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1651135612964"><div id="column-id-1651135612964" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1671103154784" class="sppb-addon-wrapper"><div id="sppb-addon-1671103154784" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2023/05/06/thumbnail_hotelpa-popup-web.jpg"  alt="Image" title=""   /></div></div></div><style type="text/css">#sppb-addon-wrapper-1671103154784 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1671103154784 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1671103154784 {
+}
+#sppb-addon-1671103154784.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1671103154784 {}}@media (max-width: 767px) {#sppb-addon-1671103154784 {}}</style><style type="text/css">#sppb-addon-1671103154784 img{}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1671103154784 img{}}@media (max-width: 767px) {#sppb-addon-1671103154784 img{}}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1668307412921{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1665885461670{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1665885461669{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1650435639326{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1651135612965{background-color:#FFFFFF;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1651135612965{margin-top:0px;margin-right:0px;margin-bottom:90px;margin-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1651135612965{margin-top:0px;margin-right:0px;margin-bottom:50px;margin-left:0px;} }#column-id-1651135612964{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+							</div>
+							</div>
+</div>
+	</div>
+	<script type="text/javascript">
+	jQuery.noConflict();
+jQuery( document ).ready(function( jQuery ) {
+			jQuery("#popup").dialog({
+				autoOpen:true,
+				position: { my: "center center", at: "center center", of: window },
+				hide: { effect: 'fade', duration:0 }, 
+				show: { effect: 'fade', duration:0 }, 
+                modal: true,
+				resizable: false,
+				title:"PATIO ANDALUZ HOTEL - QUITO ECUADOR",
+				width: "455",
+				draggable: false,
+				height: "570",
+				closeOnEscape:true,
+				open: function(event, ui){
+     setTimeout("jQuery('#popup').dialog('close')",50000);
+    }
+			});
+						
+			jQuery("#button").on("click", function() {
+				jQuery("#popup").dialog("open");
+				  
+			});
+			jQuery(".ui-dialog-titlebar-close").on("click",function(){
+				 jQuery("#popup").dialog("close");
+				 
+		});
+jQuery( "#opener" ).click(function() {
+               jQuery( "#popup" ).dialog( "open" );
+            });
+		if( ! sessionStorage.getItem( "runOnce" ) ){
+			jQuery( "#popup" ).dialog( "open" );
+			sessionStorage.setItem( "runOnce", true );
+};
+		});
+	</script></div></div></div></div></div>
+				
+</section>
+<section id="sp-main-body" >
+
+				
+	
+<div class="row">
+	
+<main id="sp-component" class="col-lg-12 ">
+	<div class="sp-column ">
+		<div id="system-message-container" aria-live="polite">
+	</div>
+
+
+		
+		
+<div id="sp-page-builder" class="sp-page-builder header-white page-9">
+
+	
+	<div class="page-content">
+				<div id="section-id-1666834578468" class="sppb-section sppb-hidden-sm sppb-hidden-xs sppb-section-content-center" ><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12 sppb-col-sm-10" id="column-wrap-id-1666834578431"><div id="column-id-1666834578431" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666834578479" class="sppb-addon-wrapper"><div id="sppb-addon-1666834578479" class="clearfix "     ><div class="sppb-addon sppb-addon-video "><div class="sppb-addon-video-local-video-wrap"><video class="sppb-addon-video-local-source" loop autoplay muted  poster="/" controlsList="nodownload" playsinline><source src="https://www.hotelpatioandaluz.com/images/video/patio-andaluz.mp4" type="video/mp4"></video></div></div></div></div></div></div></div></div></div></div><div id="section-id-1668308468155" class="sppb-section sppb-hidden-md sppb-hidden-lg sppb-section-content-center" ><div class="sppb-container-inner"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12" id="column-wrap-id-1668308468154"><div id="column-id-1668308468154" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668308468160" class="sppb-addon-wrapper"><div id="sppb-addon-1668308468160" class="clearfix "     ><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-1668308185872" class="sppb-addon-wrapper"><div id="sppb-addon-1668308185872" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2022/11/13/aewsfasdfasd.jpg"  alt="aewsfasdfasd.jpg" title=""   /></div></div></div></div></div></div></div></div></div></div></div><section id="section-id-1666960500361" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1666960500379"><div id="column-id-1666960500379" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666960500380" class="sppb-addon-wrapper"><div id="sppb-addon-1666960500380" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h1 class="sppb-addon-title">WELCOME TO HOTEL PATIO ANDALUZ</h1></div></div></div><div id="sppb-addon-wrapper-1666960500381" class="sppb-addon-wrapper"><div id="sppb-addon-1666960500381" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h3 class="sppb-addon-title">Style, Comfort and nice Atmosphere in the center of the Colonial Quito.</h3></div></div></div><div id="sppb-addon-wrapper-1650353969722" class="sppb-addon-wrapper"><div id="sppb-addon-1650353969722" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: center;">Hotel Patio Andaluz is an elegant boutique hotel Located in a colonial style house of the end of the XVI Century, a national monument whose walls contain centuries of history and art, with large arches, and inner courtyards filled with light and colorful gardens. These unique spaces create a charm and cozy atmosphere for guests and visitors. The restaurant Rincón de Cantuña”, inside its main Patio offers excellent options of Ecuadorian and International flavors.</div></div></div></div></div><div id="sppb-addon-wrapper-1668309235362" class="sppb-addon-wrapper"><div id="sppb-addon-1668309235362" class="sppb-hidden-sm sppb-hidden-xs clearfix "     ><div class="sppb-empty-space  clearfix"></div></div></div></div></div></div></div></div></section><section id="section-id-1666961176157" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1666961176165"><div id="column-id-1666961176165" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667961033773" class="sppb-addon-wrapper"><div id="sppb-addon-1667961033773" class="clearfix "     ><div id="sppb-carousel-1667961033773" data-interval="5000" class="sppb-carousel sppb-slide" data-sppb-ride="sppb-carousel"><div class="sppb-carousel-inner sppb-text-center"><div class="sppb-item sppb-item-16679610337730  sppb-item-has-bg active"><img src="/images/2022/10/30/principal-1.jpg" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16679610337731  sppb-item-has-bg"><img src="/images/2022/11/09/principal-2.jpg" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1666961176167"><div id="column-id-1666961176167" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666961176168" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176168" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">LOCATION</h3></div></div></div><div id="sppb-addon-wrapper-1666961176169" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176169" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1666961176170" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176170" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">Hotel Patio Andaluz has a privileged location in the heart of Quito to only 150 meters (490 ft.) of the Main Square also known as the Independence Square, 7 minutes walk to the recognized Church and Square of San Francisco; at 5 minutes walk to church la Compañía and its impressive golden interior at 6 minutes walk to the “Sucre Theater”, stage of important events; among other places of great interest within the Colonial Quito such as museums, churches and historical sites.</div></div></div></div></div><div id="sppb-addon-wrapper-1666961176176" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176176" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-left"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1666961176176" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">BOOK NOW</a></div></div></div></div></div></div></div></div></section><section id="section-id-1666961176170" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1666961176178"><div id="column-id-1666961176178" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307320" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307320" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">FACILITIES</h3></div></div></div><div id="sppb-addon-wrapper-1666961176182" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176182" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1668306307329" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307329" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">In each hall of the hotel there are living rooms and spaces to relax, enjoy a drink and admire all the decorative pieces, plants and architectural details that give personality and warmth to the hotel. The Guayasamín reading room has a wide literary selection and a permanent coffee station. Decorated with the paintings of the famous Ecuadorian painter Oswaldo Guayasamín.</div></div></div></div></div><div id="sppb-addon-wrapper-1666961176184" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176184" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-left"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1666961176184" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">Book Now</a></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1666961176180"><div id="column-id-1666961176180" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307317" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307317" class="clearfix "     ><div id="sppb-carousel-1668306307317" data-interval="5000" class="sppb-carousel sppb-slide" data-sppb-ride="sppb-carousel"><div class="sppb-carousel-inner sppb-text-center"><div class="sppb-item sppb-item-16683063073170  sppb-item-has-bg active"><img src="/images/2022/11/09/inicio-segundario.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16683063073171  sppb-item-has-bg"><img src="/images/2022/11/09/inicio-segundario-1.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16683063073172  sppb-item-has-bg"><img src="/images/2022/11/09/inicio-segundario-2.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1666986948466" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1666986948468"><div id="column-id-1666986948468" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667095532754" class="sppb-addon-wrapper"><div id="sppb-addon-1667095532754" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2022/10/30/superior-3.jpg"  alt="hotelpatioandaluz.com" title=""   /></div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1666986948470"><div id="column-id-1666986948470" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666986948471" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948471" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">ROOMS </h3></div></div></div><div id="sppb-addon-wrapper-1666986948472" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948472" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1666986948473" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948473" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">Make yourself at home in one of the 32 air-conditioned rooms featuring LED televisions. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with shower feature complimentary toiletries and hair dryers.</div></div></div></div></div><div id="section-id-1666986948474" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-3" id="column-wrap-id-1666986948475"><div id="column-id-1666986948475" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666986948476" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948476" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-center"><a href="/rooms/standard-room" id="btn-1666986948476" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">STANDARD</a></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1666986948477"><div id="column-id-1666986948477" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666986948478" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948478" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-center"><a href="https://www.hotelpatioandaluz.com/rooms/duplex-room" id="btn-1666986948478" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">DUPLEX</a></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1666986948479"><div id="column-id-1666986948479" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666986948480" class="sppb-addon-wrapper"><div id="sppb-addon-1666986948480" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-center"><a href="/rooms/superior-room" id="btn-1666986948480" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">SUPERIOR</a></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1688172829823"><div id="column-id-1688172829823" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1688172829828" class="sppb-addon-wrapper"><div id="sppb-addon-1688172829828" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-center"><a href="/rooms/accessibility-for-handicaps" id="btn-1688172829828" class="sppb-btn  sppb-btn-custom sppb-btn-rounded">HANDICAPS</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1668306307274" class="sppb-section sppb-hidden-md sppb-hidden-lg" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1668306307273"><div id="column-id-1668306307273" class="sppb-column" ><div class="sppb-column-addons"><div id="section-id-1668306307291" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1668306307292"><div id="column-id-1668306307292" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307278" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307278" class="clearfix "     ><div id="sppb-carousel-1668306307278" data-interval="5000" class="sppb-carousel sppb-slide" data-sppb-ride="sppb-carousel"><div class="sppb-carousel-inner sppb-text-center"><div class="sppb-item sppb-item-16683063072780  sppb-item-has-bg active"><img src="/images/2022/10/30/principal-1.jpg" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16683063072781  sppb-item-has-bg"><img src="/images/2022/11/09/principal-2.jpg" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1668306307295"><div id="column-id-1668306307295" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307281" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307281" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">LOCATION</h3></div></div></div><div id="sppb-addon-wrapper-1668306307284" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307284" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1668306307287" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307287" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">Hotel Patio Andaluz has a privileged location in the heart of Quito to only 150 meters (490 ft.) of the Main Square also known as the Independence Square, 7 minutes walk to the recognized Church and Square of San Francisco; at 5 minutes walk to church la Compañía and its impressive golden interior at 6 minutes walk to the “Sucre Theater”, stage of important events; among other places of great interest within the Colonial Quito such as museums, churches and historical sites.</div></div></div></div></div><div id="sppb-addon-wrapper-1668306307356" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307356" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-left"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1668306307356" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-rounded">Reserve now</a></div></div></div></div></div></div></div></div></div><div id="section-id-1668306307307" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1668306307308"><div id="column-id-1668306307308" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667961033764" class="sppb-addon-wrapper"><div id="sppb-addon-1667961033764" class="clearfix "     ><div id="sppb-carousel-1667961033764" data-interval="5000" class="sppb-carousel sppb-slide" data-sppb-ride="sppb-carousel"><div class="sppb-carousel-inner sppb-text-center"><div class="sppb-item sppb-item-16679610337640  sppb-item-has-bg active"><img src="/images/2022/11/09/inicio-segundario.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16679610337641  sppb-item-has-bg"><img src="/images/2022/11/09/inicio-segundario-1.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div><div class="sppb-item sppb-item-16679610337642  sppb-item-has-bg"><img src="/images/2022/11/09/inicio-segundario-2.png" alt=""><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"></div></div></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1668306307323"><div id="column-id-1668306307323" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1666961176181" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176181" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">FACILITIES</h3></div></div></div><div id="sppb-addon-wrapper-1668306307326" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307326" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1666961176183" class="sppb-addon-wrapper"><div id="sppb-addon-1666961176183" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">In each hall of the hotel there are living rooms and spaces to relax, enjoy a drink and admire all the decorative pieces, plants and architectural details that give personality and warmth to the hotel. The Guayasamín reading room has a wide literary selection and a permanent coffee station. Decorated with the paintings of the famous Ecuadorian painter Oswaldo Guayasamín.</div></div></div></div></div><div id="sppb-addon-wrapper-1668306307332" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307332" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-left"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1668306307332" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-rounded">Reserve now</a></div></div></div></div></div></div></div></div></div><div id="section-id-1668306307333" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1668306307334"><div id="column-id-1668306307334" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307342" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307342" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2022/10/30/superior-3.jpg"  alt="hotelpatioandaluz.com" title=""   /></div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1668306307339"><div id="column-id-1668306307339" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668306307345" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307345" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-left"><h3 class="sppb-addon-title">ROOMS </h3></div></div></div><div id="sppb-addon-wrapper-1668306307348" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307348" class="clearfix "     ><div class="sppb-addon-divider-wrap "><div class="sppb-divider sppb-divider-border "></div></div></div></div><div id="sppb-addon-wrapper-1668306307351" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307351" class=" sppb-wow fadeInLeft clearfix "  data-sppb-wow-duration="300ms"     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><div style="text-align: justify;">Make yourself at home in one of the 32 air-conditioned rooms featuring LED televisions. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with shower feature complimentary toiletries and hair dryers.</div></div></div></div></div><div id="sppb-addon-wrapper-1668306307290" class="sppb-addon-wrapper"><div id="sppb-addon-1668306307290" class=" sppb-wow bounceInRight clearfix "  data-sppb-wow-duration="1200ms" data-sppb-wow-delay="4ms"     ><div class="sppb-text-left"><a rel="noopener noreferrer" target="_blank" href="https://bookings.travelclick.com/115268#/guestsandrooms" id="btn-1668306307290" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-rounded">Reserve now</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section>
+			</div>
+</div>
+
+
+
+			</div>
+</main>
+</div>
+				
+</section>
+<footer id="sp-footer" >
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-footer1" class="col-lg-5 d-none d-sm-none d-md-none d-lg-block"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="126">
+	<div class="page-content">
+		<div id="section-id-1650435639327" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1650435639326"><div id="column-id-1650435639326" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1650435639330" class="sppb-addon-wrapper"><div id="sppb-addon-1650435639330" class="clearfix "     ><div class="sppb-addon sppb-addon-icons-group  icons-group-title-postion-top sppb-text-left"><p class="sppb-addon-title">SOCIAL LINKS</p><ul class="sppb-icons-group-list"><li id="icon-1650435639331" class=""><a href="https://www.facebook.com/hotelpatioandaluz/" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-facebook-f " aria-hidden="true" title="Icon group item"></i></a></li><li id="icon-1650435639332" class=""><a href="https://twitter.com/patioandaluz" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-twitter " aria-hidden="true" title="Icon group item"></i></a></li><li id="icon-1650435639333" class=""><a href="https://www.instagram.com/hotelpatioandaluz/" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-instagram " aria-hidden="true" title="Icon group item"></i></a></li></ul></div><style type="text/css">#sppb-addon-wrapper-1650435639330 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1650435639330 {
+	color: rgba(255, 255, 255, 0.6);
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1650435639330 {
+}
+#sppb-addon-1650435639330.sppb-element-loaded {
+}
+#sppb-addon-1650435639330 .sppb-addon-title {
+font-size:13px;line-height:24px;font-weight: 700;}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1650435639330 {}}@media (max-width: 767px) {#sppb-addon-1650435639330 {}}</style><style type="text/css">#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331{display: inline-block;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639331 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -5px;}}
+#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332{display: inline-block;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639332 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -5px;}}
+#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333{display: inline-block;}#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1650435639330 .sppb-icons-group-list li#icon-1650435639333 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1650435639330 .sppb-icons-group-list {margin: -5px;}}#sppb-addon-1650435639330 .sppb-addon-title {margin: 0px 0px 20px 0px; padding: 0px 0px 0px 0px; }@media (max-width: 767px) {#sppb-addon-1650435639330 .sppb-addon-title {margin: 0px 0px 10px 0px; }}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1668307412921{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1665885461670{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1665885461669{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1650435639327{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1650435639326{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div><span class="sp-copyright">© 2022 Hotelpatioandaluz Designed By www.webinsignia.com</span></div></div><div id="sp-footer2" class="col-lg-7 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="128">
+	<div class="page-content">
+		<div id="section-id-1668307412911" class="sppb-section sppb-hidden-md sppb-hidden-lg" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1668307412921"><div id="column-id-1668307412921" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668307412922" class="sppb-addon-wrapper"><div id="sppb-addon-1668307412922" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><div class="sppb-addon-content"><div style="text-align: center;"><strong>Dirección:</strong> García Moreno N6-52 entre Olmedo y Mejía, Quito - Ecuador</div>
+<div style="text-align: center;"><strong>Teléfonos:</strong> +(593-2) 22-80-830 - Ext: 100 y 121</div>
+<div style="text-align: center;"><strong>Whatsapp: </strong>+593 99 840 0286</div>
+<div style="text-align: center;"><a href="mailto:recepcion@hotelpatioandaluz.com">recepcion@hotelpatioandaluz.com</a></div></div></div><style type="text/css">#sppb-addon-wrapper-1668307412922 {
+margin:0px 0px 20px 0px;}
+#sppb-addon-1668307412922 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1668307412922 {
+}
+#sppb-addon-1668307412922.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1668307412922 {}}@media (max-width: 767px) {#sppb-addon-1668307412922 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1668307412923" class="sppb-addon-wrapper"><div id="sppb-addon-1668307412923" class="clearfix "     ><div class="sppb-addon sppb-addon-icons-group  icons-group-title-postion-top sppb-text-center"><ul class="sppb-icons-group-list"><li id="icon-1668307412924" class=""><a href="https://www.facebook.com/hotelpatioandaluz/" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-facebook-f " aria-hidden="true" title="Icon group item"></i></a></li><li id="icon-1668307412925" class=""><a href="https://twitter.com/patioandaluz" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-twitter " aria-hidden="true" title="Icon group item"></i></a></li><li id="icon-1668307412926" class=""><a href="https://www.instagram.com/hotelpatioandaluz/" aria-label="Icon group item" rel="noopener noreferrer" target="_blank"><i class="fab fa-instagram " aria-hidden="true" title="Icon group item"></i></a></li></ul></div><style type="text/css">#sppb-addon-wrapper-1668307412923 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1668307412923 {
+	color: rgba(255, 255, 255, 0.6);
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1668307412923 {
+}
+#sppb-addon-1668307412923.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1668307412923 {}}@media (max-width: 767px) {#sppb-addon-1668307412923 {}}</style><style type="text/css">#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924{display: inline-block;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412924 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -5px;}}
+#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925{display: inline-block;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412925 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -5px;}}
+#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926 a {height: 48px;margin: 7px;padding: 10px 0px 0px 0px;width: 48px;color: #ffffff;border-color: rgba(255, 255, 255, 0.1);border-style: solid;border-width: 1px;border-radius: 50px;font-size: 18px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926{display: inline-block;}#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926 a:hover {color: var(--link-color);border-color: var(--link-color);}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1668307412923 .sppb-icons-group-list li#icon-1668307412926 a {height: 40px;margin: 5px;padding: 8px 0px 0px 0px;width: 40px;font-size: 16px;}#sppb-addon-1668307412923 .sppb-icons-group-list {margin: -5px;}}#sppb-addon-1668307412923 .sppb-addon-title {margin: 0px 0px 20px 0px; padding: 0px 0px 0px 0px; }@media (max-width: 767px) {#sppb-addon-1668307412923 .sppb-addon-title {margin: 0px 0px 10px 0px; }}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1668307412921{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="137">
+	<div class="page-content">
+		<div id="section-id-1665885461670" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1665885461669"><div id="column-id-1665885461669" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1665885461673" class="sppb-addon-wrapper"><div id="sppb-addon-1665885461673" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><strong>Dirección:</strong> García Moreno N6-52 entre Olmedo y Mejía, Quito - Ecuador<br /><strong>Teléfonos:</strong> +(593-2) 22-80-830 - Ext: 100 y 121<br /><strong>Whatsapp: </strong>+593 99 840 0286<br /><a href="mailto:gventas@cialcotel.com">gventas@cialcotel.com</a></div></div><style type="text/css">#sppb-addon-wrapper-1665885461673 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1665885461673 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1665885461673 {
+}
+#sppb-addon-1665885461673.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1665885461673 {}}@media (max-width: 767px) {#sppb-addon-1665885461673 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1668307412911{padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px;} }#column-id-1668307412921{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1665885461670{padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1665885461669{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div></div></div></div>
+							</div>
+			</div>
+			
+</footer>			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-overlay"></div>
+		<!-- Rendering the offcanvas style -->
+		<!-- If canvas style selected then render the style -->
+		<!-- otherwise (for old templates) attach the offcanvas module position -->
+					<div class="offcanvas-menu border-menu center-alignment text-center">
+	<div class="d-flex align-items-center p-3 pt-4">
+		<div class="logo"><a href="/">
+				<img class='logo-image  d-none d-lg-inline-block'
+					srcset='https://www.hotelpatioandaluz.com/images/123oo.png 1x, '
+					src='https://www.hotelpatioandaluz.com/images/123oo.png'
+					alt='Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador'
+				/>
+				<img class="logo-image-phone d-inline-block d-lg-none" src="https://www.hotelpatioandaluz.com/images/movil-1.png" alt="Patio Andaluz Hotel Boutique | Hotel en Quito, Ecuador" /></a></div>		<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
+			<div class="burger-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</a>
+	</div>
+	<div class="offcanvas-inner">
+		<div class="d-flex header-modules p-3 mb-3">
+			
+					</div>
+		
+					<div class="menu-wrapper">
+				<div class="sp-module "><div class="sp-module-content"><ul class="menu nav-pills">
+<li class="item-495 current active"><a href="/" >HOME</a></li><li class="item-496"><span class="nav-header ">ROOMS </span></li><li class="item-497"><a href="/rooms/standard-room" >&gt;&gt; STANDARD ROOM</a></li><li class="item-498"><a href="/rooms/duplex-room" >&gt;&gt; DUPLEX ROOM</a></li><li class="item-499"><a href="/rooms/superior-room" >&gt;&gt; SUPERIOR ROOM</a></li><li class="item-501"><a href="/gastronomic/special-events" >SPECIAL EVENTS</a></li><li class="item-502"><a href="/gastronomic/culinary-experiences" >CULINARY EXPERIENCES</a></li><li class="item-503"><a href="/services/amenities-services" >AMENITIES &amp; SERVICES</a></li><li class="item-504"><a href="/exclusive-offers" >EXCLUSIVE OFFERS</a></li><li class="item-505"><a href="/services/local-attractions" >LOCAL ATTRACTIONS</a></li><li class="item-506"><a href="/location-contact" >CONTACT</a></li></ul>
+</div></div>			</div>
+		
+		
+				
+					
+		
+		<!-- custom module position -->
+		
+	</div>
+</div>				
+
+		
+		
+
+		<!-- Go to top -->
+					<script async src="https://gspeech.io/widget/7ac7dd96ef1f93b6b46b3d75efed0e12"></script>
+</body>
+</html>
